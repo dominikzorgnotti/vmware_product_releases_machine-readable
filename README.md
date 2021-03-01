@@ -1,0 +1,1 @@
+# vmware_product_releases_machine-readable
