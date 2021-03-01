@@ -1,0 +1,352 @@
+{
+    "1":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3l\u00a0(6.7.0.46000)",
+        "Release Date":"2020-11-19T00:00:00.000Z",
+        "VAMI\/Release Notes":"17138064",
+        "Client\/MOB\/vpxd.log":"17137327"
+    },
+    "2":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3k\u00a0(6.7.0.45100)",
+        "Release Date":"2020-10-22T00:00:00.000Z",
+        "VAMI\/Release Notes":"17028579",
+        "Client\/MOB\/vpxd.log":"17028632"
+    },
+    "3":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3j (6.7.0.45000)",
+        "Release Date":"2020-08-20T00:00:00.000Z",
+        "VAMI\/Release Notes":"16708996",
+        "Client\/MOB\/vpxd.log":"16709110"
+    },
+    "4":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3i (6.7.0.44200)",
+        "Release Date":"2020-07-30T00:00:00.000Z",
+        "VAMI\/Release Notes":"16616482",
+        "Client\/MOB\/vpxd.log":"16616668"
+    },
+    "5":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3h (6.7.0.44100)",
+        "Release Date":"2020-05-28T00:00:00.000Z",
+        "VAMI\/Release Notes":"16275304",
+        "Client\/MOB\/vpxd.log":"16243230"
+    },
+    "6":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3g (6.7.0.44000)",
+        "Release Date":"2020-04-28T00:00:00.000Z",
+        "VAMI\/Release Notes":"16046470",
+        "Client\/MOB\/vpxd.log":"16046713"
+    },
+    "7":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3f (6.7.0.43000)",
+        "Release Date":"2020-04-09T00:00:00.000Z",
+        "VAMI\/Release Notes":"15976714",
+        "Client\/MOB\/vpxd.log":"15976728"
+    },
+    "8":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3e (6.7.0.42300)",
+        "Release Date":"2020-03-26T00:00:00.000Z",
+        "VAMI\/Release Notes":"15808844",
+        "Client\/MOB\/vpxd.log":"15808844"
+    },
+    "9":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3d (6.7.0.42200)",
+        "Release Date":"2020-02-27T00:00:00.000Z",
+        "VAMI\/Release Notes":"15679281",
+        "Client\/MOB\/vpxd.log":"15679281"
+    },
+    "10":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3c (6.7.0.42100)",
+        "Release Date":"2020-01-30T00:00:00.000Z",
+        "VAMI\/Release Notes":"15505668",
+        "Client\/MOB\/vpxd.log":"15505668"
+    },
+    "11":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3b\u00a0(6.7.0.42000)",
+        "Release Date":"2019-12-05T00:00:00.000Z",
+        "VAMI\/Release Notes":"15132721",
+        "Client\/MOB\/vpxd.log":"15129973"
+    },
+    "12":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3a\u00a0(6.7.0.41000)",
+        "Release Date":"2019-10-24T00:00:00.000Z",
+        "VAMI\/Release Notes":"14836122",
+        "Client\/MOB\/vpxd.log":"14792544"
+    },
+    "13":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 3 (6.7.0.40000)",
+        "Release Date":"2019-08-20T00:00:00.000Z",
+        "VAMI\/Release Notes":"14367737",
+        "Client\/MOB\/vpxd.log":"14368073"
+    },
+    "14":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 2c\u00a0(6.7.0.32000)",
+        "Release Date":"2019-07-16T00:00:00.000Z",
+        "VAMI\/Release Notes":"14070457",
+        "Client\/MOB\/vpxd.log":"14070654"
+    },
+    "15":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 2b\u00a0(6.7.0.31100)",
+        "Release Date":"2019-05-30T00:00:00.000Z",
+        "VAMI\/Release Notes":"13843380",
+        "Client\/MOB\/vpxd.log":"13843469"
+    },
+    "16":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 Update 2a\u00a0(6.7.0.31000)",
+        "Release Date":"2019-05-14T00:00:00.000Z",
+        "VAMI\/Release Notes":"13643870",
+        "Client\/MOB\/vpxd.log":"13639324"
+    },
+    "17":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 U2\u00a0(6.7.0.30000)",
+        "Release Date":"2019-04-11T00:00:00.000Z",
+        "VAMI\/Release Notes":"13010631",
+        "Client\/MOB\/vpxd.log":"13007421"
+    },
+    "18":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 U1b (6.7.0.21000)",
+        "Release Date":"2019-01-17T00:00:00.000Z",
+        "VAMI\/Release Notes":"11726888",
+        "Client\/MOB\/vpxd.log":"11727113"
+    },
+    "19":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 U1a (6.7.0.20100)",
+        "Release Date":"2018-12-20T00:00:00.000Z",
+        "VAMI\/Release Notes":"11338176",
+        "Client\/MOB\/vpxd.log":"11338799"
+    },
+    "20":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 U1\u00a0(6.7.0.20000)",
+        "Release Date":"2018-10-16T00:00:00.000Z",
+        "VAMI\/Release Notes":"10244745",
+        "Client\/MOB\/vpxd.log":"10244857"
+    },
+    "21":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7d (6.7.0.14000)",
+        "Release Date":"2018-08-14T00:00:00.000Z",
+        "VAMI\/Release Notes":"9451876",
+        "Client\/MOB\/vpxd.log":"9433931"
+    },
+    "22":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7c (6.7.0.13000)",
+        "Release Date":"2018-07-26T00:00:00.000Z",
+        "VAMI\/Release Notes":"9232925",
+        "Client\/MOB\/vpxd.log":"9232942"
+    },
+    "23":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7b (6.7.0.12000)",
+        "Release Date":"2018-06-28T00:00:00.000Z",
+        "VAMI\/Release Notes":"8832884",
+        "Client\/MOB\/vpxd.log":"8833179"
+    },
+    "24":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7a (6.7.0.11000)",
+        "Release Date":"2018-05-22T00:00:00.000Z",
+        "VAMI\/Release Notes":"8546234",
+        "Client\/MOB\/vpxd.log":"8546293"
+    },
+    "25":{
+        "VCSA":"VCSA",
+        "Version":"vCenter Appliance 6.7 (6.7.0.10000)",
+        "Release Date":"2018-04-17T00:00:00.000Z",
+        "VAMI\/Release Notes":"8217866",
+        "Client\/MOB\/vpxd.log":"8170161"
+    },
+    "26":{
+        "VCSA":"Windows",
+        "Version":"Version",
+        "Release Date":null,
+        "VAMI\/Release Notes":"Registry\/Release Notes",
+        "Client\/MOB\/vpxd.log":"Client\/MOB\/vpxd.log"
+    },
+    "27":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3l",
+        "Release Date":"2020-11-19T00:00:00.000Z",
+        "VAMI\/Release Notes":"17138064",
+        "Client\/MOB\/vpxd.log":"17137232"
+    },
+    "28":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3k",
+        "Release Date":"2020-10-22T00:00:00.000Z",
+        "VAMI\/Release Notes":"17028579",
+        "Client\/MOB\/vpxd.log":"17028620"
+    },
+    "29":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3j",
+        "Release Date":"2020-08-20T00:00:00.000Z",
+        "VAMI\/Release Notes":"16708996",
+        "Client\/MOB\/vpxd.log":"16709044"
+    },
+    "30":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3i",
+        "Release Date":"2020-07-30T00:00:00.000Z",
+        "VAMI\/Release Notes":"16616482",
+        "Client\/MOB\/vpxd.log":"16616655"
+    },
+    "31":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3h",
+        "Release Date":"2020-05-28T00:00:00.000Z",
+        "VAMI\/Release Notes":"16275304",
+        "Client\/MOB\/vpxd.log":"16243225"
+    },
+    "32":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3g",
+        "Release Date":"2020-04-28T00:00:00.000Z",
+        "VAMI\/Release Notes":"16046470",
+        "Client\/MOB\/vpxd.log":"16046671"
+    },
+    "33":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3f",
+        "Release Date":"2020-04-09T00:00:00.000Z",
+        "VAMI\/Release Notes":"15976714",
+        "Client\/MOB\/vpxd.log":"15976721"
+    },
+    "34":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3e",
+        "Release Date":"2020-03-26T00:00:00.000Z",
+        "VAMI\/Release Notes":"15808844",
+        "Client\/MOB\/vpxd.log":"15807675"
+    },
+    "35":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3d",
+        "Release Date":"2020-02-27T00:00:00.000Z",
+        "VAMI\/Release Notes":"15679281",
+        "Client\/MOB\/vpxd.log":"15679284"
+    },
+    "36":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3c",
+        "Release Date":"2020-01-30T00:00:00.000Z",
+        "VAMI\/Release Notes":"15505668",
+        "Client\/MOB\/vpxd.log":"15505671"
+    },
+    "37":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3b\u00a0(6.7.0.42000)",
+        "Release Date":"2019-12-05T00:00:00.000Z",
+        "VAMI\/Release Notes":"15132721",
+        "Client\/MOB\/vpxd.log":"15129938"
+    },
+    "38":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3a\u00a0(6.7.0.41000)",
+        "Release Date":"2019-10-24T00:00:00.000Z",
+        "VAMI\/Release Notes":"14836122",
+        "Client\/MOB\/vpxd.log":"14792528"
+    },
+    "39":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 3\u00a0(6.7.0.40000)",
+        "Release Date":"2019-08-20T00:00:00.000Z",
+        "VAMI\/Release Notes":"14367737",
+        "Client\/MOB\/vpxd.log":"14368027"
+    },
+    "40":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 2b\u00a0(6.7.0.31100)",
+        "Release Date":"2019-05-14T00:00:00.000Z",
+        "VAMI\/Release Notes":"13843380",
+        "Client\/MOB\/vpxd.log":"13843469"
+    },
+    "41":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 Update 2a\u00a0(6.7.0.31000)",
+        "Release Date":"2019-05-14T00:00:00.000Z",
+        "VAMI\/Release Notes":"13643870",
+        "Client\/MOB\/vpxd.log":"13638830"
+    },
+    "42":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 U2\u00a0(6.7.0.30000)",
+        "Release Date":"2019-04-11T00:00:00.000Z",
+        "VAMI\/Release Notes":"13010631",
+        "Client\/MOB\/vpxd.log":"13007157"
+    },
+    "43":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 U1b\u00a0(6.7.0.21000)",
+        "Release Date":"2019-01-17T00:00:00.000Z",
+        "VAMI\/Release Notes":"11726888",
+        "Client\/MOB\/vpxd.log":"11727065"
+    },
+    "44":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7\u00a0U1\u00a0(6.7.0.20000)",
+        "Release Date":"2018-10-16T00:00:00.000Z",
+        "VAMI\/Release Notes":"10244745",
+        "Client\/MOB\/vpxd.log":"10244807"
+    },
+    "45":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7d (6.7.0.14000)",
+        "Release Date":"2018-08-14T00:00:00.000Z",
+        "VAMI\/Release Notes":"9451876",
+        "Client\/MOB\/vpxd.log":"9433894"
+    },
+    "46":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7c (6.7.0.13000)",
+        "Release Date":"2018-07-26T00:00:00.000Z",
+        "VAMI\/Release Notes":"9232925",
+        "Client\/MOB\/vpxd.log":"9232933"
+    },
+    "47":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7b (6.7.0.12000)",
+        "Release Date":"2018-06-28T00:00:00.000Z",
+        "VAMI\/Release Notes":"8832884",
+        "Client\/MOB\/vpxd.log":"8833120"
+    },
+    "48":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7a (6.7.0.11000)",
+        "Release Date":"2018-05-22T00:00:00.000Z",
+        "VAMI\/Release Notes":"8546234",
+        "Client\/MOB\/vpxd.log":"8546281"
+    },
+    "49":{
+        "VCSA":"Windows",
+        "Version":"vCenter Windows 6.7 (6.7.0.10000)",
+        "Release Date":"2018-04-17T00:00:00.000Z",
+        "VAMI\/Release Notes":"8217866",
+        "Client\/MOB\/vpxd.log":"8170087"
+    },
+    "50":{
+        "VCSA":"Windows",
+        "Version":null,
+        "Release Date":null,
+        "VAMI\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null
+    }
+}

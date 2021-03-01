@@ -1,0 +1,1280 @@
+{
+    "17551050":{
+        "Version":"ESXi 7.0 Update 1d",
+        "Release Name":"ESXi 7.0 Update 1d",
+        "Release Date":"2021-02-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17325551":{
+        "Version":"ESXi 7.0 Update 1c",
+        "Release Name":"ESXi 7.0 Update 1c",
+        "Release Date":"2020-12-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17325020":{
+        "Version":"ESXi 7.0 Update 1c (security Only)",
+        "Release Name":"ESXi 7.0 Update 1c (security Only)",
+        "Release Date":"2020-12-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17168206":{
+        "Version":"ESXi 7.0 Update 1b",
+        "Release Name":"ESXi 7.0 Update 1b",
+        "Release Date":"2020-11-19T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17119627":{
+        "Version":"ESXi 7.0 Update 1a",
+        "Release Name":"ESXi 7.0 Update 1a",
+        "Release Date":"2020-11-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16850804":{
+        "Version":"ESXi 7.0 Update 1",
+        "Release Name":"ESXi 7.0 Update 1",
+        "Release Date":"2020-10-06T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16324942":{
+        "Version":"ESXi 7.0b",
+        "Release Name":"ESXi 7.0b",
+        "Release Date":"2020-06-23T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "15843807":{
+        "Version":"ESXi 7.0 GA",
+        "Release Name":"ESXi 7.0 GA",
+        "Release Date":"2020-04-02T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17499825":{
+        "Version":"ESXI\u00a06.7 EP18",
+        "Release Name":"ESXi670-202102001",
+        "Release Date":"2021-02-23T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17167734":{
+        "Version":"ESXi 6.7 P04",
+        "Release Name":"ESXi 670-202011002",
+        "Release Date":"2020-11-19T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17098360":{
+        "Version":"ESXi 6.7 EP 17",
+        "Release Name":"ESXi670-202011001",
+        "Release Date":"2020-11-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16773714":{
+        "Version":"ESXi 6.7 EP 16",
+        "Release Name":"ESXi670-202010001",
+        "Release Date":"2020-10-15T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16713306":{
+        "Version":"ESXi 6.7 P03",
+        "Release Name":"ESXi670-202008001",
+        "Release Date":"2020-08-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16316930":{
+        "Version":"ESXi 6.7 EP 15",
+        "Release Name":"ESXi670-202006001",
+        "Release Date":"2020-06-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16075168":{
+        "Version":"ESXi 6.7 P02",
+        "Release Name":"ESXi670-202004002",
+        "Release Date":"2020-04-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "15820472":{
+        "Version":"ESXi 6.7 EP 14",
+        "Release Name":"ESXi670-202004001",
+        "Release Date":"2020-04-07T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "15160138":{
+        "Version":"ESXi 6.7 P01",
+        "Release Name":"ESXi670-201912001",
+        "Release Date":"2019-12-05T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "15018017":{
+        "Version":"ESXi 6.7 EP 13",
+        "Release Name":"ESXi670-201911001",
+        "Release Date":"2019-11-12T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "14320388":{
+        "Version":"ESXi 6.7 Update 3",
+        "Release Name":"ESXi 6.7 U3",
+        "Release Date":"2019-08-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13981272":{
+        "Version":"ESXi 6.7 EP 10",
+        "Release Name":"ESXi670-201906002",
+        "Release Date":"2019-06-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13644319":{
+        "Version":"ESXi 6.7 EP 09",
+        "Release Name":"ESXi670-201905001",
+        "Release Date":"2019-05-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13473784":{
+        "Version":"ESXi 6.7 EP 08",
+        "Release Name":"ESXi670-201904001",
+        "Release Date":"2019-04-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13006603":{
+        "Version":"ESXi 6.7 U2",
+        "Release Name":"ESXi 6.7 U2",
+        "Release Date":"2019-04-11T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13004448":{
+        "Version":"ESXi 6.7 EP 07",
+        "Release Name":"ESXi670-201903001",
+        "Release Date":"2019-03-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "11675023":{
+        "Version":"ESXi 6.7 EP 06",
+        "Release Name":"ESXi670-201901001",
+        "Release Date":"2019-01-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10764712":{
+        "Version":"ESXi 6.7 EP 05",
+        "Release Name":"ESXi670-201811001",
+        "Release Date":"2018-11-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10302608":{
+        "Version":"ESXi 6.7 U1",
+        "Release Name":"ESXi 6.7 U1",
+        "Release Date":"2018-10-16T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10176752":{
+        "Version":"ESXi 6.7 EP 04",
+        "Release Name":"ESXi670-201810001",
+        "Release Date":"2018-10-02T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "9484548":{
+        "Version":"ESXi 6.7 EP 03",
+        "Release Name":"ESXi670-201808001",
+        "Release Date":"2018-08-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "9214924":{
+        "Version":"ESXi 6.7 EP 02a",
+        "Release Name":"ESXi670-201807001",
+        "Release Date":"2018-07-26T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "8941472":{
+        "Version":"ESXi 6.7 EP 02",
+        "Release Name":"ESXi670-201806001",
+        "Release Date":"2018-06-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "8169922":{
+        "Version":"ESXi 6.7 GA",
+        "Release Name":"ESXi 6.7 GA",
+        "Release Date":"2018-04-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17477841":{
+        "Version":"ESXi 6.5 P06",
+        "Release Name":"ESXi650-202102001",
+        "Release Date":"2021-02-23T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17167537":{
+        "Version":"ESXi 6.5 EP 23",
+        "Release Name":"ESXi 650-202011002",
+        "Release Date":"2020-11-19T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "17097218":{
+        "Version":"ESXi 6.5 EP 22",
+        "Release Name":"ESXi650-202011001",
+        "Release Date":"2020-11-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16901156":{
+        "Version":"ESXi 6.5 EP 21",
+        "Release Name":"ESXi650-202010001",
+        "Release Date":"2020-10-15T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16576891":{
+        "Version":"ESXi 6.5 P05",
+        "Release Name":"ESXi650-202007001",
+        "Release Date":"2020-07-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16389870":{
+        "Version":"ESXi 6.5 EP 20",
+        "Release Name":"ESXi650-202006001",
+        "Release Date":"2020-06-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "16207673":{
+        "Version":"ESXi 6.5 EP 19",
+        "Release Name":"ESXi650-202005001",
+        "Release Date":"2020-05-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "15256549":{
+        "Version":"ESXi 6.5 P04",
+        "Release Name":"ESXi650-201912002",
+        "Release Date":"2019-12-19T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "15177306":{
+        "Version":"ESXi 6.5 EP 18",
+        "Release Name":"ESXi650-201912001",
+        "Release Date":"2019-12-05T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "14990892":{
+        "Version":"ESXi 6.5 EP 17",
+        "Release Name":"ESXi650-201911001",
+        "Release Date":"2019-11-12T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "14874964":{
+        "Version":"ESXi 6.5 EP 16",
+        "Release Name":"ESXi650-201910001",
+        "Release Date":"2019-10-24T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "14320405":{
+        "Version":"ESXi 6.5 EP 15",
+        "Release Name":"ESXi650-201908001",
+        "Release Date":"2019-08-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13932383":{
+        "Version":"ESXi 6.5 Update 3",
+        "Release Name":"ESXi 6.5 Update 3",
+        "Release Date":"2019-07-02T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13635690":{
+        "Version":"ESXi 6.5 EP 14",
+        "Release Name":"ESXi650-201905001",
+        "Release Date":"2019-05-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13004031":{
+        "Version":"ESXi 6.5 EP 13",
+        "Release Name":"ESXi650-201903001",
+        "Release Date":"2019-03-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "11925212":{
+        "Version":"ESXi 6.5 EP 12",
+        "Release Name":"ESXi650-201901001",
+        "Release Date":"2019-01-31T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10884925":{
+        "Version":"ESXi 6.5 P03",
+        "Release Name":"ESXi650-201811002",
+        "Release Date":"2018-11-29T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10719125":{
+        "Version":"ESXi 6.5 EP 11",
+        "Release Name":"ESXi650-201811001",
+        "Release Date":"2018-11-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10390116":{
+        "Version":"ESXi 6.5 EP 10",
+        "Release Name":"ESXi650-201810002",
+        "Release Date":"2018-10-23T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10175896":{
+        "Version":"ESXi 6.5 EP 09",
+        "Release Name":"ESXi650-201810001",
+        "Release Date":"2018-10-02T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "9298722":{
+        "Version":"ESXi 6.5 U2C",
+        "Release Name":"ESXi650-201808001",
+        "Release Date":"2018-08-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "8935087":{
+        "Version":"ESXi 6.5 U2b",
+        "Release Name":"ESXi650-201806001",
+        "Release Date":"2018-06-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "8294253":{
+        "Version":"ESXi 6.5 U2 GA",
+        "Release Name":"ESXi 6.5 U2 GA",
+        "Release Date":"2018-05-03T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "7967591":{
+        "Version":"ESXi 6.5 U1g",
+        "Release Name":"ESXi650-201803001",
+        "Release Date":"2018-03-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "7388607":{
+        "Version":"ESXi 6.5 Patch 02",
+        "Release Name":"ESXi650-201712001",
+        "Release Date":"2017-12-19T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "6765664":{
+        "Version":"ESXi 6.5 U1 Express Patch 4",
+        "Release Name":"ESXi650-201710001",
+        "Release Date":"2017-10-05T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5969303":{
+        "Version":"ESXi 6.5 U1",
+        "Release Name":"ESXi 6.5 U1",
+        "Release Date":"2017-07-27T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5310538":{
+        "Version":"ESXi 6.5.0d",
+        "Release Name":"ESXi650-201704001",
+        "Release Date":"2017-04-18T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5224529":{
+        "Version":"ESXi 6.5. Express Patch 1a",
+        "Release Name":"ESXi650-201703002",
+        "Release Date":"2017-03-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5146846":{
+        "Version":"ESXi 6.5. Patch 01",
+        "Release Name":"ESXi650-201703001",
+        "Release Date":"2017-03-09T00:00:00.000Z",
+        "Installer Build Number":"5146843"
+    },
+    "4887370":{
+        "Version":"ESXi 6.5.0 a",
+        "Release Name":"ESXi650-201701001",
+        "Release Date":"2017-02-02T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "4564106":{
+        "Version":"ESXi 6.5 GA",
+        "Release Name":"ESXi 6.5 GA",
+        "Release Date":"2016-11-15T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "15517548":{
+        "Version":"ESXi 6.0 EP 25",
+        "Release Name":"ESXi600-202002001",
+        "Release Date":"2020-02-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "15169789":{
+        "Version":"ESXi 6.0 EP 23",
+        "Release Name":"ESXi600-201912001",
+        "Release Date":"2019-12-05T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "14513180":{
+        "Version":"ESXi 6.0 P08",
+        "Release Name":"ESXi600-201909001",
+        "Release Date":"2019-09-12T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "15018929":{
+        "Version":"ESXi 6.0 EP 22",
+        "Release Name":"ESXi600-201911001",
+        "Release Date":"2019-11-12T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13635687":{
+        "Version":"ESXi 6.0 EP 21",
+        "Release Name":"ESXi600-201905001",
+        "Release Date":"2019-05-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13003896":{
+        "Version":"ESXi 6.0 EP 20",
+        "Release Name":"ESXi600-201903001",
+        "Release Date":"2019-03-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10719132":{
+        "Version":"ESXi 6.0 EP 19",
+        "Release Name":"ESXi600-201811001",
+        "Release Date":"2018-11-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10474991":{
+        "Version":"ESXi 6.0 EP 18",
+        "Release Name":"ESXi600-201810001",
+        "Release Date":"2018-10-23T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "9919195":{
+        "Version":"ESXi 6.0 EP 17",
+        "Release Name":"ESXi600-201809001",
+        "Release Date":"2018-09-13T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "9313334":{
+        "Version":"ESXi 6.0 EP 15",
+        "Release Name":"ESXi600-201808001",
+        "Release Date":"2018-08-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "9239799":{
+        "Version":"ESXi 6.0 P07",
+        "Release Name":"ESXi600-201807001",
+        "Release Date":"2018-07-26T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "8934903":{
+        "Version":"ESXi 6.0 U3f",
+        "Release Name":"ESXi600-201806001",
+        "Release Date":"2018-06-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "7967664":{
+        "Version":"ESXi 6.0 U3e",
+        "Release Name":"ESXi600-201803001",
+        "Release Date":"2018-03-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "7504637":{
+        "Version":"ESXi 6.0 U3d",
+        "Release Name":"ESXi600-201801001",
+        "Release Date":"2018-01-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "6921384":{
+        "Version":"ESXi 6.0 Patch 6",
+        "Release Name":"ESXi600-201711001",
+        "Release Date":"2017-11-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "6765062":{
+        "Version":"ESXi 6.0 Express Patch 11",
+        "Release Name":"ESXi600-201710001",
+        "Release Date":"2017-10-05T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5572656":{
+        "Version":"ESXi 6.0 Update 3a (ESXi 6.0 Patch 5)",
+        "Release Name":"ESXi600-201706001",
+        "Release Date":"2017-06-06T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5251623":{
+        "Version":"ESXi 6.0 Express Patch 7c",
+        "Release Name":"ESXi600-201703003",
+        "Release Date":"2017-03-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5251621":{
+        "Version":"ESXi 6.0 Update 1 (VMSA-2017-0006)",
+        "Release Name":"ESXi600-201703002",
+        "Release Date":null,
+        "Installer Build Number":null
+    },
+    "5224934":{
+        "Version":"ESXi 6.0 Express Patch 7a",
+        "Release Name":"ESXi600-201703001",
+        "Release Date":"2017-03-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5050593":{
+        "Version":"ESXi 6.0 Update 3",
+        "Release Name":"ESXi 6.0 Update 3",
+        "Release Date":"2017-02-24T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "4600944":{
+        "Version":"ESXi 6.0 Patch 4",
+        "Release Name":"ESXi600-201611001",
+        "Release Date":"2016-11-22T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "4510822":{
+        "Version":"ESXi 6.0 Express Patch 7",
+        "Release Name":"ESXi600-201610001",
+        "Release Date":"2016-10-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "4192238":{
+        "Version":"ESXi 6.0 Patch 3",
+        "Release Name":"ESXi600-201608001",
+        "Release Date":"2016-08-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3825889":{
+        "Version":"ESXi 6.0 Express Patch 6",
+        "Release Name":"ESXi600-201605001",
+        "Release Date":"2016-05-12T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3620759":{
+        "Version":"ESXi 6.0 Update 2",
+        "Release Name":"ESXi 6.0 Update 2",
+        "Release Date":"2016-03-16T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3568940":{
+        "Version":"ESXi 6.0 Express Patch 5",
+        "Release Name":"ESXi600-201602001",
+        "Release Date":"2016-02-23T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3380124":{
+        "Version":"ESXi 6.0 Update 1b",
+        "Release Name":"ESXi600-201601001",
+        "Release Date":"2016-01-07T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3247720":{
+        "Version":"ESXi 6.0 Express Patch 4",
+        "Release Name":"ESXi600-201511001",
+        "Release Date":"2015-11-25T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3073146":{
+        "Version":"ESXi 6.0 U1a (Express Patch 3)",
+        "Release Name":"ESXi600-201510001",
+        "Release Date":"2015-10-06T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3029758":{
+        "Version":"ESXi 6.0 U1",
+        "Release Name":"ESXi 6.0 U1",
+        "Release Date":"2015-09-10T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2809209":{
+        "Version":"ESXi 6.0.0b",
+        "Release Name":"ESXi600-201507001",
+        "Release Date":"2015-07-07T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2715440":{
+        "Version":"ESXi 6.0 Express Patch 2",
+        "Release Name":"ESXi600-201505001",
+        "Release Date":"2015-05-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2615704":{
+        "Version":"ESXi 6.0 Express Patch 1",
+        "Release Name":"ESXi600-201504001",
+        "Release Date":"2015-04-09T00:00:00.000Z",
+        "Installer Build Number":"2615979"
+    },
+    "2494585":{
+        "Version":"ESXi 6.0 GA",
+        "Release Name":"ESXi 6.0 GA",
+        "Release Date":"2015-03-12T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "9919047":{
+        "Version":"ESXi 5.5 U3k",
+        "Release Name":"ESXi550-201809001",
+        "Release Date":"2018-09-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "9313066":{
+        "Version":"ESXi 5.5 U3J",
+        "Release Name":"ESXi550-201808001",
+        "Release Date":"2018-08-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "8934887":{
+        "Version":"ESXi 5.5 U3i",
+        "Release Name":"ESXi550-201806001",
+        "Release Date":"2018-06-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "7967571":{
+        "Version":"ESXi 5.5 U3h",
+        "Release Name":"ESXi550-201803001",
+        "Release Date":"2018-03-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "7618464":{
+        "Version":"ESXi 5.5 Express Patch 13",
+        "Release Name":"ESXi550-201801002",
+        "Release Date":"2018-01-22T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "6480324":{
+        "Version":"ESXi 5.5 Update 3f",
+        "Release Name":"ESXi550-201709001",
+        "Release Date":"2017-09-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5230635":{
+        "Version":"ESXi 5.5 Express Patch 11",
+        "Release Name":"ESXi550-201703001",
+        "Release Date":"2017-03-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "4722766":{
+        "Version":"ESXi 5.5 Patch 10",
+        "Release Name":"ESXi550-201612001",
+        "Release Date":"2016-12-20T00:00:00.000Z",
+        "Installer Build Number":"4761836"
+    },
+    "4345813":{
+        "Version":"ESXi 5.5 Patch 9",
+        "Release Name":"ESXi550-201609001",
+        "Release Date":"2016-09-15T00:00:00.000Z",
+        "Installer Build Number":"4362114"
+    },
+    "4179633":{
+        "Version":"ESXi 5.5 Patch 8",
+        "Release Name":"ESXi550-201608001",
+        "Release Date":"2016-08-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3568722":{
+        "Version":"ESXi 5.5 Express Patch 10",
+        "Release Name":"ESXi550-201602001",
+        "Release Date":"2016-02-21T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3343343":{
+        "Version":"ESXi 5.5 Express Patch 9",
+        "Release Name":"ESXi550-201601001",
+        "Release Date":"2016-01-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3248547":{
+        "Version":"ESXi 5.5 Update 3b",
+        "Release Name":"ESXi550-201512001",
+        "Release Date":"2015-12-08T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3116895":{
+        "Version":"ESXi 5.5 Update 3a",
+        "Release Name":"ESXi550-201510001",
+        "Release Date":"2015-10-06T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3029944":{
+        "Version":"ESXi 5.5 Update 3",
+        "Release Name":"ESXi 5.5 Update 3",
+        "Release Date":"2015-09-16T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2718055":{
+        "Version":"ESXi 5.5 Patch 5 re-release",
+        "Release Name":"ESXi550-201505002",
+        "Release Date":"2015-05-08T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2638301":{
+        "Version":"ESXi 5.5 Express Patch 7",
+        "Release Name":"ESXi550-201504001",
+        "Release Date":"2015-04-07T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2456374":{
+        "Version":"ESXi 5.5 Express Patch 6",
+        "Release Name":"ESXi550-201502001",
+        "Release Date":"2015-02-05T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2403361":{
+        "Version":"ESXi 5.5 Patch 4",
+        "Release Name":"ESXi550-201501001",
+        "Release Date":"2015-01-27T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2302651":{
+        "Version":"ESXi 5.5 Express Patch 5",
+        "Release Name":"ESXi550-201412001",
+        "Release Date":"2014-12-02T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2143827":{
+        "Version":"ESXi 5.5 Patch 3",
+        "Release Name":"ESXi550-201410001",
+        "Release Date":"2014-10-15T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2068190":{
+        "Version":"ESXi 5.5 Update 2",
+        "Release Name":"ESXi 5.5 Update 2",
+        "Release Date":"2014-09-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1892794":{
+        "Version":"ESXi 5.5 Patch 2",
+        "Release Name":"ESXi550-201407001",
+        "Release Date":"2014-07-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1881737":{
+        "Version":"ESXi 5.5 Express Patch 4",
+        "Release Name":"ESXi550-201406001",
+        "Release Date":"2014-06-10T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1746018":{
+        "Version":"ESXi 5.5 Update 1a",
+        "Release Name":"ESXi550-201404001",
+        "Release Date":"2014-04-19T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1746974":{
+        "Version":"ESXi 5.5 Express Patch 3",
+        "Release Name":"ESXi550-201404020",
+        "Release Date":"2014-04-19T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1623387":{
+        "Version":"ESXi 5.5 Update 1",
+        "Release Name":"ESXi 5.5 Update 1",
+        "Release Date":"2014-03-11T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1474528":{
+        "Version":"ESXi 5.5 Patch 1",
+        "Release Name":"ESXi550-201312001",
+        "Release Date":"2013-12-22T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1331820":{
+        "Version":"ESXi 5.5 GA",
+        "Release Name":"ESXi 5.5 GA",
+        "Release Date":"2013-09-22T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3872664":{
+        "Version":"ESXi 5.1 Patch 9",
+        "Release Name":"ESXi 5.1 Patch 9",
+        "Release Date":"2016-05-24T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3070626":{
+        "Version":"ESXi 5.1 Patch 8",
+        "Release Name":"ESXi 5.1 Patch 8",
+        "Release Date":"2015-10-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2583090":{
+        "Version":"ESXi 5.1 Patch 7",
+        "Release Name":"ESXi 5.1 Patch 7",
+        "Release Date":"2015-03-26T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2323236":{
+        "Version":"ESXi 5.1 Update 3",
+        "Release Name":"ESXi 5.1 Update 3",
+        "Release Date":"2014-12-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2191751":{
+        "Version":"ESXi 5.1 Patch 6",
+        "Release Name":"ESXi 5.1 Patch 6",
+        "Release Date":"2014-10-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2000251":{
+        "Version":"ESXi 5.1 Patch 5",
+        "Release Name":"ESXi 5.1 Patch 5",
+        "Release Date":"2014-07-31T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1900470":{
+        "Version":"ESXi 5.1 Express Patch 5",
+        "Release Name":"ESXi 5.1 Express Patch 5",
+        "Release Date":"2014-06-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1743533":{
+        "Version":"ESXi 5.1 Patch 4",
+        "Release Name":"ESXi 5.1 Patch 4",
+        "Release Date":"2014-04-29T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1612806":{
+        "Version":"ESXi 5.1 Express Patch 4",
+        "Release Name":"ESXi 5.1 Express Patch 4",
+        "Release Date":"2014-02-27T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1483097":{
+        "Version":"ESXi 5.1 Update 2",
+        "Release Name":"ESXi 5.1 Update 2",
+        "Release Date":"2014-01-16T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1312873":{
+        "Version":"ESXi 5.1 Patch 3",
+        "Release Name":"ESXi 5.1 Patch 3",
+        "Release Date":"2013-10-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1157734":{
+        "Version":"ESXi 5.1 Patch 2",
+        "Release Name":"ESXi 5.1 Patch 2",
+        "Release Date":"2013-07-25T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1117900":{
+        "Version":"ESXi 5.1 Express Patch 3",
+        "Release Name":"ESXi 5.1 Express Patch 3",
+        "Release Date":"2013-05-23T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1065491":{
+        "Version":"ESXi 5.1 Update 1",
+        "Release Name":"ESXi 5.1 Update 1",
+        "Release Date":"2013-04-25T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1021289":{
+        "Version":"ESXi 5.1 Express Patch 2",
+        "Release Name":"ESXi 5.1 Express Patch 2",
+        "Release Date":"2013-03-07T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "914609":{
+        "Version":"ESXi 5.1 Patch 1",
+        "Release Name":"ESXi 5.1 Patch 1",
+        "Release Date":"2012-12-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "838463":{
+        "Version":"ESXi 5.1.0a",
+        "Release Name":"ESXi 5.1.0a",
+        "Release Date":"2012-10-25T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "799733":{
+        "Version":"ESXi 5.1.0 GA",
+        "Release Name":"ESXi 5.1.0 GA",
+        "Release Date":"2012-09-10T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3982828":{
+        "Version":"ESXi 5.0 Patch 13",
+        "Release Name":"ESXi 5.0 Patch 13",
+        "Release Date":"2016-06-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3086167":{
+        "Version":"ESXi 5.0 Patch 12",
+        "Release Name":"ESXi 5.0 Patch 12",
+        "Release Date":"2015-10-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2509828":{
+        "Version":"ESXi 5.0 Patch 11",
+        "Release Name":"ESXi 5.0 Patch 11",
+        "Release Date":"2015-02-24T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2312428":{
+        "Version":"ESXi 5.0 Patch 10",
+        "Release Name":"ESXi 5.0 Patch 10",
+        "Release Date":"2014-12-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2000308":{
+        "Version":"ESXi 5.0 Patch 9",
+        "Release Name":"ESXi 5.0 Patch 9",
+        "Release Date":"2014-08-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1918656":{
+        "Version":"ESXi 5.0 Express Patch 6",
+        "Release Name":"ESXi 5.0 Express Patch 6",
+        "Release Date":"2014-07-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1851670":{
+        "Version":"ESXi 5.0 Patch 8",
+        "Release Name":"ESXi 5.0 Patch 8",
+        "Release Date":"2014-05-29T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1489271":{
+        "Version":"ESXi 5.0 Patch 7",
+        "Release Name":"ESXi 5.0 Patch 7",
+        "Release Date":"2014-01-23T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1311175":{
+        "Version":"ESXi 5.0 Update 3",
+        "Release Name":"ESXi 5.0 Update 3",
+        "Release Date":"2013-10-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1254542":{
+        "Version":"ESXi 5.0 Patch 6",
+        "Release Name":"ESXi 5.0 Patch 6",
+        "Release Date":"2013-08-29T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1117897":{
+        "Version":"ESXi 5.0 Express Patch 5",
+        "Release Name":"ESXi 5.0 Express Patch 5",
+        "Release Date":"2013-05-15T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1024429":{
+        "Version":"ESXi 5.0 Patch 5",
+        "Release Name":"ESXi 5.0 Patch 5",
+        "Release Date":"2013-03-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "914586":{
+        "Version":"ESXi 5.0 Update 2",
+        "Release Name":"ESXi 5.0 Update 2",
+        "Release Date":"2012-12-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "821926":{
+        "Version":"ESXi 5.0 Patch 4",
+        "Release Name":"ESXi 5.0 Patch 4",
+        "Release Date":"2012-09-27T00:00:00.000Z",
+        "Installer Build Number":"822948"
+    },
+    "768111":{
+        "Version":"ESXi 5.0 Patch 3",
+        "Release Name":"ESXi 5.0 Patch 3",
+        "Release Date":"2012-07-12T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "721882":{
+        "Version":"ESXi 5.0 Express Patch 4",
+        "Release Name":"ESXi 5.0 Express Patch 4",
+        "Release Date":"2012-06-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "702118":{
+        "Version":"ESXi 5.0 Express Patch 3",
+        "Release Name":"ESXi 5.0 Express Patch 3",
+        "Release Date":"2012-05-03T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "653509":{
+        "Version":"ESXi 5.0 Express Patch 2",
+        "Release Name":"ESXi 5.0 Express Patch 2",
+        "Release Date":"2012-04-12T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "623860":{
+        "Version":"ESXi 5.0 Update 1",
+        "Release Name":"ESXi 5.0 Update 1",
+        "Release Date":"2012-03-15T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "515841":{
+        "Version":"ESXi 5.0 Patch 2",
+        "Release Name":"ESXi 5.0 Patch 2",
+        "Release Date":"2011-12-15T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "504890":{
+        "Version":"ESXi 5.0 Express Patch 1",
+        "Release Name":"ESXi 5.0 Express Patch 1",
+        "Release Date":"2011-11-03T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "474610":{
+        "Version":"ESXi 5.0 Patch 1",
+        "Release Name":"ESXi 5.0 Patch 1",
+        "Release Date":"2011-09-13T00:00:00.000Z",
+        "Installer Build Number":"474643"
+    },
+    "469512":{
+        "Version":"ESXi 5.0 GA",
+        "Release Name":"ESXi 5.0 GA",
+        "Release Date":"2011-08-24T00:00:00.000Z",
+        "Installer Build Number":"469965"
+    },
+    "2168595":{
+        "Version":"ESX 4.1 Patch 11a",
+        "Release Name":"ESX 4.1 Patch 11a",
+        "Release Date":"2014-10-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1682698":{
+        "Version":"ESXi\/ESX 4.1 Patch 11",
+        "Release Name":"ESXi\/ESX 4.1 Patch 11",
+        "Release Date":"2014-04-10T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1363503":{
+        "Version":"ESXi\/ESX 4.1 Patch 10",
+        "Release Name":"ESXi\/ESX 4.1 Patch 10",
+        "Release Date":"2013-12-05T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1198252":{
+        "Version":"ESXi\/ESX 4.1 Patch 9",
+        "Release Name":"ESXi\/ESX 4.1 Patch 9",
+        "Release Date":"2013-07-31T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1050704":{
+        "Version":"ESXi\/ESX 4.1 Patch 8",
+        "Release Name":"ESXi\/ESX 4.1 Patch 8",
+        "Release Date":"2013-04-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "988178":{
+        "Version":"ESXi\/ESX 4.1 Patch 7",
+        "Release Name":"ESXi\/ESX 4.1 Patch 7",
+        "Release Date":"2013-01-31T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "874690":{
+        "Version":"ESXi\/ESX 4.1 Patch 6",
+        "Release Name":"ESXi\/ESX 4.1 Patch 6",
+        "Release Date":"2012-11-15T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "721871":{
+        "Version":"ESXi\/ESX 4.1 Express Patch 3",
+        "Release Name":"ESXi\/ESX 4.1 Express Patch 3",
+        "Release Date":"2012-06-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "702113":{
+        "Version":"ESXi\/ESX 4.1 Express Patch 2-1",
+        "Release Name":"ESXi\/ESX 4.1 Express Patch 2-1",
+        "Release Date":"2012-05-03T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "659051":{
+        "Version":"ESXi\/ESX 4.1 Patch 5",
+        "Release Name":"ESXi\/ESX 4.1 Patch 5",
+        "Release Date":"2012-04-26T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "582267":{
+        "Version":"ESXi\/ESX 4.1 Patch 4",
+        "Release Name":"ESXi\/ESX 4.1 Patch 4",
+        "Release Date":"2012-01-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "800380":{
+        "Version":"ESXi\/ESX 4.1 Update 3",
+        "Release Name":"ESXi\/ESX 4.1 Update 3",
+        "Release Date":"2012-08-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "502767":{
+        "Version":"ESXi\/ESX 4.1 Update 2",
+        "Release Name":"ESXi\/ESX 4.1 Update 2",
+        "Release Date":"2011-10-27T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "433742":{
+        "Version":"ESXi\/ESX 4.1 Patch 3",
+        "Release Name":"ESXi\/ESX 4.1 Patch 3",
+        "Release Date":"2011-07-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "351620":{
+        "Version":"ESXi 4.1 Update 1",
+        "Release Name":"ESXi 4.1 Update 1",
+        "Release Date":"2011-02-10T00:00:00.000Z",
+        "Installer Build Number":"348481"
+    },
+    "351621":{
+        "Version":"ESX 4.1 Update 1",
+        "Release Name":"ESX 4.1 Update 1",
+        "Release Date":"2011-02-10T00:00:00.000Z",
+        "Installer Build Number":"348481"
+    },
+    "320381":{
+        "Version":"ESX 4.1 Express Patch 1",
+        "Release Name":"ESX 4.1 Express Patch 1",
+        "Release Date":"2010-11-30T00:00:00.000Z",
+        "Installer Build Number":"320137"
+    },
+    "320092":{
+        "Version":"ESX 4.1 Patch 1",
+        "Release Name":"ESX 4.1 Patch 1",
+        "Release Date":"2010-11-16T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "260247":{
+        "Version":"ESX 4.1 GA",
+        "Release Name":"ESX 4.1 GA",
+        "Release Date":"2010-07-13T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2167889":{
+        "Version":"ESX 4.0 Patch 15",
+        "Release Name":"ESX 4.0 Patch 15",
+        "Release Date":"2014-10-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1335992":{
+        "Version":"ESX 4.0 Patch 14",
+        "Release Name":"ESX 4.0 Patch 14",
+        "Release Date":"2013-10-24T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1070634":{
+        "Version":"ESX 4.0 Patch 13",
+        "Release Name":"ESX 4.0 Patch 13",
+        "Release Date":"2012-05-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "989856":{
+        "Version":"ESX 4.0 Express Patch 9",
+        "Release Name":"ESX 4.0 Express Patch 9",
+        "Release Date":"2013-02-07T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "787047":{
+        "Version":"ESX 4.0 Patch 12",
+        "Release Name":"ESX 4.0 Patch 12",
+        "Release Date":"2012-09-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "721907":{
+        "Version":"ESX 4.0 Express Patch 8",
+        "Release Name":"ESX 4.0 Express Patch 8",
+        "Release Date":"2012-06-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "702116":{
+        "Version":"ESX 4.0 Express Patch 7",
+        "Release Name":"ESX 4.0 Express Patch 7",
+        "Release Date":"2012-05-03T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "660575":{
+        "Version":"ESX 4.0 Patch 11",
+        "Release Name":"ESX 4.0 Patch 11",
+        "Release Date":"2012-03-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "523315":{
+        "Version":"ESXi 4.0 Update 4",
+        "Release Name":"ESXi 4.0 Update 4",
+        "Release Date":"2011-11-17T00:00:00.000Z",
+        "Installer Build Number":"504850"
+    },
+    "480973":{
+        "Version":"ESX 4.0 Patch 10",
+        "Release Name":"ESX 4.0 Patch 10",
+        "Release Date":"2011-10-13T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "403554":{
+        "Version":"ESXi 4.0 Update 3",
+        "Release Name":"ESXi 4.0 Update 3",
+        "Release Date":"2011-05-05T00:00:00.000Z",
+        "Installer Build Number":"398348"
+    },
+    "403553":{
+        "Version":"ESX 4.0 Update 3",
+        "Release Name":"ESX 4.0 Update 3",
+        "Release Date":"2011-05-05T00:00:00.000Z",
+        "Installer Build Number":"398348"
+    },
+    "360236":{
+        "Version":"ESX 4.0 Patch 9",
+        "Release Name":"ESX 4.0 Patch 9",
+        "Release Date":"2011-03-07T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "332073":{
+        "Version":"ESX 4.0 Patch 8",
+        "Release Name":"ESX 4.0 Patch 8",
+        "Release Date":"2011-01-04T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "294855":{
+        "Version":"ESX 4.0 Patch 7",
+        "Release Name":"ESX 4.0 Patch 7",
+        "Release Date":"2010-09-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "261974":{
+        "Version":"ESX 4.0 Update 2",
+        "Release Name":"ESX 4.0 Update 2",
+        "Release Date":"2010-06-10T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "256968":{
+        "Version":"ESX 4.0 Patch 6",
+        "Release Name":"ESX 4.0 Patch 6",
+        "Release Date":"2010-05-27T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "244038":{
+        "Version":"ESX 4.0 Patch 5",
+        "Release Name":"ESX 4.0 Patch 5",
+        "Release Date":"2010-04-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "236512":{
+        "Version":"ESX 4.0 Patch 4",
+        "Release Name":"ESX 4.0 Patch 4",
+        "Release Date":"2010-03-03T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "219382":{
+        "Version":"ESX 4.0 Patch 3",
+        "Release Name":"ESX 4.0 Patch 3",
+        "Release Date":"2010-01-06T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "208167":{
+        "Version":"ESX 4.0 Update 1",
+        "Release Name":"ESX 4.0 Update 1",
+        "Release Date":"2009-11-19T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "193498":{
+        "Version":"ESX 4.0 Patch 2",
+        "Release Name":"ESX 4.0 Patch 2",
+        "Release Date":"2009-09-24T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "175625":{
+        "Version":"ESX 4.0 Patch 1",
+        "Release Name":"ESX 4.0 Patch 1",
+        "Release Date":"2009-07-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "171294":{
+        "Version":"ESX 4.0 Eval & Free Download",
+        "Release Name":"ESX 4.0 Eval & Free Download",
+        "Release Date":null,
+        "Installer Build Number":null
+    },
+    "164009":{
+        "Version":"ESX 4.0 GA",
+        "Release Name":"ESX 4.0 GA",
+        "Release Date":"2009-05-21T00:00:00.000Z",
+        "Installer Build Number":null
+    }
+}

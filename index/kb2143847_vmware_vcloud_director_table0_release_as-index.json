@@ -1,0 +1,272 @@
+{
+    "285979":{
+        "Version":"vCloud Director 1.0 GA",
+        "Release Date":"2010-08-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "356485":{
+        "Version":"vCloud Director 1.0.1",
+        "Release Date":"2011-02-11T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "464915":{
+        "Version":"vCloud Director 1.5",
+        "Release Date":"2011-09-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "515166":{
+        "Version":"vCloud Connector 1.5",
+        "Release Date":"2011-11-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "622704":{
+        "Version":"vCloud Director 1.5.1",
+        "Release Date":"2012-04-16T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "810718":{
+        "Version":"vCloud Director 5.1",
+        "Release Date":"2012-09-10T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "868405":{
+        "Version":"vCloud Director 5.1.1",
+        "Release Date":"2012-10-25T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "924077":{
+        "Version":"vCloud Director 1.5.2",
+        "Release Date":"2012-12-10T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1068441":{
+        "Version":"vCloud Director 5.1.2",
+        "Release Date":"2013-04-25T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1323688":{
+        "Version":"vCloud Director 5.5GA",
+        "Release Date":"2013-09-02T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1489357":{
+        "Version":"vCloud Director 5.1.3",
+        "Release Date":"2014-01-16T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1654672":{
+        "Version":"vCloud Director 5.5.1",
+        "Release Date":"2014-03-11T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1753992":{
+        "Version":"vCloud Director 5.5.1.1",
+        "Release Date":"2014-04-20T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1881717":{
+        "Version":"vCloud Director 5.5.1.2",
+        "Release Date":"2014-06-12T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "1881640":{
+        "Version":"vCloud Director 5.1.3.1",
+        "Release Date":"2014-07-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2000523":{
+        "Version":"vCloud Director 5.5.2",
+        "Release Date":"2014-09-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2170358":{
+        "Version":"vCloud Director 5.5.1.3",
+        "Release Date":"2014-10-01T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2116763":{
+        "Version":"vCloud Director 5.6.3 for Service Providers",
+        "Release Date":"2014-10-07T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2233543":{
+        "Version":"vCloud Director 5.5.2.1",
+        "Release Date":"2014-10-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2578696":{
+        "Version":"vCloud Director 5.5.3",
+        "Release Date":"2015-03-23T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2619597":{
+        "Version":"vCloud Director 5.6.4.1 for Service Providers",
+        "Release Date":"2015-04-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "2831206":{
+        "Version":"vCloud Director 5.5.4",
+        "Release Date":"2015-07-09T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3017494":{
+        "Version":"vCloud Director 8.0 for Service Providers",
+        "Release Date":"2015-09-10T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3153714":{
+        "Version":"vCloud Director 5.5.5",
+        "Release Date":"2015-10-22T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3307437":{
+        "Version":"vCloud Director 5.6.5 for Service Providers",
+        "Release Date":"2015-12-10T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3635340":{
+        "Version":"vCloud Director 8.0.1 for Service Providers",
+        "Release Date":"2016-03-15T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3764659":{
+        "Version":"vCloud Director 5.5.6",
+        "Release Date":"2016-04-14T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3814538":{
+        "Version":"vCloud Director 5.5.6.1",
+        "Release Date":"2016-05-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3864078":{
+        "Version":"vCloud Director 8.0.1.1 for Service Providers",
+        "Release Date":"2016-05-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3814650":{
+        "Version":"vCloud Director 5.6.5.1 for Service Providers",
+        "Release Date":"2016-05-17T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "3879706":{
+        "Version":"vCloud Director 8.10 for Service Providers",
+        "Release Date":"2016-05-26T00:00:00.000Z",
+        "Installer Build Number":"3880025"
+    },
+    "4655197":{
+        "Version":"vCloud Director 8.10.1 for Service Providers",
+        "Release Date":"2016-12-06T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "5070630":{
+        "Version":"vCloud Director 8.2 for Service Providers",
+        "Release Date":"2017-02-21T00:00:00.000Z",
+        "Installer Build Number":"5070903"
+    },
+    "6875354":{
+        "Version":"vCloud Director 8.20.0.2 for Service Providers",
+        "Release Date":"2017-03-19T00:00:00.000Z",
+        "Installer Build Number":"6875852"
+    },
+    "5439762":{
+        "Version":"vCloud Director 8.20.0.1 for Service Providers",
+        "Release Date":"2017-05-18T00:00:00.000Z",
+        "Installer Build Number":"5515092"
+    },
+    "6679579":{
+        "Version":"vCloud Director 9.0 for Service Providers",
+        "Release Date":"2017-09-17T00:00:00.000Z",
+        "Installer Build Number":"6681978"
+    },
+    "6878548":{
+        "Version":"vCloud Director 8.10.1.1 for Service Providers",
+        "Release Date":"2017-10-19T00:00:00.000Z",
+        "Installer Build Number":"6883868"
+    },
+    "7033385":{
+        "Version":"vCloud Director 9.0.0.1 for Service Providers",
+        "Release Date":"2017-11-11T00:00:00.000Z",
+        "Installer Build Number":"7034009"
+    },
+    "7553273":{
+        "Version":"vCloud Director 9.0.0.2 for Service Providers",
+        "Release Date":"2018-01-16T00:00:00.000Z",
+        "Installer Build Number":"7554058"
+    },
+    "7905839":{
+        "Version":"vCloud Director 9.1 for Service Providers",
+        "Release Date":"2018-03-08T00:00:00.000Z",
+        "Installer Build Number":"7905680"
+    },
+    "9841134":{
+        "Version":"vCloud Director 9.0.0.3 for Service Providers",
+        "Release Date":"2018-08-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "9814592":{
+        "Version":"vCloud Director 8.20.0.3 for Service Providers",
+        "Release Date":"2018-08-30T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "10266189":{
+        "Version":"vCloud Director 9.5.0.0 for Service Providers",
+        "Release Date":"2018-10-04T00:00:00.000Z",
+        "Installer Build Number":"10264774"
+    },
+    "10585452":{
+        "Version":"vCloud Director 9.1.0.2 for Service Providers",
+        "Release Date":"2018-11-06T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "11038216":{
+        "Version":"vCloud Director 9.5.0.1 for Service Providers",
+        "Release Date":"2018-12-13T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "11994470":{
+        "Version":"vCloud Director 9.1.0.3 for Service Providers",
+        "Release Date":"2019-01-29T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "12810525":{
+        "Version":"vCloud Director 9.5.0.2 for Service Providers",
+        "Release Date":"2019-03-21T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "12990033":{
+        "Version":"vCloud Director 9.7.0.0 for Service Providers",
+        "Release Date":"2019-03-28T00:00:00.000Z",
+        "Installer Build Number":"12989839"
+    },
+    "12985626":{
+        "Version":"vCloud Director 9.5.0.3 for Service Providers",
+        "Release Date":"2019-03-28T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "13635483":{
+        "Version":"vCloud Director 9.7.0.1 for Service Providers",
+        "Release Date":"2019-05-16T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "14046945":{
+        "Version":"vCloud Director 9.7.0.2 for Service Providers",
+        "Release Date":"2019-07-02T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "14106983":{
+        "Version":"vCloud Director 9.5.0.4 for Service Providers",
+        "Release Date":"2019-07-11T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "14535248":{
+        "Version":"vCloud Director 9.7.0.3 for Service Providers",
+        "Release Date":"2019-09-05T00:00:00.000Z",
+        "Installer Build Number":null
+    },
+    "14638910":{
+        "Version":"vCloud Director 10.0.0.0 for Service Providers",
+        "Release Date":"2019-09-19T00:00:00.000Z",
+        "Installer Build Number":"14636284"
+    }
+}
