@@ -1,0 +1,88 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"Version",
+                "type":"string"
+            },
+            {
+                "name":"Release Date",
+                "type":"datetime"
+            },
+            {
+                "name":"Build Number",
+                "type":"string"
+            },
+            {
+                "name":"Installer Build Number",
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"0.20.0"
+    },
+    "data":[
+        {
+            "index":1,
+            "Version":"vCenter Chargeback 2.7.3",
+            "Release Date":"2017-03-14T00:00:00.000Z",
+            "Build Number":"5128839",
+            "Installer Build Number":null
+        },
+        {
+            "index":2,
+            "Version":"vCenter Chargeback 2.7.2",
+            "Release Date":"2016-03-20T00:00:00.000Z",
+            "Build Number":"4483989",
+            "Installer Build Number":null
+        },
+        {
+            "index":3,
+            "Version":"vCenter Chargeback 2.7.1",
+            "Release Date":"2016-04-28T00:00:00.000Z",
+            "Build Number":"3770406",
+            "Installer Build Number":null
+        },
+        {
+            "index":4,
+            "Version":"vCenter Chargeback 2.6.0",
+            "Release Date":"2013-12-10T00:00:00.000Z",
+            "Build Number":"1445187",
+            "Installer Build Number":null
+        },
+        {
+            "index":5,
+            "Version":"vCenter Chargeback 2.0.1",
+            "Release Date":"2012-03-08T00:00:00.000Z",
+            "Build Number":"643764",
+            "Installer Build Number":null
+        },
+        {
+            "index":6,
+            "Version":"vCenter Chargeback 2.0",
+            "Release Date":"2011-11-30T00:00:00.000Z",
+            "Build Number":"532574",
+            "Installer Build Number":null
+        },
+        {
+            "index":7,
+            "Version":"vCenter Chargeback 1.6.2",
+            "Release Date":"2011-09-01T00:00:00.000Z",
+            "Build Number":"472877",
+            "Installer Build Number":null
+        },
+        {
+            "index":8,
+            "Version":"vCenter Chargeback 1.5",
+            "Release Date":"2010-08-30T00:00:00.000Z",
+            "Build Number":"292472",
+            "Installer Build Number":null
+        }
+    ]
+}

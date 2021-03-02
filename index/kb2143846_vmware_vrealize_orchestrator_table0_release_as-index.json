@@ -1,0 +1,140 @@
+{
+    "1":{
+        "Product Release":"vRealize Orchestrator 8.3",
+        "Release Date":"2021-02-05T00:00:00.000Z",
+        "Build Number - Version":"17535332 - 8.3.0.15012",
+        "Installer Build Number":null
+    },
+    "2":{
+        "Product Release":"vRealize Orchestrator 8.2 P1",
+        "Release Date":"2020-11-12T00:00:00.000Z",
+        "Build Number - Version":"17157891 - 8.2.0.13070",
+        "Installer Build Number":null
+    },
+    "3":{
+        "Product Release":"vRealize Orchestrator 8.2",
+        "Release Date":"2020-10-06T00:00:00.000Z",
+        "Build Number - Version":"16995073 - 8.2.0.12949",
+        "Installer Build Number":null
+    },
+    "4":{
+        "Product Release":"vRealize Orchestrator 8.1 P3",
+        "Release Date":"2020-10-03T00:00:00.000Z",
+        "Build Number - Version":"16984307 - 8.1.0.9703",
+        "Installer Build Number":null
+    },
+    "5":{
+        "Product Release":"vRealize Orchestrator 8.1 P2",
+        "Release Date":"2020-07-29T00:00:00.000Z",
+        "Build Number - Version":"16631446 - 8.1.0.9582",
+        "Installer Build Number":null
+    },
+    "6":{
+        "Product Release":"vRealize Orchestrator 8.1 P1",
+        "Release Date":"2020-06-29T00:00:00.000Z",
+        "Build Number - Version":"16419934 -\u00a08.1.0.9465",
+        "Installer Build Number":null
+    },
+    "7":{
+        "Product Release":"vRealize Orchestrator 8.1",
+        "Release Date":"2020-04-14T00:00:00.000Z",
+        "Build Number - Version":"15995344 - 8.1.0.9326",
+        "Installer Build Number":null
+    },
+    "8":{
+        "Product Release":"vRealize Orchestrator 8.0.1",
+        "Release Date":"2019-12-19T00:00:00.000Z",
+        "Build Number - Version":"15296158 - 8.0.1.7355",
+        "Installer Build Number":null
+    },
+    "9":{
+        "Product Release":"vRealize Orchestrator 8.0",
+        "Release Date":"2019-10-17T00:00:00.000Z",
+        "Build Number - Version":"14878026 - 8.0.0.6622",
+        "Installer Build Number":null
+    },
+    "10":{
+        "Product Release":"vRealize Orchestrator 7.6.0",
+        "Release Date":"2019-04-11T00:00:00.000Z",
+        "Build Number - Version":"13020602 - 7.6.0.317",
+        "Installer Build Number":null
+    },
+    "11":{
+        "Product Release":"vRealize Orchestrator 7.5.0",
+        "Release Date":"2018-09-20T00:00:00.000Z",
+        "Build Number - Version":"10110089 - 7.5.0.458",
+        "Installer Build Number":null
+    },
+    "12":{
+        "Product Release":"vRealize Orchestrator 7.4.0",
+        "Release Date":"2018-04-12T00:00:00.000Z",
+        "Build Number - Version":"8074344 - 7.4.0.23619",
+        "Installer Build Number":null
+    },
+    "13":{
+        "Product Release":"vRealize Orchestrator 7.3.1",
+        "Release Date":"2017-03-15T00:00:00.000Z",
+        "Build Number - Version":"8002898 - 7.3.1.21641",
+        "Installer Build Number":null
+    },
+    "14":{
+        "Product Release":"vRealize Orchestrator 7.3.0",
+        "Release Date":"2017-05-16T00:00:00.000Z",
+        "Build Number - Version":"5521409 - 7.3.0.21553",
+        "Installer Build Number":null
+    },
+    "15":{
+        "Product Release":"vRealize Orchestrator 7.2.0",
+        "Release Date":"2016-11-22T00:00:00.000Z",
+        "Build Number - Version":"4629837 - 7.2.0.19944",
+        "Installer Build Number":null
+    },
+    "16":{
+        "Product Release":"vRealize Orchestrator 7.1.0",
+        "Release Date":"2016-08-23T00:00:00.000Z",
+        "Build Number - Version":"4276164 - 7.1.0.19044",
+        "Installer Build Number":null
+    },
+    "17":{
+        "Product Release":"vRealize Orchestrator 5.5.2.1",
+        "Release Date":"2014-10-01T00:00:00.000Z",
+        "Build Number - Version":"2179237 - 5.5.2.1",
+        "Installer Build Number":null
+    },
+    "18":{
+        "Product Release":"vRealize Orchestrator 5.1.2",
+        "Release Date":"2014-01-16T00:00:00.000Z",
+        "Build Number - Version":"1484033 - 5.1.2.1930",
+        "Installer Build Number":null
+    },
+    "19":{
+        "Product Release":"vRealize Orchestrator 5.1.1",
+        "Release Date":"2013-04-25T00:00:00.000Z",
+        "Build Number - Version":"1063805 - 5.1.1-2942",
+        "Installer Build Number":null
+    },
+    "20":{
+        "Product Release":"vRealize Orchestrator 5.1.0",
+        "Release Date":"2012-09-10T00:00:00.000Z",
+        "Build Number - Version":"817595 - 5.1.0.848",
+        "Installer Build Number":null
+    },
+    "21":{
+        "Product Release":"vRealize Orchestrator 5.0",
+        "Release Date":"2012-06-13T00:00:00.000Z",
+        "Build Number - Version":null,
+        "Installer Build Number":null
+    },
+    "22":{
+        "Product Release":"vRealize Orchestrator 4.3.2",
+        "Release Date":"2013-10-17T00:00:00.000Z",
+        "Build Number - Version":"1164950 - 4.2.3.1521",
+        "Installer Build Number":null
+    },
+    "23":{
+        "Product Release":"vRealize Orchestrator 4.2",
+        "Release Date":"2011-10-19T00:00:00.000Z",
+        "Build Number - Version":"507352 - 4.2.0.112",
+        "Installer Build Number":null
+    }
+}

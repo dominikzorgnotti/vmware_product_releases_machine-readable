@@ -1,0 +1,284 @@
+[
+    {
+        "Version":"Update\u00a0Manager\u00a06.7 Update 3g",
+        "Release Date":"2020-04-28T00:00:00.000Z",
+        "Build Number":"16043853",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.7 Update 3b",
+        "Release Date":"2019-12-05T00:00:00.000Z",
+        "Build Number":"15124069",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.7 Update 3",
+        "Release Date":"2019-08-20T00:00:00.000Z",
+        "Build Number":"14203538",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.7 Update 2",
+        "Release Date":"2019-04-11T00:00:00.000Z",
+        "Build Number":"12990444",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.7 Update 1",
+        "Release Date":"2018-10-16T00:00:00.000Z",
+        "Build Number":"10164201",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.7.0c",
+        "Release Date":"2018-07-26T00:00:00.000Z",
+        "Build Number":"9031744",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.7",
+        "Release Date":null,
+        "Build Number":"8169861",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.5 Update 3f",
+        "Release Date":"2019-12-19T00:00:00.000Z",
+        "Build Number":"15228521",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.5 Update 3",
+        "Release Date":"2019-07-02T00:00:00.000Z",
+        "Build Number":"13927963",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.5 Update 2",
+        "Release Date":"2018-05-03T00:00:00.000Z",
+        "Build Number":"8305924",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.5 Update 1d",
+        "Release Date":"2017-12-19T00:00:00.000Z",
+        "Build Number":"7199715",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.5 Update 1",
+        "Release Date":"2017-07-27T00:00:00.000Z",
+        "Build Number":"5939545",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update\u00a0Manager\u00a06.5",
+        "Release Date":null,
+        "Build Number":"4540462",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 6.0 Update 3c",
+        "Release Date":"2017-11-09T00:00:00.000Z",
+        "Build Number":"6827125",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 6.0 Update 3",
+        "Release Date":"2017-02-24T00:00:00.000Z",
+        "Build Number":"5041505",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 6.0 Update 2",
+        "Release Date":"2016-03-15T00:00:00.000Z",
+        "Build Number":"3545890",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 6.0 Update 1",
+        "Release Date":"2015-09-10T00:00:00.000Z",
+        "Build Number":"2945804",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 6.0 Express Patch 1",
+        "Release Date":"2015-04-16T00:00:00.000Z",
+        "Build Number":"2621470",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 6.0 GA",
+        "Release Date":"2015-03-12T00:00:00.000Z",
+        "Build Number":"2503190",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.5 Update 3f",
+        "Release Date":"2017-09-14T00:00:00.000Z",
+        "Build Number":"6516310",
+        "Installer Build Number":"6520252"
+    },
+    {
+        "Version":"Update Manager 5.5 Update 3e",
+        "Release Date":"2016-08-04T00:00:00.000Z",
+        "Build Number":"4118384",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.5 Update 3",
+        "Release Date":"2015-09-16T00:00:00.000Z",
+        "Build Number":"2735933",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.5 Update 2e",
+        "Release Date":"2015-04-16T00:00:00.000Z",
+        "Build Number":"2595792",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.5 Update 2",
+        "Release Date":"2014-09-09T00:00:00.000Z",
+        "Build Number":"2061929",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.5 Update 1b",
+        "Release Date":"2014-06-12T00:00:00.000Z",
+        "Build Number":"1888318",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.5 Update 1",
+        "Release Date":"2014-03-11T00:00:00.000Z",
+        "Build Number":"1622153",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.5 GA",
+        "Release Date":"2013-09-22T00:00:00.000Z",
+        "Build Number":"1302474",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.1 U3",
+        "Release Date":"2014-12-04T00:00:00.000Z",
+        "Build Number":"2303976",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.1 U2",
+        "Release Date":"2014-01-16T00:00:00.000Z",
+        "Build Number":"1471702",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.1 U1",
+        "Release Date":"2013-04-25T00:00:00.000Z",
+        "Build Number":"1022478",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.1 GA",
+        "Release Date":"2012-09-10T00:00:00.000Z",
+        "Build Number":"782803",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.0 U3",
+        "Release Date":"2013-10-17T00:00:00.000Z",
+        "Build Number":"1333303",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.0 U2",
+        "Release Date":"2012-12-20T00:00:00.000Z",
+        "Build Number":"919983",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.0 U1",
+        "Release Date":"2012-03-15T00:00:00.000Z",
+        "Build Number":"639867",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 5.0 GA",
+        "Release Date":"2011-08-24T00:00:00.000Z",
+        "Build Number":"432001",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.1 U3",
+        "Release Date":"2012-08-30T00:00:00.000Z",
+        "Build Number":"816769",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.1 U2",
+        "Release Date":"2011-10-27T00:00:00.000Z",
+        "Build Number":"493048",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.1 U1",
+        "Release Date":"2011-02-10T00:00:00.000Z",
+        "Build Number":"341095",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.1 GA",
+        "Release Date":"2010-07-13T00:00:00.000Z",
+        "Build Number":"275390",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.1",
+        "Release Date":null,
+        "Build Number":"256596",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.0 U4",
+        "Release Date":"2011-11-17T00:00:00.000Z",
+        "Build Number":"502336",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.0 U3",
+        "Release Date":"2011-05-05T00:00:00.000Z",
+        "Build Number":"387643",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.0 U2",
+        "Release Date":"2010-06-10T00:00:00.000Z",
+        "Build Number":"264019",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.0 U2",
+        "Release Date":"2010-06-10T00:00:00.000Z",
+        "Build Number":"264019",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.0 U1 P1",
+        "Release Date":"2010-02-25T00:00:00.000Z",
+        "Build Number":"231675",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.0 U1",
+        "Release Date":"2009-11-19T00:00:00.000Z",
+        "Build Number":"233997",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"Update Manager 4.0 GA",
+        "Release Date":"2009-05-21T00:00:00.000Z",
+        "Build Number":null,
+        "Installer Build Number":null
+    }
+]

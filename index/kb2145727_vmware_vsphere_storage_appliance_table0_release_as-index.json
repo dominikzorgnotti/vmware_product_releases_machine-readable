@@ -1,0 +1,219 @@
+{
+    "1":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance 1.0",
+        "Release Date":"2012-08-24T00:00:00.000Z",
+        "Appliance":null,
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "2":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Manager Installer 1.0",
+        "Release Date":null,
+        "Appliance":"458417",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "3":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Automated Installer 1.0",
+        "Release Date":null,
+        "Appliance":"458467",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "4":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance 5.1",
+        "Release Date":"2012-09-10T00:00:00.000Z",
+        "Appliance":null,
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "5":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Manager Installer 5.1",
+        "Release Date":null,
+        "Appliance":"825249",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "6":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Automated Installer 5.1",
+        "Release Date":null,
+        "Appliance":"825285",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "7":{
+        "vSphere Storage Appliance version":"Standalone VSA Cluster Service 5.1",
+        "Release Date":null,
+        "Appliance":null,
+        "Windows installer":"825249",
+        "Linux installer":"825153"
+    },
+    "8":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance 5.1.1",
+        "Release Date":"2012-10-25T00:00:00.000Z",
+        "Appliance":null,
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "9":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Manager Installer 5.1.1",
+        "Release Date":null,
+        "Appliance":"859703",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "10":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Automated Installer 5.1.1",
+        "Release Date":null,
+        "Appliance":"859703",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "11":{
+        "vSphere Storage Appliance version":"Standalone VSA Cluster Service 5.1.1",
+        "Release Date":null,
+        "Appliance":null,
+        "Windows installer":"859644",
+        "Linux installer":"858549"
+    },
+    "12":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance 5.1.3",
+        "Release Date":"2012-04-25T00:00:00.000Z",
+        "Appliance":null,
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "13":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Manager Installer 5.1.3",
+        "Release Date":null,
+        "Appliance":"1090394",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "14":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Automated Installer 5.1.3",
+        "Release Date":null,
+        "Appliance":"1090545",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "15":{
+        "vSphere Storage Appliance version":"Standalone VSA Cluster Service 5.1.3",
+        "Release Date":null,
+        "Appliance":null,
+        "Windows installer":"1090394",
+        "Linux installer":"1090155"
+    },
+    "16":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance 5.5",
+        "Release Date":"2013-09-22T00:00:00.000Z",
+        "Appliance":null,
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "17":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Manager Installer 5.5",
+        "Release Date":null,
+        "Appliance":"1279992",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "18":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Automated Installer 5.5",
+        "Release Date":null,
+        "Appliance":"1279992",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "19":{
+        "vSphere Storage Appliance version":"Standalone VSA Cluster Service 5.5",
+        "Release Date":null,
+        "Appliance":null,
+        "Windows installer":"1279860",
+        "Linux installer":"1276100"
+    },
+    "20":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance 5.5.1",
+        "Release Date":"2014-03-11T00:00:00.000Z",
+        "Appliance":null,
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "21":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Manager Installer 5.5.1",
+        "Release Date":null,
+        "Appliance":"1606928",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "22":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Automated Installer 5.5.1",
+        "Release Date":null,
+        "Appliance":"1606928",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "23":{
+        "vSphere Storage Appliance version":"Standalone VSA Cluster Service 5.5.1",
+        "Release Date":null,
+        "Appliance":null,
+        "Windows installer":"1606662",
+        "Linux installer":"1606311"
+    },
+    "24":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance 5.5.2",
+        "Release Date":"2014-10-01T00:00:00.000Z",
+        "Appliance":null,
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "25":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Manager Installer 5.5.2",
+        "Release Date":null,
+        "Appliance":"2171621",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "26":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Automated Installer 5.5.2",
+        "Release Date":null,
+        "Appliance":"2171621",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "27":{
+        "vSphere Storage Appliance version":"Standalone VSA Cluster Service 5.5.2",
+        "Release Date":null,
+        "Appliance":null,
+        "Windows installer":"2171579",
+        "Linux installer":"2171046"
+    },
+    "28":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance 5.5.6",
+        "Release Date":"2016-04-04T00:00:00.000Z",
+        "Appliance":null,
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "29":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Manager Installer 5.5.6",
+        "Release Date":null,
+        "Appliance":"3671407",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "30":{
+        "vSphere Storage Appliance version":"vSphere Storage Appliance Automated Installer 5.5.6",
+        "Release Date":null,
+        "Appliance":"3671148",
+        "Windows installer":null,
+        "Linux installer":null
+    },
+    "31":{
+        "vSphere Storage Appliance version":"Standalone VSA Cluster Service 5.5.6",
+        "Release Date":null,
+        "Appliance":null,
+        "Windows installer":"3671148",
+        "Linux installer":"3670316"
+    }
+}

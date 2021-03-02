@@ -1,0 +1,109 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"Version",
+                "type":"string"
+            },
+            {
+                "name":"Release Date",
+                "type":"datetime"
+            },
+            {
+                "name":"Build Number",
+                "type":"string"
+            },
+            {
+                "name":"Installer Build Number",
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"0.20.0"
+    },
+    "data":[
+        {
+            "index":1,
+            "Version":"vCloud Networking and Security 5.5.4.3",
+            "Release Date":"2016-06-09T00:00:00.000Z",
+            "Build Number":"3953973",
+            "Installer Build Number":null
+        },
+        {
+            "index":2,
+            "Version":"vCloud Networking and Security 5.5.4.2",
+            "Release Date":"2016-03-02T00:00:00.000Z",
+            "Build Number":"3601672",
+            "Installer Build Number":null
+        },
+        {
+            "index":3,
+            "Version":"vCloud Networking and Security 5.5.4.1",
+            "Release Date":"2015-04-30T00:00:00.000Z",
+            "Build Number":"2673026",
+            "Installer Build Number":null
+        },
+        {
+            "index":4,
+            "Version":"vCloud Networking and Security 5.5.4",
+            "Release Date":"2015-03-12T00:00:00.000Z",
+            "Build Number":"2504419",
+            "Installer Build Number":null
+        },
+        {
+            "index":5,
+            "Version":"vCloud Networking and Security 5.5.3.1",
+            "Release Date":"2014-10-03T00:00:00.000Z",
+            "Build Number":"2175697",
+            "Installer Build Number":null
+        },
+        {
+            "index":6,
+            "Version":"vCloud Networking and Security 5.5.3",
+            "Release Date":"2014-09-09T00:00:00.000Z",
+            "Build Number":"2081508",
+            "Installer Build Number":null
+        },
+        {
+            "index":7,
+            "Version":"vCloud Networking and Security 5.5.2.1",
+            "Release Date":"2014-06-20T00:00:00.000Z",
+            "Build Number":"1912200",
+            "Installer Build Number":null
+        },
+        {
+            "index":8,
+            "Version":"vCloud Networking and Security 5.5.2",
+            "Release Date":"2014-04-16T00:00:00.000Z",
+            "Build Number":"1740418",
+            "Installer Build Number":null
+        },
+        {
+            "index":9,
+            "Version":"vCloud Networking and Security 5.5.0a",
+            "Release Date":"2013-12-22T00:00:00.000Z",
+            "Build Number":"1473628",
+            "Installer Build Number":null
+        },
+        {
+            "index":10,
+            "Version":"vCloud Networking and Security 5.5",
+            "Release Date":"2013-09-22T00:00:00.000Z",
+            "Build Number":"1317534",
+            "Installer Build Number":null
+        },
+        {
+            "index":11,
+            "Version":"vCloud Networking and Security 5.1.2.2",
+            "Release Date":"2014-10-03T00:00:00.000Z",
+            "Build Number":"2174081",
+            "Installer Build Number":null
+        }
+    ]
+}

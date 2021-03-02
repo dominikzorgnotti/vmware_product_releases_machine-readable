@@ -1,0 +1,334 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"Version",
+                "type":"string"
+            },
+            {
+                "name":"Release Date",
+                "type":"datetime"
+            },
+            {
+                "name":"Build Number",
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"0.20.0"
+    },
+    "data":[
+        {
+            "index":1,
+            "Version":"Site Recovery Manager 8.3.0.2 Appliance",
+            "Release Date":"2020-06-18T00:00:00.000Z",
+            "Build Number":"16356473"
+        },
+        {
+            "index":2,
+            "Version":"Site Recovery Manager 8.3.0.2",
+            "Release Date":"2020-06-18T00:00:00.000Z",
+            "Build Number":"16356494"
+        },
+        {
+            "index":3,
+            "Version":"Site Recovery Manager 8.3.0.1 Appliance",
+            "Release Date":"2020-05-14T00:00:00.000Z",
+            "Build Number":"16168265"
+        },
+        {
+            "index":4,
+            "Version":"Site Recovery Manager 8.3.0.1",
+            "Release Date":"2020-05-14T00:00:00.000Z",
+            "Build Number":"16168268"
+        },
+        {
+            "index":5,
+            "Version":"Site Recovery Manager 8.3.0 Appliance",
+            "Release Date":"2020-04-02T00:00:00.000Z",
+            "Build Number":"15929234"
+        },
+        {
+            "index":6,
+            "Version":"Site Recovery Manager 8.3.0",
+            "Release Date":"2020-04-02T00:00:00.000Z",
+            "Build Number":"15928802"
+        },
+        {
+            "index":7,
+            "Version":"Site Recovery Manager 8.2.0 Appliance",
+            "Release Date":"2019-05-09T00:00:00.000Z",
+            "Build Number":"13481390"
+        },
+        {
+            "index":8,
+            "Version":"Site Recovery Manager 8.2.0",
+            "Release Date":"2019-05-09T00:00:00.000Z",
+            "Build Number":"13480383"
+        },
+        {
+            "index":9,
+            "Version":"Site Recovery Manager 8.1.2",
+            "Release Date":"2019-04-11T00:00:00.000Z",
+            "Build Number":"12686166"
+        },
+        {
+            "index":10,
+            "Version":"Site Recovery Manager 8.1.1",
+            "Release Date":"2018-11-06T00:00:00.000Z",
+            "Build Number":"10646916"
+        },
+        {
+            "index":11,
+            "Version":"Site Recovery Manager 8.1.0.4",
+            "Release Date":"2018-08-24T00:00:00.000Z",
+            "Build Number":"9569154"
+        },
+        {
+            "index":12,
+            "Version":"Site Recovery Manager 8.1.0.3",
+            "Release Date":"2018-06-12T00:00:00.000Z",
+            "Build Number":"8738384"
+        },
+        {
+            "index":13,
+            "Version":"Site Recovery Manager 8.1.0.2",
+            "Release Date":"2018-05-18T00:00:00.000Z",
+            "Build Number":"8527244"
+        },
+        {
+            "index":14,
+            "Version":"Site Recovery Manager 8.1.0.1",
+            "Release Date":"2018-04-20T00:00:00.000Z",
+            "Build Number":"8311425"
+        },
+        {
+            "index":15,
+            "Version":"Site Recovery Manager 8.1",
+            "Release Date":"2018-04-17T00:00:00.000Z",
+            "Build Number":"8255892"
+        },
+        {
+            "index":16,
+            "Version":"Site Recovery Manager 6.5.1.2",
+            "Release Date":"2018-06-28T00:00:00.000Z",
+            "Build Number":"8946135"
+        },
+        {
+            "index":17,
+            "Version":"Site Recovery Manager 6.5.1.1",
+            "Release Date":"2018-05-03T00:00:00.000Z",
+            "Build Number":"8266157"
+        },
+        {
+            "index":18,
+            "Version":"Site Recovery Manager 6.5.1",
+            "Release Date":"2017-07-27T00:00:00.000Z",
+            "Build Number":"6014840"
+        },
+        {
+            "index":19,
+            "Version":"Site Recovery Manager 6.5",
+            "Release Date":"2016-11-22T00:00:00.000Z",
+            "Build Number":"4613745"
+        },
+        {
+            "index":20,
+            "Version":"Site Recovery Manager 6.1.2.2",
+            "Release Date":"2018-07-26T00:00:00.000Z",
+            "Build Number":"9116747"
+        },
+        {
+            "index":21,
+            "Version":"Site Recovery Manager 6.1.2.1",
+            "Release Date":"2017-11-09T00:00:00.000Z",
+            "Build Number":"6816512"
+        },
+        {
+            "index":22,
+            "Version":"Site Recovery Manager 6.1.2",
+            "Release Date":"2017-02-24T00:00:00.000Z",
+            "Build Number":"5077693"
+        },
+        {
+            "index":23,
+            "Version":"Site Recovery Manager 6.1.1.1",
+            "Release Date":"2016-11-10T00:00:00.000Z",
+            "Build Number":"4535903"
+        },
+        {
+            "index":24,
+            "Version":"Site Recovery Manager 6.1.1",
+            "Release Date":"2016-05-26T00:00:00.000Z",
+            "Build Number":"3884620"
+        },
+        {
+            "index":25,
+            "Version":"Site Recovery Manager 6.1",
+            "Release Date":"2015-09-10T00:00:00.000Z",
+            "Build Number":"3037005"
+        },
+        {
+            "index":26,
+            "Version":"Site Recovery Manager 6.0.0.1",
+            "Release Date":"2015-04-30T00:00:00.000Z",
+            "Build Number":"2700459"
+        },
+        {
+            "index":27,
+            "Version":"Site Recovery Manager 6.0",
+            "Release Date":"2015-03-12T00:00:00.000Z",
+            "Build Number":"2580226"
+        },
+        {
+            "index":28,
+            "Version":"Site Recovery Manager 5.8.1.1",
+            "Release Date":"2016-07-26T00:00:00.000Z",
+            "Build Number":"4130000"
+        },
+        {
+            "index":29,
+            "Version":"Site Recovery Manager 5.8.1",
+            "Release Date":"2015-09-16T00:00:00.000Z",
+            "Build Number":"2991419"
+        },
+        {
+            "index":30,
+            "Version":"Site Recovery Manager 5.8.0.1",
+            "Release Date":"2014-12-09T00:00:00.000Z",
+            "Build Number":"2336305"
+        },
+        {
+            "index":31,
+            "Version":"Site Recovery Manager 5.8.0",
+            "Release Date":"2014-09-22T00:00:00.000Z",
+            "Build Number":"2056894"
+        },
+        {
+            "index":32,
+            "Version":"Site Recovery Manager 5.5.1.5",
+            "Release Date":"2015-04-16T00:00:00.000Z",
+            "Build Number":"2653439"
+        },
+        {
+            "index":33,
+            "Version":"Site Recovery Manager 5.5.1.4",
+            "Release Date":"2014-10-22T00:00:00.000Z",
+            "Build Number":"2215373"
+        },
+        {
+            "index":34,
+            "Version":"Site Recovery Manager 5.5.1.3",
+            "Release Date":"2014-10-01T00:00:00.000Z",
+            "Build Number":"2170717"
+        },
+        {
+            "index":35,
+            "Version":"Site Recovery Manager 5.5.1.2",
+            "Release Date":"2014-07-30T00:00:00.000Z",
+            "Build Number":"2000438"
+        },
+        {
+            "index":36,
+            "Version":"Site Recovery Manager 5.5.1.1",
+            "Release Date":"2014-07-17T00:00:00.000Z",
+            "Build Number":"1964818"
+        },
+        {
+            "index":37,
+            "Version":"Site Recovery Manager 5.5.1",
+            "Release Date":"2014-03-11T00:00:00.000Z",
+            "Build Number":"1647061"
+        },
+        {
+            "index":38,
+            "Version":"Site Recovery Manager 5.5",
+            "Release Date":"2013-09-22T00:00:00.000Z",
+            "Build Number":"1315893"
+        },
+        {
+            "index":39,
+            "Version":"Site Recovery Manager 5.1.3",
+            "Release Date":"2014-12-04T00:00:00.000Z",
+            "Build Number":"2318417"
+        },
+        {
+            "index":40,
+            "Version":"Site Recovery Manager 5.1.2.1",
+            "Release Date":"2014-07-22T00:00:00.000Z",
+            "Build Number":"1964824"
+        },
+        {
+            "index":41,
+            "Version":"Site Recovery Manager 5.1.2",
+            "Release Date":"2014-01-16T00:00:00.000Z",
+            "Build Number":"1527967"
+        },
+        {
+            "index":42,
+            "Version":"Site Recovery Manager 5.1.1.1",
+            "Release Date":"2013-09-22T00:00:00.000Z",
+            "Build Number":"1290726"
+        },
+        {
+            "index":43,
+            "Version":"Site Recovery Manager 5.1.1",
+            "Release Date":"2013-04-25T00:00:00.000Z",
+            "Build Number":"1082082"
+        },
+        {
+            "index":44,
+            "Version":"Site Recovery Manager 5.1.0.1",
+            "Release Date":"2012-12-20T00:00:00.000Z",
+            "Build Number":"941848"
+        },
+        {
+            "index":45,
+            "Version":"Site Recovery Manager 5.1",
+            "Release Date":"2012-09-10T00:00:00.000Z",
+            "Build Number":"820150"
+        },
+        {
+            "index":46,
+            "Version":"Site Recovery Manager 5.0.3.2",
+            "Release Date":"2014-07-22T00:00:00.000Z",
+            "Build Number":"1964819"
+        },
+        {
+            "index":47,
+            "Version":"Site Recovery Manager 5.0.3.1",
+            "Release Date":"2014-05-29T00:00:00.000Z",
+            "Build Number":"1848414"
+        },
+        {
+            "index":48,
+            "Version":"Site Recovery Manager 5.0.3",
+            "Release Date":"2013-10-17T00:00:00.000Z",
+            "Build Number":"1344912"
+        },
+        {
+            "index":49,
+            "Version":"Site Recovery Manager 5.0.2",
+            "Release Date":"2012-12-20T00:00:00.000Z",
+            "Build Number":"919478"
+        },
+        {
+            "index":50,
+            "Version":"Site Recovery Manager 5.0.1",
+            "Release Date":"2012-03-15T00:00:00.000Z",
+            "Build Number":"633117"
+        },
+        {
+            "index":51,
+            "Version":"Site Recovery Manager 5.0 GA",
+            "Release Date":"2011-09-14T00:00:00.000Z",
+            "Build Number":"474459"
+        }
+    ]
+}

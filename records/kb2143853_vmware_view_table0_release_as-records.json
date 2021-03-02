@@ -1,0 +1,547 @@
+[
+    {
+        "Version":"Horizon 8 2012",
+        "Release Date":"2021-01-07T00:00:00.000Z",
+        "Build Number":"8.1.0.17351278"
+    },
+    {
+        "Version":"Horizon 8 2006",
+        "Release Date":"2020-08-11T00:00:00.000Z",
+        "Build Number":"8.0.0.16592062"
+    },
+    {
+        "Version":"Horizon Connection Server 7.13",
+        "Release Date":"2020-10-15T00:00:00.000Z",
+        "Build Number":"16962788"
+    },
+    {
+        "Version":"Horizon Composer 7.13",
+        "Release Date":"2020-10-15T00:00:00.000Z",
+        "Build Number":"16780853"
+    },
+    {
+        "Version":"Horizon Agent 7.13",
+        "Release Date":"2020-10-15T00:00:00.000Z",
+        "Build Number":"16975066"
+    },
+    {
+        "Version":"Horizon Connection Server 7.12",
+        "Release Date":"2020-03-17T00:00:00.000Z",
+        "Build Number":"15770369"
+    },
+    {
+        "Version":"Horizon Composer 7.12",
+        "Release Date":"2020-03-17T00:00:00.000Z",
+        "Build Number":"15747753"
+    },
+    {
+        "Version":"Horizon Agent 7.12",
+        "Release Date":"2020-03-17T00:00:00.000Z",
+        "Build Number":"15805436"
+    },
+    {
+        "Version":"Horizon Connection Server 7.11",
+        "Release Date":"2019-12-12T00:00:00.000Z",
+        "Build Number":"15231595"
+    },
+    {
+        "Version":"Horizon Composer 7.11",
+        "Release Date":"2019-12-12T00:00:00.000Z",
+        "Build Number":"15119999"
+    },
+    {
+        "Version":"Horizon Agent 7.11",
+        "Release Date":"2019-12-12T00:00:00.000Z",
+        "Build Number":"15238678"
+    },
+    {
+        "Version":"Horizon 7 version 7.10.3\u00a0(ESB Release)",
+        "Release Date":"2020-10-22T00:00:00.000Z",
+        "Build Number":"17056647"
+    },
+    {
+        "Version":"Horizon Connection Server 7.10.2 (ESB Release)",
+        "Release Date":"2020-05-21T00:00:00.000Z",
+        "Build Number":"16253308"
+    },
+    {
+        "Version":"Horizon Composer 7.10.2 (ESB Release)",
+        "Release Date":"2020-05-21T00:00:00.000Z",
+        "Build Number":"15807429"
+    },
+    {
+        "Version":"Horizon Agent 7.10.2 (ESB Release)",
+        "Release Date":"2020-05-21T00:00:00.000Z",
+        "Build Number":"16176137"
+    },
+    {
+        "Version":"Horizon Agent 7.10.1\u00a0(ESB Release)",
+        "Release Date":"2019-12-20T00:00:00.000Z",
+        "Build Number":"15247623"
+    },
+    {
+        "Version":"Horizon Connection Server 7.10",
+        "Release Date":"2019-09-17T00:00:00.000Z",
+        "Build Number":"14584133"
+    },
+    {
+        "Version":"Horizon Composer 7.10",
+        "Release Date":"2019-09-17T00:00:00.000Z",
+        "Build Number":"14535354"
+    },
+    {
+        "Version":"Horizon Agent 7.10",
+        "Release Date":"2019-09-17T00:00:00.000Z",
+        "Build Number":"14590940"
+    },
+    {
+        "Version":"Horizon Connection Server 7.9",
+        "Release Date":"2019-07-02T00:00:00.000Z",
+        "Build Number":"13956742"
+    },
+    {
+        "Version":"Horizon Composer 7.9",
+        "Release Date":"2019-07-02T00:00:00.000Z",
+        "Build Number":"13810618"
+    },
+    {
+        "Version":"Horizon Agent 7.9",
+        "Release Date":"2019-07-02T00:00:00.000Z",
+        "Build Number":"13938590"
+    },
+    {
+        "Version":"Horizon Connection Server 7.8",
+        "Release Date":"2019-03-14T00:00:00.000Z",
+        "Build Number":"12637483"
+    },
+    {
+        "Version":"Horizon Composer 7.8",
+        "Release Date":"2019-03-14T00:00:00.000Z",
+        "Build Number":"12438492"
+    },
+    {
+        "Version":"Horizon Agent 7.8",
+        "Release Date":"2019-03-14T00:00:00.000Z",
+        "Build Number":"12599301"
+    },
+    {
+        "Version":"Horizon Connection Server 7.7",
+        "Release Date":"2018-12-13T00:00:00.000Z",
+        "Build Number":"11038474"
+    },
+    {
+        "Version":"Horizon Composer 7.7",
+        "Release Date":"2018-12-13T00:00:00.000Z",
+        "Build Number":"11038293"
+    },
+    {
+        "Version":"Horizon Agent 7.7",
+        "Release Date":"2018-12-13T00:00:00.000Z",
+        "Build Number":"11054235"
+    },
+    {
+        "Version":"Horizon Connection Server 7.6",
+        "Release Date":"2018-09-06T00:00:00.000Z",
+        "Build Number":"9823717"
+    },
+    {
+        "Version":"Horizon Composer 7.6",
+        "Release Date":"2018-09-06T00:00:00.000Z",
+        "Build Number":"9491669"
+    },
+    {
+        "Version":"Horizon Agent 7.6",
+        "Release Date":"2018-09-06T00:00:00.000Z",
+        "Build Number":"9539447"
+    },
+    {
+        "Version":"Horizon Connection Server 7.5.3 (ESB Release)",
+        "Release Date":"2019-10-29T00:00:00.000Z",
+        "Build Number":"14866184"
+    },
+    {
+        "Version":"Horizon Composer 7.5.3 (ESB Release)",
+        "Release Date":"2019-10-29T00:00:00.000Z",
+        "Build Number":"14453268"
+    },
+    {
+        "Version":"Horizon Connection Server 7.5.2 (ESB Release)",
+        "Release Date":"2019-03-08T00:00:00.000Z",
+        "Build Number":"12417634"
+    },
+    {
+        "Version":"Horizon Composer 7.5.2\u00a0(ESB Release)",
+        "Release Date":"2019-03-08T00:00:00.000Z",
+        "Build Number":"11823484"
+    },
+    {
+        "Version":"Horizon Agent 7.5.2",
+        "Release Date":"2019-03-08T00:00:00.000Z",
+        "Build Number":"12420446"
+    },
+    {
+        "Version":"Horizon Connection Server 7.5.1",
+        "Release Date":"2018-07-19T00:00:00.000Z",
+        "Build Number":"9122465"
+    },
+    {
+        "Version":"Horizon Composer 7.5.1",
+        "Release Date":"2018-07-19T00:00:00.000Z",
+        "Build Number":"8971623"
+    },
+    {
+        "Version":"Horizon Agent 7.5.1",
+        "Release Date":"2018-07-19T00:00:00.000Z",
+        "Build Number":"9182637"
+    },
+    {
+        "Version":"Horizon Connection Server 7.5",
+        "Release Date":"2018-05-29T00:00:00.000Z",
+        "Build Number":"8583568"
+    },
+    {
+        "Version":"Horizon Composer 7.5",
+        "Release Date":"2018-05-29T00:00:00.000Z",
+        "Build Number":"8463271"
+    },
+    {
+        "Version":"Horizon Agent 7.5",
+        "Release Date":"2018-05-29T00:00:00.000Z",
+        "Build Number":"8584427"
+    },
+    {
+        "Version":"Horizon Connection Server 7.4",
+        "Release Date":"2018-01-04T00:00:00.000Z",
+        "Build Number":"7400497"
+    },
+    {
+        "Version":"Horizon Composer 7.4",
+        "Release Date":"2018-01-04T00:00:00.000Z",
+        "Build Number":"7312595"
+    },
+    {
+        "Version":"Horizon Agent 7.4",
+        "Release Date":"2018-01-04T00:00:00.000Z",
+        "Build Number":"7400533"
+    },
+    {
+        "Version":"Horizon Connection Server 7.3.3",
+        "Release Date":"2018-10-04T00:00:00.000Z",
+        "Build Number":"10250208"
+    },
+    {
+        "Version":"Horizon Composer 7.3.3",
+        "Release Date":"2018-10-04T00:00:00.000Z",
+        "Build Number":"10250211"
+    },
+    {
+        "Version":"Horizon Agent 7.3.3",
+        "Release Date":"2018-10-04T00:00:00.000Z",
+        "Build Number":"10250206"
+    },
+    {
+        "Version":"Horizon Connection Server 7.2 ( View 7.x)",
+        "Release Date":"2017-06-20T00:00:00.000Z",
+        "Build Number":"5735293"
+    },
+    {
+        "Version":"Horizon Composer 7.2",
+        "Release Date":"2017-06-20T00:00:00.000Z",
+        "Build Number":"5652634"
+    },
+    {
+        "Version":"Horizon Agent 7.2",
+        "Release Date":"2017-06-20T00:00:00.000Z",
+        "Build Number":"5748532"
+    },
+    {
+        "Version":"Horizon Connection Server 7.1",
+        "Release Date":"2017-03-16T00:00:00.000Z",
+        "Build Number":"5170113"
+    },
+    {
+        "Version":"Horizon Composer 7.1",
+        "Release Date":"2017-03-16T00:00:00.000Z",
+        "Build Number":"5129466"
+    },
+    {
+        "Version":"Horizon Agent 7.1",
+        "Release Date":"2017-03-16T00:00:00.000Z",
+        "Build Number":"5170901"
+    },
+    {
+        "Version":"Horizon Connection Server 7.0.3",
+        "Release Date":"2016-12-08T00:00:00.000Z",
+        "Build Number":"4709455"
+    },
+    {
+        "Version":"Horizon Composer 7.0.3",
+        "Release Date":"2016-12-08T00:00:00.000Z",
+        "Build Number":"4698622"
+    },
+    {
+        "Version":"Horizon Agent 7.0.3",
+        "Release Date":"2016-12-08T00:00:00.000Z",
+        "Build Number":"4717913"
+    },
+    {
+        "Version":"Horizon Connection Server 7.0.1",
+        "Release Date":"2016-06-16T00:00:00.000Z",
+        "Build Number":"3988955"
+    },
+    {
+        "Version":"Horizon Composer 7.0.1",
+        "Release Date":"2016-06-16T00:00:00.000Z",
+        "Build Number":"3978853"
+    },
+    {
+        "Version":"Horizon Agent 7.0.1",
+        "Release Date":"2016-06-16T00:00:00.000Z",
+        "Build Number":"3989057"
+    },
+    {
+        "Version":"Horizon Connection Server 7.0",
+        "Release Date":"2016-03-22T00:00:00.000Z",
+        "Build Number":"3633490"
+    },
+    {
+        "Version":"Horizon Composer 7.0",
+        "Release Date":"2016-03-22T00:00:00.000Z",
+        "Build Number":"3613429"
+    },
+    {
+        "Version":"Horizon Agent 7.0",
+        "Release Date":"2016-03-22T00:00:00.000Z",
+        "Build Number":"3634043"
+    },
+    {
+        "Version":"Horizon View Connection Server 6.2.9",
+        "Release Date":"2019-06-11T00:00:00.000Z",
+        "Build Number":"13695252"
+    },
+    {
+        "Version":"Horizon View Composer 6.2.9",
+        "Release Date":"2019-06-11T00:00:00.000Z",
+        "Build Number":"13695254"
+    },
+    {
+        "Version":"Horizon View Agent 6.2.9",
+        "Release Date":"2019-06-11T00:00:00.000Z",
+        "Build Number":"13695838"
+    },
+    {
+        "Version":"Horizon View Connection Server 6.2.8",
+        "Release Date":"2019-03-14T00:00:00.000Z",
+        "Build Number":"12619382"
+    },
+    {
+        "Version":"Horizon View Composer 6.2.8",
+        "Release Date":"2019-03-14T00:00:00.000Z",
+        "Build Number":"12619387"
+    },
+    {
+        "Version":"Horizon View Agent 6.2.8",
+        "Release Date":"2019-03-14T00:00:00.000Z",
+        "Build Number":"12640487"
+    },
+    {
+        "Version":"Horizon View Connection Server 6.2.3",
+        "Release Date":"2016-07-21T00:00:00.000Z",
+        "Build Number":"4126346"
+    },
+    {
+        "Version":"Horizon View Composer 6.2.3",
+        "Release Date":"2016-07-21T00:00:00.000Z",
+        "Build Number":"4123264"
+    },
+    {
+        "Version":"Horizon View Agent 6.2.3",
+        "Release Date":"2016-07-21T00:00:00.000Z",
+        "Build Number":"4126745"
+    },
+    {
+        "Version":"Horizon View Connection Server 6.2.2",
+        "Release Date":"2016-02-04T00:00:00.000Z",
+        "Build Number":"3508079"
+    },
+    {
+        "Version":"Horizon View Composer 6.2.2",
+        "Release Date":"2016-02-04T00:00:00.000Z",
+        "Build Number":"3505505"
+    },
+    {
+        "Version":"Horizon View Agent 6.2.2",
+        "Release Date":"2016-02-04T00:00:00.000Z",
+        "Build Number":"3508800"
+    },
+    {
+        "Version":"Horizon View Connection Server 6.2.1",
+        "Release Date":"2015-12-08T00:00:00.000Z",
+        "Build Number":"3284346"
+    },
+    {
+        "Version":"Horizon View Composer 6.2.1",
+        "Release Date":"2015-12-08T00:00:00.000Z",
+        "Build Number":"3284360"
+    },
+    {
+        "Version":"Horizon\u00a0View Agent 6.2.1",
+        "Release Date":"2015-12-08T00:00:00.000Z",
+        "Build Number":"3284564"
+    },
+    {
+        "Version":"Horizon View Connection Server 6.1.1",
+        "Release Date":"2015-09-03T00:00:00.000Z",
+        "Build Number":"2769403"
+    },
+    {
+        "Version":"Horizon View Composer 6.1.1",
+        "Release Date":"2015-09-03T00:00:00.000Z",
+        "Build Number":"2768165"
+    },
+    {
+        "Version":"Horizon View Agent 6.1.1",
+        "Release Date":"2015-09-03T00:00:00.000Z",
+        "Build Number":"2769635"
+    },
+    {
+        "Version":"Horizon View Manager 6.1.1",
+        "Release Date":"2015-06-04T00:00:00.000Z",
+        "Build Number":"2769403"
+    },
+    {
+        "Version":"Horizon View Composer 6.1.1",
+        "Release Date":"2015-06-04T00:00:00.000Z",
+        "Build Number":"2768165"
+    },
+    {
+        "Version":"Horizon View Manager 6.1.0",
+        "Release Date":"2015-03-12T00:00:00.000Z",
+        "Build Number":"2509221"
+    },
+    {
+        "Version":"Horizon View Composer 6.1.0",
+        "Release Date":"2015-03-12T00:00:00.000Z",
+        "Build Number":"2506641"
+    },
+    {
+        "Version":"View Manager 6.0.1",
+        "Release Date":"2014-09-09T00:00:00.000Z",
+        "Build Number":"2088845"
+    },
+    {
+        "Version":"View Composer 6.0.1",
+        "Release Date":"2014-09-09T00:00:00.000Z",
+        "Build Number":"2078421"
+    },
+    {
+        "Version":"View Manager 6.0 (View 6.x)",
+        "Release Date":"2014-06-19T00:00:00.000Z",
+        "Build Number":"1884746"
+    },
+    {
+        "Version":"View Composer 6.0 (View 6.x)",
+        "Release Date":"2014-06-19T00:00:00.000Z",
+        "Build Number":"1884350"
+    },
+    {
+        "Version":"View Manager 5.3 (View 5.x)",
+        "Release Date":"2014-01-28T00:00:00.000Z",
+        "Build Number":"1427931"
+    },
+    {
+        "Version":"View Composer 5.3",
+        "Release Date":"2014-01-28T00:00:00.000Z",
+        "Build Number":"1427647"
+    },
+    {
+        "Version":"View Manager 5.2",
+        "Release Date":"2013-02-05T00:00:00.000Z",
+        "Build Number":"987719"
+    },
+    {
+        "Version":"View Composer 5.2",
+        "Release Date":"2013-02-05T00:00:00.000Z",
+        "Build Number":"983460"
+    },
+    {
+        "Version":"View Manager 5.1.2",
+        "Release Date":"2012-12-13T00:00:00.000Z",
+        "Build Number":"928164"
+    },
+    {
+        "Version":"View Manager 5.1.1",
+        "Release Date":"2012-08-13T00:00:00.000Z",
+        "Build Number":"799444"
+    },
+    {
+        "Version":"View Manager 5.1",
+        "Release Date":"2012-05-02T00:00:00.000Z",
+        "Build Number":"704644"
+    },
+    {
+        "Version":"View Composer 3.0",
+        "Release Date":"2012-04-20T00:00:00.000Z",
+        "Build Number":"691993"
+    },
+    {
+        "Version":"View Manager 5.0.1",
+        "Release Date":"2012-03-02T00:00:00.000Z",
+        "Build Number":"640055"
+    },
+    {
+        "Version":"View Manager 5.0 (View 5.x)",
+        "Release Date":"2011-09-14T00:00:00.000Z",
+        "Build Number":"481677"
+    },
+    {
+        "Version":"View Composer 2.7 (View 5.x)",
+        "Release Date":"2011-09-14T00:00:00.000Z",
+        "Build Number":"481620"
+    },
+    {
+        "Version":"View Manager 4.6.1 (View 4.x)",
+        "Release Date":"2012-03-02T00:00:00.000Z",
+        "Build Number":"640196"
+    },
+    {
+        "Version":"View Manager 4.6",
+        "Release Date":"2011-02-24T00:00:00.000Z",
+        "Build Number":"366101"
+    },
+    {
+        "Version":"View Composer 2.6",
+        "Release Date":"2011-02-24T00:00:00.000Z",
+        "Build Number":"349155"
+    },
+    {
+        "Version":"View Manager 4.5",
+        "Release Date":"2010-09-10T00:00:00.000Z",
+        "Build Number":"293049"
+    },
+    {
+        "Version":"View Composer 2.5",
+        "Release Date":"2010-09-10T00:00:00.000Z",
+        "Build Number":"291081"
+    },
+    {
+        "Version":"View Manager 4.0.2",
+        "Release Date":"2010-08-30T00:00:00.000Z",
+        "Build Number":"294291"
+    },
+    {
+        "Version":"View Manager 4.0.1",
+        "Release Date":"2010-02-10T00:00:00.000Z",
+        "Build Number":"233023"
+    },
+    {
+        "Version":"View Manager 4.0 (View 4.x)",
+        "Release Date":"2009-11-18T00:00:00.000Z",
+        "Build Number":"210939"
+    },
+    {
+        "Version":"View Composer 2.0 (View 4.x)",
+        "Release Date":"2009-11-18T00:00:00.000Z",
+        "Build Number":"210930"
+    }
+]

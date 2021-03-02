@@ -1,0 +1,80 @@
+[
+    {
+        "Version":"vShield 5.1.4",
+        "Release Date":"2014-04-16T00:00:00.000Z",
+        "Build Number":"1740417",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 5.1.3",
+        "Release Date":"2014-02-11T00:00:00.000Z",
+        "Build Number":"1563888",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 5.1.2c",
+        "Release Date":"2013-08-08T00:00:00.000Z",
+        "Build Number":"1263988",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 5.1.2b",
+        "Release Date":"2013-05-13T00:00:00.000Z",
+        "Build Number":"1119491",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 5.1.2a",
+        "Release Date":"2013-02-07T00:00:00.000Z",
+        "Build Number":"997359",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 5.1.2",
+        "Release Date":"2012-12-20T00:00:00.000Z",
+        "Build Number":"943471",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 5.1.1",
+        "Release Date":"2012-10-25T00:00:00.000Z",
+        "Build Number":"848085",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 5.0.2",
+        "Release Date":"2012-07-31T00:00:00.000Z",
+        "Build Number":"791471",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 5.0.1",
+        "Release Date":"2012-04-13T00:00:00.000Z",
+        "Build Number":"638924",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 5.0.0",
+        "Release Date":"2011-09-01T00:00:00.000Z",
+        "Build Number":"473791",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 4.1 Update 2",
+        "Release Date":"2012-01-09T00:00:00.000Z",
+        "Build Number":"576124",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 4.1 Update 1",
+        "Release Date":"2010-10-21T00:00:00.000Z",
+        "Build Number":"310451",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vShield 4.1",
+        "Release Date":"2010-08-30T00:00:00.000Z",
+        "Build Number":"287872",
+        "Installer Build Number":null
+    }
+]

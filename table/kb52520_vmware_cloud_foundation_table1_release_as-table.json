@@ -1,0 +1,184 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"VCF Release1,2",
+                "type":"string"
+            },
+            {
+                "name":"GA Date",
+                "type":"string"
+            },
+            {
+                "name":"Depends On",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":"VMware Cloud Foundation Software Components",
+                "type":"string"
+            },
+            {
+                "name":null,
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"0.20.0"
+    },
+    "data":[
+        {
+            "index":1,
+            "VCF Release1,2":"VCF Release1,2",
+            "GA Date":"GA Date",
+            "Depends On":"Depends On",
+            "VMware Cloud Foundation Software Components":"Cloud Builder",
+            "VMware Cloud Foundation Software Components":"SDDC Manager",
+            "VMware Cloud Foundation Software Components":"VC\/PSC",
+            "VMware Cloud Foundation Software Components":"ESXi",
+            "VMware Cloud Foundation Software Components":"Tools3",
+            "VMware Cloud Foundation Software Components":"VSAN",
+            "VMware Cloud Foundation Software Components":"NSX-V",
+            "VMware Cloud Foundation Software Components":"NSX-T10",
+            "VMware Cloud Foundation Software Components":"vRLI4,8",
+            "VMware Cloud Foundation Software Components":"vROps4,5,8",
+            "VMware Cloud Foundation Software Components":"vRA6,8",
+            "VMware Cloud Foundation Software Components":"vRSLCM7,8",
+            "VMware Cloud Foundation Software Components":"Horizon8,9",
+            "nan":"PKS"
+        },
+        {
+            "index":2,
+            "VCF Release1,2":"Version 3.10.1.2 Build:\u00a016223257",
+            "GA Date":"24 NOV 2020",
+            "Depends On":null,
+            "VMware Cloud Foundation Software Components":"v:3.10.1 B:16223257",
+            "VMware Cloud Foundation Software Components":"v:3.10.1.2 B:17206767",
+            "VMware Cloud Foundation Software Components":"v: 6.7 U3l B:17138064",
+            "VMware Cloud Foundation Software Components":"v: 6.7 P04 B:17167734",
+            "VMware Cloud Foundation Software Components":"V1: 11.0.5 V2:\u00a016075168",
+            "VMware Cloud Foundation Software Components":"v: 6.7 EP16 B: 16632180",
+            "VMware Cloud Foundation Software Components":"V: 6.4.8 B:16724220",
+            "VMware Cloud Foundation Software Components":"V: 2.5.2.2 B: 17003648",
+            "VMware Cloud Foundation Software Components":"V: 4.8 B: 13036238",
+            "VMware Cloud Foundation Software Components":"V: 7.5 B: 13165949",
+            "VMware Cloud Foundation Software Components":"V: 7.6 B: 13027280",
+            "VMware Cloud Foundation Software Components":"V: 2.1 P2 B: 16154511",
+            "VMware Cloud Foundation Software Components":null,
+            "nan":"V:\u00a01.7 B:\u00a016116522"
+        },
+        {
+            "index":3,
+            "VCF Release1,2":"Version 3.10.1.1 Build:\u00a016223257",
+            "GA Date":"20 OCT 2020",
+            "Depends On":null,
+            "VMware Cloud Foundation Software Components":"v:3.10.1 B:16223257",
+            "VMware Cloud Foundation Software Components":"v:3.10.1.1 B:17010744",
+            "VMware Cloud Foundation Software Components":"v: 6.7 P03\u00a0\/ U3j B:16708996",
+            "VMware Cloud Foundation Software Components":"v: 6.7 EP 16 B:16773714",
+            "VMware Cloud Foundation Software Components":"V1: 11.0.5 V2:\u00a016075168",
+            "VMware Cloud Foundation Software Components":"v: 6.7 EP16 B: 16632180",
+            "VMware Cloud Foundation Software Components":"V: 6.4.8 B:16724220",
+            "VMware Cloud Foundation Software Components":"V: 2.5.2.2 B: 17003648",
+            "VMware Cloud Foundation Software Components":"V: 4.8 B: 13036238",
+            "VMware Cloud Foundation Software Components":"V: 7.5 B: 13165949",
+            "VMware Cloud Foundation Software Components":"V: 7.6 B: 13027280",
+            "VMware Cloud Foundation Software Components":"V: 2.1 P2 B: 16154511",
+            "VMware Cloud Foundation Software Components":null,
+            "nan":"V:\u00a01.7 B:\u00a016116522"
+        },
+        {
+            "index":4,
+            "VCF Release1,2":"Version 3.10.1 Build:\u00a016223257",
+            "GA Date":"8 Sept 2020",
+            "Depends On":null,
+            "VMware Cloud Foundation Software Components":"v:3.10.1 B:16223257",
+            "VMware Cloud Foundation Software Components":"v:3.10.1 B:16223257",
+            "VMware Cloud Foundation Software Components":"v: 6.7 P03\u00a0\/ U3j B:16708996",
+            "VMware Cloud Foundation Software Components":"v: 6.7 P03 \/ U3j B:16713306",
+            "VMware Cloud Foundation Software Components":"V1: 11.0.5 V2:\u00a016075168",
+            "VMware Cloud Foundation Software Components":"v: 6.7 P03 B: 16631671",
+            "VMware Cloud Foundation Software Components":"V: 6.4.8 B:16724220",
+            "VMware Cloud Foundation Software Components":"V: 2.5.2.1 B: 16784095",
+            "VMware Cloud Foundation Software Components":"V: 4.8 B: 13036238",
+            "VMware Cloud Foundation Software Components":"V: 7.5 B: 13165949",
+            "VMware Cloud Foundation Software Components":"V: 7.6 B: 13027280",
+            "VMware Cloud Foundation Software Components":"V: 2.1 P2 B: 16154511",
+            "VMware Cloud Foundation Software Components":"V: 7.10.0 B:14584133 V: 7.10.0 B:14584133",
+            "nan":"V:\u00a01.7 B:\u00a016116522"
+        },
+        {
+            "index":5,
+            "VCF Release1,2":"Version 3.10 Build:\u00a016223257",
+            "GA Date":"26 May 2020",
+            "Depends On":null,
+            "VMware Cloud Foundation Software Components":"v: 2.2.2.0 B:16223257",
+            "VMware Cloud Foundation Software Components":"v: 3.10 B:16223257",
+            "VMware Cloud Foundation Software Components":"v: 6.7 P02 \/ U3g B:16046470",
+            "VMware Cloud Foundation Software Components":"V: 6.7 P02 \/ U3g  B:16075168",
+            "VMware Cloud Foundation Software Components":"V1: 11.0.5 V2:\u00a016075168",
+            "VMware Cloud Foundation Software Components":"V:\u00a06.7 P02 \/ U3g  B:15985001",
+            "VMware Cloud Foundation Software Components":"V: 6.4.6  B:14819921",
+            "VMware Cloud Foundation Software Components":"V: 2.5.1 B: 15314288",
+            "VMware Cloud Foundation Software Components":"V: 4.8 B: 13036238",
+            "VMware Cloud Foundation Software Components":"V: 7.5 B: 13165949",
+            "VMware Cloud Foundation Software Components":"V: 7.6 B: 13027280",
+            "VMware Cloud Foundation Software Components":"V: 2.1 P2 B: 16154511",
+            "VMware Cloud Foundation Software Components":"V: 7.10.0 B:14584133 V: 7.10.0 B:14584133",
+            "nan":"V:\u00a01.7 B:\u00a016116522"
+        }
+    ]
+}

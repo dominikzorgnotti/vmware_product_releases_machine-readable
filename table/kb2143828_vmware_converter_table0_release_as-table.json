@@ -1,0 +1,165 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"Version",
+                "type":"string"
+            },
+            {
+                "name":"Release Date",
+                "type":"datetime"
+            },
+            {
+                "name":"Build Number",
+                "type":"string"
+            },
+            {
+                "name":"Installer Build Number",
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"0.20.0"
+    },
+    "data":[
+        {
+            "index":1,
+            "Version":"Converter Standalone 6.2.0.1",
+            "Release Date":"2018-05-22T00:00:00.000Z",
+            "Build Number":"8466193",
+            "Installer Build Number":null
+        },
+        {
+            "index":2,
+            "Version":"Converter Standalone 6.2",
+            "Release Date":"2017-12-14T00:00:00.000Z",
+            "Build Number":"7348398",
+            "Installer Build Number":null
+        },
+        {
+            "index":3,
+            "Version":"Converter Standalone 6.1.1",
+            "Release Date":"2016-02-16T00:00:00.000Z",
+            "Build Number":"3533064",
+            "Installer Build Number":null
+        },
+        {
+            "index":4,
+            "Version":"Converter Standalone 6.1",
+            "Release Date":"2016-01-19T00:00:00.000Z",
+            "Build Number":"3410145",
+            "Installer Build Number":null
+        },
+        {
+            "index":5,
+            "Version":"Converter Standalone 6.0",
+            "Release Date":"2015-05-14T00:00:00.000Z",
+            "Build Number":"2716716",
+            "Installer Build Number":null
+        },
+        {
+            "index":6,
+            "Version":"Converter Standalone 5.5.3",
+            "Release Date":"2014-10-09T00:00:00.000Z",
+            "Build Number":"2183569",
+            "Installer Build Number":null
+        },
+        {
+            "index":7,
+            "Version":"Converter Standalone 5.5.2",
+            "Release Date":"2014-07-24T00:00:00.000Z",
+            "Build Number":"1890136",
+            "Installer Build Number":null
+        },
+        {
+            "index":8,
+            "Version":"Converter Standalone 5.5",
+            "Release Date":"2013-10-22T00:00:00.000Z",
+            "Build Number":"1362012",
+            "Installer Build Number":null
+        },
+        {
+            "index":9,
+            "Version":"Converter Standalone 5.1.2",
+            "Release Date":"2014-10-09T00:00:00.000Z",
+            "Build Number":"2183568",
+            "Installer Build Number":null
+        },
+        {
+            "index":10,
+            "Version":"Converter Standalone 5.1.1",
+            "Release Date":"2014-07-01T00:00:00.000Z",
+            "Build Number":"1890470",
+            "Installer Build Number":null
+        },
+        {
+            "index":11,
+            "Version":"Converter Standalone 5.1",
+            "Release Date":"2013-04-24T00:00:00.000Z",
+            "Build Number":"1087880",
+            "Installer Build Number":null
+        },
+        {
+            "index":12,
+            "Version":"Converter Standalone 5.0.1",
+            "Release Date":"2012-10-25T00:00:00.000Z",
+            "Build Number":"875114",
+            "Installer Build Number":null
+        },
+        {
+            "index":13,
+            "Version":"Converter Standalone 5.0",
+            "Release Date":"2011-08-31T00:00:00.000Z",
+            "Build Number":"470252",
+            "Installer Build Number":null
+        },
+        {
+            "index":14,
+            "Version":"Converter Standalone 4.3",
+            "Release Date":"2010-08-30T00:00:00.000Z",
+            "Build Number":"292238",
+            "Installer Build Number":null
+        },
+        {
+            "index":15,
+            "Version":"Converter Enterprise 4.2.0 (VC 4.1)",
+            "Release Date":"2010-07-13T00:00:00.000Z",
+            "Build Number":"254483",
+            "Installer Build Number":null
+        },
+        {
+            "index":16,
+            "Version":"Converter Enterprise 4.1.1 (VC 4.0)",
+            "Release Date":"2009-05-21T00:00:00.000Z",
+            "Build Number":"206170",
+            "Installer Build Number":null
+        },
+        {
+            "index":17,
+            "Version":"Converter Standalone 4.0.1",
+            "Release Date":"2009-05-21T00:00:00.000Z",
+            "Build Number":"161434",
+            "Installer Build Number":null
+        },
+        {
+            "index":18,
+            "Version":"Converter Standalone 4.0",
+            "Release Date":"2009-02-12T00:00:00.000Z",
+            "Build Number":"146302",
+            "Installer Build Number":null
+        },
+        {
+            "index":19,
+            "Version":"Converter Standalone 3.0",
+            "Release Date":"2008-01-12T00:00:00.000Z",
+            "Build Number":"89816",
+            "Installer Build Number":null
+        }
+    ]
+}

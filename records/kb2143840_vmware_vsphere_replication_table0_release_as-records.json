@@ -1,0 +1,362 @@
+[
+    {
+        "Version":"VMware vSphere Replication 8.3.0.2",
+        "Release Date":"2020-06-02T00:00:00.000Z",
+        "Build Number":"16284275",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.3.0.1",
+        "Release Date":"2020-05-14T00:00:00.000Z",
+        "Build Number":"16168258",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.3.0",
+        "Release Date":"2020-04-02T00:00:00.000Z",
+        "Build Number":"15934006",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.2.0.2",
+        "Release Date":"2019-09-03T00:00:00.000Z",
+        "Build Number":"14761900",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.2.0.1",
+        "Release Date":"2019-08-13T00:00:00.000Z",
+        "Build Number":"1433852",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.2.0",
+        "Release Date":"2019-05-09T00:00:00.000Z",
+        "Build Number":"13480246",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.1.2",
+        "Release Date":"2019-04-11T00:00:00.000Z",
+        "Build Number":"13095593",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.1.1",
+        "Release Date":"2018-11-06T00:00:00.000Z",
+        "Build Number":"10721838",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.1.0.4",
+        "Release Date":"2018-08-24T00:00:00.000Z",
+        "Build Number":"9466424",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.1.0.3",
+        "Release Date":"2018-06-12T00:00:00.000Z",
+        "Build Number":"8744176",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.1.0.2",
+        "Release Date":"2018-05-18T00:00:00.000Z",
+        "Build Number":"8539865",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 8.1.0.1",
+        "Release Date":"2018-04-20T00:00:00.000Z",
+        "Build Number":"8310693",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.5.1.3",
+        "Release Date":"2018-05-03T00:00:00.000Z",
+        "Build Number":"8136506",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.5.1.2",
+        "Release Date":"2017-11-30T00:00:00.000Z",
+        "Build Number":"7184801",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.5.1.1",
+        "Release Date":"2017-10-19T00:00:00.000Z",
+        "Build Number":"6876646",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.5.1",
+        "Release Date":"2017-07-27T00:00:00.000Z",
+        "Build Number":"6128267",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.5",
+        "Release Date":"2016-11-15T00:00:00.000Z",
+        "Build Number":"4634552",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.1.2.2",
+        "Release Date":"2018-07-26T00:00:00.000Z",
+        "Build Number":"9117108",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.1.2.1",
+        "Release Date":"2017-11-09T00:00:00.000Z",
+        "Build Number":"7026558",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.1.2",
+        "Release Date":"2017-02-24T00:00:00.000Z",
+        "Build Number":"5082273",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.1.1.1",
+        "Release Date":"2016-11-10T00:00:00.000Z",
+        "Build Number":"4595498",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.1.1",
+        "Release Date":"2016-05-26T00:00:00.000Z",
+        "Build Number":"3849281",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.1",
+        "Release Date":"2015-09-10T00:00:00.000Z",
+        "Build Number":"3051487",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.0.0.1",
+        "Release Date":"2015-05-12T00:00:00.000Z",
+        "Build Number":"2718739",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 6.0",
+        "Release Date":"2015-05-12T00:00:00.000Z",
+        "Build Number":"2568808",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 5.8.1.3",
+        "Release Date":"2016-07-26T00:00:00.000Z",
+        "Build Number":"4127256",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 5.8.1.2",
+        "Release Date":"2016-05-17T00:00:00.000Z",
+        "Build Number":"3845890",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"VMware vSphere Replication 5.8.1.1",
+        "Release Date":"2016-03-23T00:00:00.000Z",
+        "Build Number":"3656321",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.8.1",
+        "Release Date":"2015-09-16T00:00:00.000Z",
+        "Build Number":"2915556",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.8.0.2",
+        "Release Date":"2015-04-02T00:00:00.000Z",
+        "Build Number":"2613527",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.8.0.1",
+        "Release Date":"2014-10-01T00:00:00.000Z",
+        "Build Number":"2070514",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.8.0",
+        "Release Date":"2014-09-09T00:00:00.000Z",
+        "Build Number":"2055179",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.5.1.5",
+        "Release Date":"2015-08-16T00:00:00.000Z",
+        "Build Number":"2647463",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.5.1.4",
+        "Release Date":"2015-10-22T00:00:00.000Z",
+        "Build Number":"2207269",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.5.1.3",
+        "Release Date":"2014-10-01T00:00:00.000Z",
+        "Build Number":"2170307",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.5.1.2",
+        "Release Date":"2014-07-30T00:00:00.000Z",
+        "Build Number":"1999430",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.5.1.1",
+        "Release Date":"2014-07-17T00:00:00.000Z",
+        "Build Number":"1879843",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.5.1",
+        "Release Date":"2014-03-11T00:00:00.000Z",
+        "Build Number":"1618023",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.5.0",
+        "Release Date":"2013-09-22T00:00:00.000Z",
+        "Build Number":"1309877",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.1.2.2",
+        "Release Date":"2014-10-01T00:00:00.000Z",
+        "Build Number":"2170306",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.1.2.1",
+        "Release Date":"2014-07-22T00:00:00.000Z",
+        "Build Number":"1905350",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.1.2",
+        "Release Date":"2014-01-16T00:00:00.000Z",
+        "Build Number":"1527968",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.1.1",
+        "Release Date":"2013-04-25T00:00:00.000Z",
+        "Build Number":"1079383",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 5.1.0.1",
+        "Release Date":"2012-10-29T00:00:00.000Z",
+        "Build Number":"855064",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication\u00a0Appliance 5.1.3",
+        "Release Date":"2014-12-04T00:00:00.000Z",
+        "Build Number":"2318240",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication\u00a0Appliance 5.1.3.1",
+        "Release Date":"2015-10-15T00:00:00.000Z",
+        "Build Number":"3002922",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 6.0.0.1",
+        "Release Date":"2015-10-15T00:00:00.000Z",
+        "Build Number":"3656323",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 6.1.0",
+        "Release Date":"2015-09-10T00:00:00.000Z",
+        "Build Number":"3051487",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 6.0.0.2",
+        "Release Date":"2016-03-23T00:00:00.000Z",
+        "Build Number":"3656322",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication\u00a0Appliance 6.0.0.3",
+        "Release Date":"2016-05-17T00:00:00.000Z",
+        "Build Number":"3845888",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 6.1.1",
+        "Release Date":"2016-05-26T00:00:00.000Z",
+        "Build Number":"3849281",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 6.1.1.1",
+        "Release Date":"2016-11-10T00:00:00.000Z",
+        "Build Number":"4595498",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 6.1.2",
+        "Release Date":"2017-02-24T00:00:00.000Z",
+        "Build Number":"9117108",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication\u00a0Appliance 6.1.2.1",
+        "Release Date":"2017-11-09T00:00:00.000Z",
+        "Build Number":"7026558",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 6.1.2.2",
+        "Release Date":"2018-07-26T00:00:00.000Z",
+        "Build Number":"9117108",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 8.1.0.4",
+        "Release Date":"2018-08-24T00:00:00.000Z",
+        "Build Number":"9466424",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 8.1.1",
+        "Release Date":"2018-11-06T00:00:00.000Z",
+        "Build Number":"10721838",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance\u00a08.1.0.3",
+        "Release Date":"2018-06-12T00:00:00.000Z",
+        "Build Number":"8744176",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance\u00a08.1.0.2",
+        "Release Date":"2018-02-18T00:00:00.000Z",
+        "Build Number":"8539865",
+        "Installer Build Number":null
+    },
+    {
+        "Version":"vSphere Replication Appliance 8.1.0.1",
+        "Release Date":"2018-03-20T00:00:00.000Z",
+        "Build Number":"8310693",
+        "Installer Build Number":null
+    }
+]
