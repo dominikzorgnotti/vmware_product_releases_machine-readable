@@ -1,48 +1,48 @@
 [
     {
-        "vCenter Server 7.0 update 1d":"vCenter Server 7.0 update 1c",
+        "vCenter Server 7.0 update 1d\u00a0(7.0.1.00300)":"vCenter Server 7.0 update 1c\u00a0(7.0.1.00200)",
         "2021-02-02":"2020-12-17",
         "17491101":17327517,
         "17491160":17327586
     },
     {
-        "vCenter Server 7.0 update 1d":"vCenter Server 7.0 update 1a",
+        "vCenter Server 7.0 update 1d\u00a0(7.0.1.00300)":"vCenter Server 7.0 update 1a\u00a0(7.0.1.00100)",
         "2021-02-02":"2020-10-22",
         "17491101":17004997,
         "17491160":17005016
     },
     {
-        "vCenter Server 7.0 update 1d":"vCenter Server 7.0 Update 1",
+        "vCenter Server 7.0 update 1d\u00a0(7.0.1.00300)":"vCenter Server 7.0 Update 1\u00a0(7.0.1.00000)",
         "2021-02-02":"2020-10-06",
         "17491101":16860138,
         "17491160":16858589
     },
     {
-        "vCenter Server 7.0 update 1d":"vCenter Server 7.0.0d",
+        "vCenter Server 7.0 update 1d\u00a0(7.0.1.00300)":"vCenter Server 7.0.0d\u00a0(7.0.0.10700)",
         "2021-02-02":"2020-08-25",
         "17491101":16749653,
         "17491160":16749670
     },
     {
-        "vCenter Server 7.0 update 1d":"vCenter Server 7.0.0c",
+        "vCenter Server 7.0 update 1d\u00a0(7.0.1.00300)":"vCenter Server 7.0.0c\u00a0(7.0.0.10600)",
         "2021-02-02":"2020-07-30",
         "17491101":16620007,
         "17491160":16620013
     },
     {
-        "vCenter Server 7.0 update 1d":"vCenter Server 7.0.0b",
+        "vCenter Server 7.0 update 1d\u00a0(7.0.1.00300)":"vCenter Server 7.0.0b\u00a0(7.0.0.10400)",
         "2021-02-02":"2020-06-23",
         "17491101":16386292,
         "17491160":16386335
     },
     {
-        "vCenter Server 7.0 update 1d":"vCenter Server 7.0.0a",
+        "vCenter Server 7.0 update 1d\u00a0(7.0.1.00300)":"vCenter Server 7.0.0a\u00a0(7.0.0.10300)",
         "2021-02-02":"2020-05-19",
         "17491101":16189094,
         "17491160":16189207
     },
     {
-        "vCenter Server 7.0 update 1d":"vCenter Server 7.0 GA",
+        "vCenter Server 7.0 update 1d\u00a0(7.0.1.00300)":"vCenter Server 7.0 GA\u00a0(7.0.0.10100)",
         "2021-02-02":"2020-04-02",
         "17491101":15952498,
         "17491160":15952599

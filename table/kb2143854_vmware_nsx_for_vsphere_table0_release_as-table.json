@@ -26,348 +26,354 @@
     "data":[
         {
             "index":1,
+            "Version":"VMware NSX Data Center for vSphere 6.4.10",
+            "Release Date":"2021-02-18T00:00:00.000Z",
+            "Build Number":"17626462"
+        },
+        {
+            "index":2,
             "Version":"VMware NSX Data Center for vSphere 6.4.9",
             "Release Date":"2020-12-15T00:00:00.000Z",
             "Build Number":"17267008"
         },
         {
-            "index":2,
+            "index":3,
             "Version":"VMware NSX Data Center for vSphere 6.4.8",
             "Release Date":"2020-08-10T00:00:00.000Z",
             "Build Number":"16724220"
         },
         {
-            "index":3,
+            "index":4,
             "Version":"VMware NSX Data Center for vSphere 6.4.7",
             "Release Date":"2020-07-09T00:00:00.000Z",
             "Build Number":"16509800"
         },
         {
-            "index":4,
+            "index":5,
             "Version":"VMware NSX Data Center for vSphere 6.4.6",
             "Release Date":"2019-10-10T00:00:00.000Z",
             "Build Number":"14819921"
         },
         {
-            "index":5,
+            "index":6,
             "Version":"VMware NSX Data Center for vSphere 6.4.5",
             "Release Date":"2019-04-18T00:00:00.000Z",
             "Build Number":"13282012"
         },
         {
-            "index":6,
-            "Version":"VMware NSX Data Center for vSphere 6.4.4",
+            "index":7,
+            "Version":"VMware NSX Data Center for vSphere\u00a06.4.4",
             "Release Date":"2018-12-14T00:00:00.000Z",
             "Build Number":"11197766"
         },
         {
-            "index":7,
+            "index":8,
             "Version":"VMware NSX Data Center for vSphere 6.4.3",
             "Release Date":"2018-09-11T00:00:00.000Z",
             "Build Number":"9927516"
         },
         {
-            "index":8,
+            "index":9,
             "Version":"VMware NSX Data Center for vSphere 6.4.2",
             "Release Date":"2018-08-21T00:00:00.000Z",
             "Build Number":"9643711"
         },
         {
-            "index":9,
+            "index":10,
             "Version":"VMware NSX Data Center for vSphere 6.4.1",
             "Release Date":"2018-05-24T00:00:00.000Z",
             "Build Number":"8599035"
         },
         {
-            "index":10,
+            "index":11,
             "Version":"VMware NSX for vSphere 6.4.0",
             "Release Date":"2018-01-16T00:00:00.000Z",
             "Build Number":"7564187"
         },
         {
-            "index":11,
+            "index":12,
             "Version":"VMware NSX for vSphere 6.3.7",
             "Release Date":"2018-11-15T00:00:00.000Z",
             "Build Number":"10667122"
         },
         {
-            "index":12,
+            "index":13,
             "Version":"VMware NSX for vSphere 6.3.6",
             "Release Date":"2018-03-29T00:00:00.000Z",
             "Build Number":"8085122"
         },
         {
-            "index":13,
+            "index":14,
             "Version":"VMware NSX for vSphere 6.3.5",
             "Release Date":"2017-11-16T00:00:00.000Z",
             "Build Number":"7119875"
         },
         {
-            "index":14,
+            "index":15,
             "Version":"VMware NSX for vSphere 6.3.4",
             "Release Date":"2017-10-12T00:00:00.000Z",
             "Build Number":"7087695"
         },
         {
-            "index":15,
+            "index":16,
             "Version":"VMware NSX for vSphere 6.3.3",
             "Release Date":"2017-08-10T00:00:00.000Z",
             "Build Number":"7087283"
         },
         {
-            "index":16,
+            "index":17,
             "Version":"VMware NSX for vSphere 6.3.2",
             "Release Date":"2017-06-08T00:00:00.000Z",
             "Build Number":"5672532"
         },
         {
-            "index":17,
+            "index":18,
             "Version":"VMware NSX for vSphere 6.3.1",
             "Release Date":"2017-02-28T00:00:00.000Z",
             "Build Number":"5124716"
         },
         {
-            "index":18,
+            "index":19,
             "Version":"VMware NSX for vSphere 6.3.0",
             "Release Date":"2017-02-02T00:00:00.000Z",
             "Build Number":"5007049"
         },
         {
-            "index":19,
+            "index":20,
             "Version":"VMware NSX for vSphere 6.2.9",
             "Release Date":"2017-10-26T00:00:00.000Z",
             "Build Number":"6926419"
         },
         {
-            "index":20,
+            "index":21,
             "Version":"VMware NSX for vSphere 6.2.8",
             "Release Date":"2017-07-06T00:00:00.000Z",
             "Build Number":"5901733"
         },
         {
-            "index":21,
+            "index":22,
             "Version":"VMware NSX for vSphere 6.2.7",
             "Release Date":"2017-04-20T00:00:00.000Z",
             "Build Number":"5343628"
         },
         {
-            "index":22,
-            "Version":"VMware NSX for vSphere 6.2.6",
+            "index":23,
+            "Version":"VMware NSX for vSphere\u00a06.2.6",
             "Release Date":"2017-02-02T00:00:00.000Z",
             "Build Number":"4977495"
         },
         {
-            "index":23,
+            "index":24,
             "Version":"VMware NSX for vSphere 6.2.5",
             "Release Date":"2017-01-05T00:00:00.000Z",
             "Build Number":"4818372"
         },
         {
-            "index":24,
+            "index":25,
             "Version":"VMware NSX for vSphere 6.2.4",
             "Release Date":"2016-08-26T00:00:00.000Z",
             "Build Number":"4292526"
         },
         {
-            "index":25,
+            "index":26,
             "Version":"VMware NSX for vSphere 6.2.3",
             "Release Date":"2016-06-09T00:00:00.000Z",
             "Build Number":"3979471"
         },
         {
-            "index":26,
+            "index":27,
             "Version":"VMware NSX for vSphere 6.2.2",
             "Release Date":"2016-03-03T00:00:00.000Z",
             "Build Number":"3604087"
         },
         {
-            "index":27,
+            "index":28,
             "Version":"VMware NSX for vSphere 6.2.1",
             "Release Date":"2015-12-07T00:00:00.000Z",
             "Build Number":"3300239"
         },
         {
-            "index":28,
-            "Version":"VMware NSX for vSphere 6.2",
+            "index":29,
+            "Version":"VMware NSX for vSphere\u00a06.2",
             "Release Date":"2015-08-20T00:00:00.000Z",
             "Build Number":"2986609"
         },
         {
-            "index":29,
+            "index":30,
             "Version":"VMware NSX for vSphere 6.1.7",
             "Release Date":"2016-06-09T00:00:00.000Z",
             "Build Number":"3949567"
         },
         {
-            "index":30,
+            "index":31,
             "Version":"VMware NSX for vSphere 6.1.6",
             "Release Date":"2016-03-04T00:00:00.000Z",
             "Build Number":"3615148"
         },
         {
-            "index":31,
+            "index":32,
             "Version":"VMware NSX for vSphere 6.1.5",
             "Release Date":"2015-10-01T00:00:00.000Z",
             "Build Number":"3102213"
         },
         {
-            "index":32,
+            "index":33,
             "Version":"VMware NSX for vSphere 6.1.4",
             "Release Date":"2015-05-07T00:00:00.000Z",
             "Build Number":"2691049"
         },
         {
-            "index":33,
+            "index":34,
             "Version":"VMware NSX for vSphere 6.1.3",
             "Release Date":"2015-03-23T00:00:00.000Z",
             "Build Number":"2591148"
         },
         {
-            "index":34,
+            "index":35,
             "Version":"VMware NSX for vSphere 6.1.2",
             "Release Date":"2014-12-04T00:00:00.000Z",
             "Build Number":"2318232"
         },
         {
-            "index":35,
+            "index":36,
             "Version":"VMware NSX for vSphere 6.1.1",
             "Release Date":"2014-10-04T00:00:00.000Z",
             "Build Number":"2179522"
         },
         {
-            "index":36,
+            "index":37,
             "Version":"VMware NSX for vSphere 6.1",
             "Release Date":"2014-09-11T00:00:00.000Z",
             "Build Number":"2107742"
         },
         {
-            "index":37,
-            "Version":"VMware NSX for vSphere 6.0.7",
+            "index":38,
+            "Version":"VMware NSX for vSphere\u00a06.0.7",
             "Release Date":"2014-10-04T00:00:00.000Z",
             "Build Number":"2176282"
         },
         {
-            "index":38,
-            "Version":"VMware NSX for vSphere 6.0.6",
+            "index":39,
+            "Version":"VMware NSX for vSphere\u00a06.0.6",
             "Release Date":"2014-09-11T00:00:00.000Z",
             "Build Number":"2103699"
         },
         {
-            "index":39,
+            "index":40,
             "Version":"VMware NSX for vSphere 6.0.5",
             "Release Date":"2014-07-01T00:00:00.000Z",
             "Build Number":"1911278"
         },
         {
-            "index":40,
+            "index":41,
             "Version":"VMware NSX for vSphere 6.0.4",
             "Release Date":"2014-04-18T00:00:00.000Z",
             "Build Number":"1752381"
         },
         {
-            "index":41,
+            "index":42,
             "Version":"VMware NSX for vSphere 6.0.3",
             "Release Date":"2014-04-04T00:00:00.000Z",
             "Build Number":"1709195"
         },
         {
-            "index":42,
-            "Version":"VMware NSX for vSphere 6.0.2",
+            "index":43,
+            "Version":"VMware NSX for vSphere\u00a06.0.2",
             "Release Date":"2014-01-16T00:00:00.000Z",
             "Build Number":null
         },
         {
-            "index":43,
+            "index":44,
             "Version":"VMware NSX for vSphere 6.0.1",
             "Release Date":"2013-12-03T00:00:00.000Z",
             "Build Number":"1449177"
         },
         {
-            "index":44,
+            "index":45,
             "Version":"VMware NSX for vSphere 6.0",
             "Release Date":"2013-10-15T00:00:00.000Z",
-            "Build Number":"1378053"
+            "Build Number":"137853"
         },
         {
-            "index":45,
-            "Version":"VMware NSX for Multi-Hypervisor 4.2.4",
+            "index":46,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.2.4",
             "Release Date":"2015-04-21T00:00:00.000Z",
             "Build Number":"42965"
         },
         {
-            "index":46,
-            "Version":"VMware NSX for Multi-Hypervisor 4.2.3",
+            "index":47,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.2.3",
             "Release Date":"2015-01-29T00:00:00.000Z",
-            "Build Number":"41300"
+            "Build Number":"41330"
         },
         {
-            "index":47,
-            "Version":"VMware NSX for Multi-Hypervisor 4.2.2",
+            "index":48,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.2.2",
             "Release Date":"2014-11-24T00:00:00.000Z",
             "Build Number":"40233"
         },
         {
-            "index":48,
-            "Version":"VMware NSX for Multi-Hypervisor 4.2.1",
+            "index":49,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.2.1",
             "Release Date":"2014-10-01T00:00:00.000Z",
             "Build Number":"32956"
         },
         {
-            "index":49,
-            "Version":"VMware NSX for Multi-Hypervisor 4.2.0",
+            "index":50,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.2.0",
             "Release Date":"2014-08-19T00:00:00.000Z",
             "Build Number":"38154"
         },
         {
-            "index":50,
-            "Version":"VMware NSX for Multi-Hypervisor 4.1.3",
+            "index":51,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.1.3",
             "Release Date":"2014-06-20T00:00:00.000Z",
             "Build Number":"36327"
         },
         {
-            "index":51,
-            "Version":"VMware NSX for Multi-Hypervisor 4.1.2",
+            "index":52,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.1.2",
             "Release Date":"2014-05-05T00:00:00.000Z",
             "Build Number":"34880"
         },
         {
-            "index":52,
-            "Version":"VMware NSX for Multi-Hypervisor 4.1.1",
+            "index":53,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.1.1",
             "Release Date":"2014-04-19T00:00:00.000Z",
             "Build Number":"34531"
         },
         {
-            "index":53,
-            "Version":"VMware NSX for Multi-Hypervisor 4.1.0",
+            "index":54,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.1.0",
             "Release Date":"2014-03-14T00:00:00.000Z",
             "Build Number":"33890"
         },
         {
-            "index":54,
-            "Version":"VMware NSX for Multi-Hypervisor 4.0.4",
+            "index":55,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.0.4",
             "Release Date":"2014-06-20T00:00:00.000Z",
             "Build Number":"36310"
         },
         {
-            "index":55,
-            "Version":"VMware NSX for Multi-Hypervisor 4.0.3",
+            "index":56,
+            "Version":"VMware NSX for Multi-Hypervisor4.0.3",
             "Release Date":"2014-05-05T00:00:00.000Z",
             "Build Number":"35077"
         },
         {
-            "index":56,
-            "Version":"VMware NSX for Multi-Hypervisor 4.0.2",
+            "index":57,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.0.2",
             "Release Date":"2014-04-19T00:00:00.000Z",
             "Build Number":"34524"
         },
         {
-            "index":57,
-            "Version":"VMware NSX for Multi-Hypervisor 4.0.1",
+            "index":58,
+            "Version":"VMware NSX for Multi-Hypervisor\u00a04.0.1",
             "Release Date":"2014-01-30T00:00:00.000Z",
             "Build Number":"32950"
         },
         {
-            "index":58,
+            "index":59,
             "Version":"VMware NSX for Multi-Hypervisor 4.0.0",
             "Release Date":"2013-10-14T00:00:00.000Z",
             "Build Number":"29899"
