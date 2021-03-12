@@ -14,7 +14,7 @@
                 "type":"string"
             },
             {
-                "name":"Build number",
+                "name":"Build Number",
                 "type":"string"
             },
             {
@@ -32,182 +32,182 @@
             "index":1,
             "Product":"VMware vRealize Operations 8.3.0",
             "Release date":"02\/05\/2021",
-            "Build number":"17501340",
+            "Build Number":"17501340",
             "Installer Build Number":null
         },
         {
             "index":2,
             "Product":"VMware vRealize Operations 8.2.0",
             "Release date":"10\/06\/2020",
-            "Build number":"16949153",
+            "Build Number":"16949153",
             "Installer Build Number":null
         },
         {
             "index":3,
             "Product":"VMware vRealize Operations 8.1.1",
             "Release date":"07\/09\/2020",
-            "Build number":"16522874",
+            "Build Number":"16522874",
             "Installer Build Number":null
         },
         {
             "index":4,
             "Product":"VMware vRealize Operations 8.1.0",
             "Release date":"04\/14\/2020",
-            "Build number":"15972145",
+            "Build Number":"15972145",
             "Installer Build Number":null
         },
         {
             "index":5,
             "Product":"VMware vRealize Operations 8.0.1",
             "Release date":"12\/09\/2019",
-            "Build number":"15331180",
+            "Build Number":"15331180",
             "Installer Build Number":null
         },
         {
             "index":6,
             "Product":"VMware vRealize Operations 8.0.0",
             "Release date":"10\/17\/2019",
-            "Build number":"14857692",
+            "Build Number":"14857692",
             "Installer Build Number":null
         },
         {
             "index":7,
             "Product":"VMware vRealize Operations Manager 7.5.0",
             "Release date":"04\/11\/2019",
-            "Build number":"13165949",
+            "Build Number":"13165949",
             "Installer Build Number":null
         },
         {
             "index":8,
             "Product":"VMware vRealize Operations Manager 7.0.0",
             "Release date":"09\/20\/2018",
-            "Build number":"10098133",
+            "Build Number":"10098133",
             "Installer Build Number":null
         },
         {
             "index":9,
             "Product":"VMware vRealize Operations Manager 6.7.0",
             "Release date":"04\/12\/2018",
-            "Build number":"8183617",
+            "Build Number":"8183617",
             "Installer Build Number":null
         },
         {
             "index":10,
             "Product":"VMware vRealize Operations Manager 6.6.1",
             "Release date":"08\/08\/2017",
-            "Build number":"6163035, 6163041",
+            "Build Number":"6163035, 6163041",
             "Installer Build Number":null
         },
         {
             "index":11,
             "Product":"VMware vRealize Operations Manager 6.5.0",
             "Release date":"03\/02\/2017",
-            "Build number":"5097674, 5097678, 5041485",
+            "Build Number":"5097674, 5097678, 5041485",
             "Installer Build Number":null
         },
         {
             "index":12,
             "Product":"VMware vRealize Operations Manager 6.4.0",
             "Release date":"11\/15\/2016",
-            "Build number":"4635874, 4535875, 4635873",
+            "Build Number":"4635874, 4535875, 4635873",
             "Installer Build Number":null
         },
         {
             "index":13,
             "Product":"VMware vRealize Operations Manager 6.3.0",
             "Release date":"08\/23\/2016",
-            "Build number":"4276418, 4276419, 4443152",
+            "Build Number":"4276418, 4276419, 4443152",
             "Installer Build Number":null
         },
         {
             "index":14,
             "Product":"VMware vRealize Operations Manager 6.2.1",
             "Release date":"04\/26\/2016",
-            "Build number":"3774215, 3774216",
+            "Build Number":"3774215, 3774216",
             "Installer Build Number":null
         },
         {
             "index":15,
             "Product":"VMware vRealize Operations Manager 6.2.0a",
             "Release date":"02\/10\/2016",
-            "Build number":"3528905, 3528904",
+            "Build Number":"3528905, 3528904",
             "Installer Build Number":null
         },
         {
             "index":16,
             "Product":"VMware vRealize Operations Manager 6.1.0",
             "Release date":"09\/10\/2015",
-            "Build number":"3038306, 3038035",
+            "Build Number":"3038306, 3038035",
             "Installer Build Number":null
         },
         {
             "index":17,
             "Product":"VMware vRealize Operations Manager 6.0.3",
             "Release date":"09\/10\/2015",
-            "Build number":"3041065",
+            "Build Number":"3041065",
             "Installer Build Number":null
         },
         {
             "index":18,
             "Product":"VMware vRealize Operations Manager 6.0.2",
             "Release date":"06\/9\/2015",
-            "Build number":"2777062",
+            "Build Number":"2777062",
             "Installer Build Number":null
         },
         {
             "index":19,
             "Product":"VMware vRealize Operations Manager 6.0.1",
             "Release date":"02\/26\/2015",
-            "Build number":"2523163",
+            "Build Number":"2523163",
             "Installer Build Number":null
         },
         {
             "index":20,
             "Product":"VMware vRealize Operations Manager 6.0.0",
             "Release date":"12\/9\/2014",
-            "Build number":"2263110",
+            "Build Number":"2263110",
             "Installer Build Number":null
         },
         {
             "index":21,
             "Product":"VMware vCenter Operations Manager 5.8.5",
             "Release date":"03\/12\/2015",
-            "Build number":"2532416",
+            "Build Number":"2532416",
             "Installer Build Number":null
         },
         {
             "index":22,
             "Product":"VMware vCenter Operations Manager 5.8.4",
             "Release date":"10\/28\/2014",
-            "Build number":"2199700",
+            "Build Number":"2199700",
             "Installer Build Number":null
         },
         {
             "index":23,
             "Product":"VMware vCenter Operations Manager 5.8.3",
             "Release date":"09\/09\/2014",
-            "Build number":"2076729",
+            "Build Number":"2076729",
             "Installer Build Number":null
         },
         {
             "index":24,
             "Product":"VMware vCenter Operations Manager 5.8.2",
             "Release date":"06\/24\/2014",
-            "Build number":"1885282",
+            "Build Number":"1885282",
             "Installer Build Number":null
         },
         {
             "index":25,
             "Product":"VMware vCenter Operations Manager 5.8.1",
             "Release date":"03\/11\/2014",
-            "Build number":"1637685",
+            "Build Number":"1637685",
             "Installer Build Number":null
         },
         {
             "index":26,
             "Product":"VMware vCenter Operations Manager 5.8.0",
             "Release date":"12\/10\/2013",
-            "Build number":"1448123",
+            "Build Number":"1448123",
             "Installer Build Number":null
         }
     ]
