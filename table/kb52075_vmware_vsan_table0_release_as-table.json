@@ -290,6 +290,18 @@
         },
         {
             "index":21,
+            "VxRail Release":"4.0.523",
+            "System Version":"4.0.523-13049050",
+            "Esxi (Version - Build #)":"6.0 EP20 - 13003896",
+            "VxRail manager":"4.0.523-13049050",
+            "vSAN":"6.2 EP20",
+            "Internal vCSA":"6.0 U3h",
+            "External vCSA":"6.0 U3",
+            "External vCSA":"6.0 U3h",
+            "External vCSA":null
+        },
+        {
+            "index":22,
             "VxRail Release":"4.5",
             "System Version":"4.5-6607744",
             "Esxi (Version - Build #)":"6.5 U1 -\u00a05969303",
@@ -301,7 +313,7 @@
             "External vCSA":null
         },
         {
-            "index":22,
+            "index":23,
             "VxRail Release":"4.5.070",
             "System Version":"4.5.070-6881819",
             "Esxi (Version - Build #)":"6.5 EP04 - 6765664",
@@ -313,7 +325,7 @@
             "External vCSA":null
         },
         {
-            "index":23,
+            "index":24,
             "VxRail Release":"4.5.101",
             "System Version":"4.5.101",
             "Esxi (Version - Build #)":"6.5 EP04 - 6765664",
@@ -325,7 +337,7 @@
             "External vCSA":null
         },
         {
-            "index":24,
+            "index":25,
             "VxRail Release":"4.5.150",
             "System Version":"4.5.150",
             "Esxi (Version - Build #)":"6.5 P02 - 7388607",
@@ -337,7 +349,7 @@
             "External vCSA":null
         },
         {
-            "index":25,
+            "index":26,
             "VxRail Release":"4.5.152",
             "System Version":"4.5.152-8119832",
             "Esxi (Version - Build #)":"6.5 EP06 - 7967591",
@@ -349,7 +361,7 @@
             "External vCSA":null
         },
         {
-            "index":26,
+            "index":27,
             "VxRail Release":"4.5.200",
             "System Version":"4.5.200-7769313",
             "Esxi (Version - Build #)":"6.5 P02 - 7388607",
@@ -361,7 +373,7 @@
             "External vCSA":null
         },
         {
-            "index":27,
+            "index":28,
             "VxRail Release":"4.5.210",
             "System Version":"4.5.210-8392085",
             "Esxi (Version - Build #)":"6.5 U2 - 8294253",
@@ -373,7 +385,7 @@
             "External vCSA":null
         },
         {
-            "index":28,
+            "index":29,
             "VxRail Release":"4.5.211",
             "System Version":"4.5.211-8667744",
             "Esxi (Version - Build #)":"6.5 U2 - 8294253",
@@ -385,7 +397,7 @@
             "External vCSA":null
         },
         {
-            "index":29,
+            "index":30,
             "VxRail Release":"4.5.212",
             "System Version":"4.5.212-8993024",
             "Esxi (Version - Build #)":"6.5 EP07 - 8935087",
@@ -397,7 +409,7 @@
             "External vCSA":null
         },
         {
-            "index":30,
+            "index":31,
             "VxRail Release":"4.5.215",
             "System Version":"4.5.215-8993685",
             "Esxi (Version - Build #)":"6.5 EP07 - 8935087",
@@ -409,7 +421,7 @@
             "External vCSA":null
         },
         {
-            "index":31,
+            "index":32,
             "VxRail Release":"4.5.218",
             "System Version":"4.5.218-9630255",
             "Esxi (Version - Build #)":"6.5 EP08 - 9298722",
@@ -421,7 +433,7 @@
             "External vCSA":null
         },
         {
-            "index":32,
+            "index":33,
             "VxRail Release":"4.5.225",
             "System Version":"4.5.225-10175896",
             "Esxi (Version - Build #)":"6.5 EP09 - 10175896",
@@ -433,7 +445,7 @@
             "External vCSA":null
         },
         {
-            "index":33,
+            "index":34,
             "VxRail Release":"4.5.227",
             "System Version":"4.5.227-10635363",
             "Esxi (Version - Build #)":"6.5 EP10 - 10390116",
@@ -445,43 +457,187 @@
             "External vCSA":null
         },
         {
-            "index":34,
+            "index":35,
             "VxRail Release":"4.5.229",
-            "System Version":"4.5.229-10764993",
+            "System Version":"4.5.229 - 10764993",
             "Esxi (Version - Build #)":"6.5 EP11 - 10719125",
             "VxRail manager":"4.5.229-10764993",
             "vSAN":"6.6.1 EP11",
             "Internal vCSA":"6.5 U2c",
-            "External vCSA":"6.5 U2",
+            "External vCSA":"6.5 U2c",
             "External vCSA":"6.5 U2c",
             "External vCSA":null
         },
         {
-            "index":35,
+            "index":36,
             "VxRail Release":"4.5.300",
-            "System Version":"4.5.300 11239488",
-            "Esxi (Version - Build #)":"6.5 P03 10884925",
-            "VxRail manager":"4.5.300 11239488",
+            "System Version":"4.5.300 - 11239488",
+            "Esxi (Version - Build #)":"6.5 P03 - 10884925",
+            "VxRail manager":"4.5.300 - 11239488",
             "vSAN":"6.6.1 P03",
-            "Internal vCSA":"6.5 P03 10964411",
-            "External vCSA":"6.5 P03 10964411",
-            "External vCSA":"6.5 P03 10964411",
+            "Internal vCSA":"6.5 P03",
+            "External vCSA":"6.5 P03",
+            "External vCSA":"6.5 P03",
             "External vCSA":null
         },
         {
-            "index":36,
+            "index":37,
+            "VxRail Release":"4.5.310",
+            "System Version":"4.5.310 - 12663036",
+            "Esxi (Version - Build #)":"6.5 P03 - 10884925",
+            "VxRail manager":"4.5.310 - 12663036",
+            "vSAN":"6.6.1 P03",
+            "Internal vCSA":"6.5 P03",
+            "External vCSA":"6.5 P03",
+            "External vCSA":"6.5 P03",
+            "External vCSA":null
+        },
+        {
+            "index":38,
+            "VxRail Release":"4.5.311",
+            "System Version":"4.5.311 - 13066667",
+            "Esxi (Version - Build #)":"6.5 EP13 - 13004031",
+            "VxRail manager":"4.5.311 - 13066667",
+            "vSAN":"6.6.1 EP13",
+            "Internal vCSA":"6.5 U2d",
+            "External vCSA":"6.5 U2d",
+            "External vCSA":"6.5 U2d",
+            "External vCSA":null
+        },
+        {
+            "index":39,
+            "VxRail Release":"4.5.314",
+            "System Version":"4.5.314 - 13819948",
+            "Esxi (Version - Build #)":"6.5 EP14 - 13635690",
+            "VxRail manager":"4.5.314 - 13819948",
+            "vSAN":"6.6.1 EP14",
+            "Internal vCSA":"6.5 U2g",
+            "External vCSA":"6.5 U2g",
+            "External vCSA":"6.5 U2g",
+            "External vCSA":null
+        },
+        {
+            "index":40,
+            "VxRail Release":"4.5.400",
+            "System Version":"4.5.400 - 14097253",
+            "Esxi (Version - Build #)":"6.5 U3 - 13932383",
+            "VxRail manager":"4.5.400 - 14097253",
+            "vSAN":"6.6.1 U3",
+            "Internal vCSA":"6.5 U3",
+            "External vCSA":"6.5 U3",
+            "External vCSA":"6.5 U3",
+            "External vCSA":null
+        },
+        {
+            "index":41,
+            "VxRail Release":"4.5.401",
+            "System Version":"4.5.401 - 15195796",
+            "Esxi (Version - Build #)":"6.5 EP17 - 14990892",
+            "VxRail manager":"4.5.401 - 15195796",
+            "vSAN":"6.6.1 EP17",
+            "Internal vCSA":"6.5 U3d",
+            "External vCSA":"6.5 U3d",
+            "External vCSA":"6.5 U3d",
+            "External vCSA":null
+        },
+        {
+            "index":42,
+            "VxRail Release":"4.5.402",
+            "System Version":"4.5.402 - 15266363",
+            "Esxi (Version - Build #)":"6.5 EP18 - 15177306",
+            "VxRail manager":"4.5.402 - 15266363",
+            "vSAN":"6.6.1 EP18",
+            "Internal vCSA":"6.5 U3d",
+            "External vCSA":"6.5 U3d",
+            "External vCSA":"6.5 U3d",
+            "External vCSA":null
+        },
+        {
+            "index":43,
+            "VxRail Release":"4.5.420",
+            "System Version":"4.5.420 - 15404558",
+            "Esxi (Version - Build #)":"6.5 P04 - 15256549",
+            "VxRail manager":"4.5.420 - 15404558",
+            "vSAN":"6.6.1 P04",
+            "Internal vCSA":"6.5 U3f",
+            "External vCSA":"6.5 U3f",
+            "External vCSA":"6.5 U3f",
+            "External vCSA":null
+        },
+        {
+            "index":44,
+            "VxRail Release":"4.5.422",
+            "System Version":"4.5.422 - 16447729",
+            "Esxi (Version - Build #)":"6.5 EP20 - 16389870",
+            "VxRail manager":"4.5.422 - 16447729",
+            "vSAN":"6.6.1 EP20",
+            "Internal vCSA":"6.5 U3f",
+            "External vCSA":"6.5 U3f",
+            "External vCSA":"6.5 U3f",
+            "External vCSA":null
+        },
+        {
+            "index":45,
+            "VxRail Release":"4.5.450",
+            "System Version":"4.5.450 - 16680880",
+            "Esxi (Version - Build #)":"6.5 P05 - 16576891",
+            "VxRail manager":"4.5.450 - 16680879",
+            "vSAN":"6.6.1 P05",
+            "Internal vCSA":"6.5 U3k",
+            "External vCSA":"6.5 U3k",
+            "External vCSA":"6.5 U3k",
+            "External vCSA":null
+        },
+        {
+            "index":46,
+            "VxRail Release":"4.5.451",
+            "System Version":"4.5.451 - 17043308",
+            "Esxi (Version - Build #)":"6.5 EP21 - 16901156",
+            "VxRail manager":"4.5.451 - 17043307",
+            "vSAN":"6.6.1 EP21",
+            "Internal vCSA":"6.5 U3k",
+            "External vCSA":"6.5 U3k",
+            "External vCSA":"6.5 U3k",
+            "External vCSA":null
+        },
+        {
+            "index":47,
+            "VxRail Release":"4.5.452",
+            "System Version":"4.5.452 - 17226814",
+            "Esxi (Version - Build #)":"6.5 EP23 - 17167537",
+            "VxRail manager":"4.5.452 - 17226813",
+            "vSAN":"6.6.1 EP23",
+            "Internal vCSA":"6.5 U3k",
+            "External vCSA":"6.5 U3k",
+            "External vCSA":"6.5 U3k",
+            "External vCSA":null
+        },
+        {
+            "index":48,
+            "VxRail Release":"4.5.460",
+            "System Version":"4.5.460 - 17632939",
+            "Esxi (Version - Build #)":"6.5 P06 - 17477841",
+            "VxRail manager":"4.5.460 - 17632938",
+            "vSAN":"6.6.1 P06",
+            "Internal vCSA":"6.5 U3n",
+            "External vCSA":"6.5 U3n",
+            "External vCSA":"6.5 U3n",
+            "External vCSA":null
+        },
+        {
+            "index":49,
             "VxRail Release":"4.7.000",
             "System Version":"4.7.000-10825282",
             "Esxi (Version - Build #)":"6.7 EP5 - 10764712",
             "VxRail manager":"4.7.000-10825282",
-            "vSAN":"6.7 U1",
+            "vSAN":"6.7 EP5",
             "Internal vCSA":"6.7 U1",
             "External vCSA":"6.7 U1",
             "External vCSA":"6.7 U1",
             "External vCSA":null
         },
         {
-            "index":37,
+            "index":50,
             "VxRail Release":"4.7.001",
             "System Version":"4.7.001-11073036",
             "Esxi (Version - Build #)":"6.7 EP5 - 10764712",
@@ -493,7 +649,7 @@
             "External vCSA":null
         },
         {
-            "index":38,
+            "index":51,
             "VxRail Release":"4.7.100",
             "System Version":"4.7.100 - 11859440",
             "Esxi (Version - Build #)":"6.7 EP6 - 11675023",
@@ -505,7 +661,7 @@
             "External vCSA":null
         },
         {
-            "index":39,
+            "index":52,
             "VxRail Release":"4.7.110",
             "System Version":"4.7.110 - 12663824",
             "Esxi (Version - Build #)":"6.7 EP6 116755023",
@@ -517,7 +673,7 @@
             "External vCSA":null
         },
         {
-            "index":40,
+            "index":53,
             "VxRail Release":"4.7.111",
             "System Version":"4.7.111 - 13048811",
             "Esxi (Version - Build #)":"6.7 EP7 - 13004448",
@@ -529,7 +685,7 @@
             "External vCSA":null
         },
         {
-            "index":41,
+            "index":54,
             "VxRail Release":"4.7.200",
             "System Version":"4.7.200 - 13531218",
             "Esxi (Version - Build #)":"6.7 U2 - 13006603",
@@ -541,7 +697,7 @@
             "External vCSA":null
         },
         {
-            "index":42,
+            "index":55,
             "VxRail Release":"4.7.210",
             "System Version":"4.7.210 - 13820133",
             "Esxi (Version - Build #)":"6.7 EP09 - 13644319",
@@ -553,7 +709,7 @@
             "External vCSA":null
         },
         {
-            "index":43,
+            "index":56,
             "VxRail Release":"4.7.211",
             "System Version":"4.7.211 - 13893929",
             "Esxi (Version - Build #)":"6.7 EP09 - 13644319",
@@ -565,7 +721,7 @@
             "External vCSA":null
         },
         {
-            "index":44,
+            "index":57,
             "VxRail Release":"4.7.212",
             "System Version":"4.7.212 - 14215560",
             "Esxi (Version - Build #)":"6.7 EP10 - 13981272",
@@ -577,7 +733,7 @@
             "External vCSA":null
         },
         {
-            "index":45,
+            "index":58,
             "VxRail Release":"4.7.300",
             "System Version":"4.7.200 - 14450150",
             "Esxi (Version - Build #)":"6.7 U3 - 14320388",
@@ -589,7 +745,7 @@
             "External vCSA":null
         },
         {
-            "index":46,
+            "index":59,
             "VxRail Release":"4.7.301",
             "System Version":"4.7.301 - 15195814",
             "Esxi (Version - Build #)":"6.7 EP13 15018017",
@@ -601,7 +757,7 @@
             "External vCSA":null
         },
         {
-            "index":47,
+            "index":60,
             "VxRail Release":"4.7.400",
             "System Version":"4.7.400 -14824664",
             "Esxi (Version - Build #)":"6.7 U3 14320388",
@@ -613,7 +769,7 @@
             "External vCSA":null
         },
         {
-            "index":48,
+            "index":61,
             "VxRail Release":"4.7.410",
             "System Version":"4.7.410 - 26262335",
             "Esxi (Version - Build #)":"6.7 P01 15160138",
@@ -625,7 +781,7 @@
             "External vCSA":null
         },
         {
-            "index":49,
+            "index":62,
             "VxRail Release":"4.7.411",
             "System Version":"4.7.411 - 26446498",
             "Esxi (Version - Build #)":"6.7 EP14 15820472",
@@ -637,7 +793,7 @@
             "External vCSA":null
         },
         {
-            "index":50,
+            "index":63,
             "VxRail Release":"4.7.500",
             "System Version":"4.7.500 - 26456207",
             "Esxi (Version - Build #)":"6.7 PO1 - 15160138",
@@ -649,7 +805,7 @@
             "External vCSA":null
         },
         {
-            "index":51,
+            "index":64,
             "VxRail Release":"4.7.510",
             "System Version":"4.7.510 - 26492623",
             "Esxi (Version - Build #)":"6.7 P02 - 16075168",
@@ -661,7 +817,7 @@
             "External vCSA":null
         },
         {
-            "index":52,
+            "index":65,
             "VxRail Release":"4.7.511",
             "System Version":"4.7.511 - 26539430",
             "Esxi (Version - Build #)":"6.7 EP15 - 16316930",
@@ -673,7 +829,7 @@
             "External vCSA":null
         },
         {
-            "index":53,
+            "index":66,
             "VxRail Release":"4.7.515",
             "System Version":"4.7.515 - 26640584",
             "Esxi (Version - Build #)":"6.7 P03 - 16713306",
@@ -685,7 +841,7 @@
             "External vCSA":null
         },
         {
-            "index":54,
+            "index":67,
             "VxRail Release":"4.7.520",
             "System Version":"4.7.520 - 26691291",
             "Esxi (Version - Build #)":"6.7 EP16 - 16773714",
@@ -697,7 +853,7 @@
             "External vCSA":null
         },
         {
-            "index":55,
+            "index":68,
             "VxRail Release":"4.7.521",
             "System Version":"4.7.521 - 26742258",
             "Esxi (Version - Build #)":"6.7 EP17 - 17098360",
@@ -709,7 +865,7 @@
             "External vCSA":null
         },
         {
-            "index":56,
+            "index":69,
             "VxRail Release":"4.7.525",
             "System Version":"4.7.525 - 26769857",
             "Esxi (Version - Build #)":"6.7 P04 - 17167734",
@@ -721,7 +877,7 @@
             "External vCSA":null
         },
         {
-            "index":57,
+            "index":70,
             "VxRail Release":"4.7.526",
             "System Version":"4.7.526 - 26792886",
             "Esxi (Version - Build #)":"6.7 P04 - 17167734",
@@ -733,7 +889,7 @@
             "External vCSA":null
         },
         {
-            "index":58,
+            "index":71,
             "VxRail Release":"4.7.527",
             "System Version":"4.7.527 - 26902834",
             "Esxi (Version - Build #)":"6.7 EP18 - 17499825",
@@ -745,7 +901,7 @@
             "External vCSA":null
         },
         {
-            "index":59,
+            "index":72,
             "VxRail Release":"7.0.000",
             "System Version":"7.0.000 - 26451670",
             "Esxi (Version - Build #)":"7.0 - 15843807",
@@ -757,7 +913,7 @@
             "External vCSA":null
         },
         {
-            "index":60,
+            "index":73,
             "VxRail Release":"7.0.010",
             "System Version":"7.0.010 - 26590399",
             "Esxi (Version - Build #)":"7.0b - 16324942",
@@ -769,7 +925,7 @@
             "External vCSA":null
         },
         {
-            "index":61,
+            "index":74,
             "VxRail Release":"7.0.100",
             "System Version":"7.0.100 - 26719865",
             "Esxi (Version - Build #)":"7.0U1 - 16850804",
@@ -781,7 +937,7 @@
             "External vCSA":null
         },
         {
-            "index":62,
+            "index":75,
             "VxRail Release":"7.0.101",
             "System Version":"7.0.101 - 26770072",
             "Esxi (Version - Build #)":"7.0U1 EP2 - 17168206",
@@ -793,7 +949,7 @@
             "External vCSA":null
         },
         {
-            "index":63,
+            "index":76,
             "VxRail Release":"7.0.130",
             "System Version":"7.0.130 - 26845144",
             "Esxi (Version - Build #)":"7.0U1c - 17325551",
@@ -805,7 +961,7 @@
             "External vCSA":null
         },
         {
-            "index":64,
+            "index":77,
             "VxRail Release":"7.0.131",
             "System Version":"7.0.131 - 26875681",
             "Esxi (Version - Build #)":"7.0U1d - 17551050",
@@ -817,7 +973,7 @@
             "External vCSA":null
         },
         {
-            "index":65,
+            "index":78,
             "VxRail Release":"7.0.132",
             "System Version":"7.0.132 - 26894200",
             "Esxi (Version - Build #)":"7.0U1d - 17551050",
