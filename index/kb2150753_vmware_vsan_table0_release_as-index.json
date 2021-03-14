@@ -2,571 +2,571 @@
     "17325551":{
         "vSAN version":"vSAN 7.0 Update 1(c)",
         "ESXi version":"ESXi 7.0 Update 1c",
-        "Release Date":"2020-12-17",
+        "Release Date":"2020-12-17T00:00:00.000Z",
         "vSAN on-disk format version":"13"
     },
     "17168206":{
         "vSAN version":"vSAN 7.0 Update 1(b)",
         "ESXi version":"ESXi 7.0 Update 1b",
-        "Release Date":"2020-11-19",
+        "Release Date":"2020-11-19T00:00:00.000Z",
         "vSAN on-disk format version":"13"
     },
     "17119627":{
         "vSAN version":"vSAN 7.0 Update 1(a)",
         "ESXi version":"ESXi 7.0 Update 1a",
-        "Release Date":"2020-11-04",
+        "Release Date":"2020-11-04T00:00:00.000Z",
         "vSAN on-disk format version":"13"
     },
     "16850804":{
         "vSAN version":"vSAN 7.0 Update 1",
         "ESXi version":"ESXi 7.0 Update 1",
-        "Release Date":"2020-10-06",
+        "Release Date":"2020-10-06T00:00:00.000Z",
         "vSAN on-disk format version":"13"
     },
     "16324942":{
         "vSAN version":"vSAN 7.0b",
         "ESXi version":"ESXi 7.0b",
-        "Release Date":"2020-06-23",
+        "Release Date":"2020-06-23T00:00:00.000Z",
         "vSAN on-disk format version":"11"
     },
     "15843807":{
         "vSAN version":"vSAN 7.0",
         "ESXi version":"ESXi 7.0",
-        "Release Date":"2020-04-02",
+        "Release Date":"2020-04-02T00:00:00.000Z",
         "vSAN on-disk format version":"11"
     },
     "16316930":{
         "vSAN version":"vSAN 6.7 Express Patch 15",
         "ESXi version":"ESXi 6.7 Express Patch 15",
-        "Release Date":"2020-06-09",
+        "Release Date":"2020-06-09T00:00:00.000Z",
         "vSAN on-disk format version":"10"
     },
     "16075168":{
         "vSAN version":"vSAN 6.7 Patch 02",
         "ESXi version":"ESXi 6.7 Patch 02",
-        "Release Date":"2020-04-28",
+        "Release Date":"2020-04-28T00:00:00.000Z",
         "vSAN on-disk format version":"10"
     },
     "15820472":{
         "vSAN version":"vSAN 6.7 Express Patch 14",
         "ESXi version":"ESXi 6.7 Express Patch 14",
-        "Release Date":"2020-04-07",
+        "Release Date":"2020-04-07T00:00:00.000Z",
         "vSAN on-disk format version":"10"
     },
     "15160138":{
         "vSAN version":"vSAN 6.7 Patch 01",
         "ESXi version":"ESXi 6.7 Patch 01",
-        "Release Date":"2019-12-05",
+        "Release Date":"2019-12-05T00:00:00.000Z",
         "vSAN on-disk format version":"10"
     },
     "15018017":{
         "vSAN version":"vSAN 6.7 Express Patch 13",
         "ESXi version":"ESXi 6.7 Express Patch 13",
-        "Release Date":"2019-11-12",
+        "Release Date":"2019-11-12T00:00:00.000Z",
         "vSAN on-disk format version":"10"
     },
     "14320388":{
         "vSAN version":"vSAN 6.7 Update 3",
         "ESXi version":"ESXi 6.7 Update 3",
-        "Release Date":"2019-08-20",
+        "Release Date":"2019-08-20T00:00:00.000Z",
         "vSAN on-disk format version":"10"
     },
     "13981272":{
         "vSAN version":"vSAN 6.7 Express Patch 10",
         "ESXi version":"ESXi 6.7 Express Patch 10",
-        "Release Date":"2019-06-20",
+        "Release Date":"2019-06-20T00:00:00.000Z",
         "vSAN on-disk format version":"7"
     },
     "13644319":{
         "vSAN version":"vSAN 6.7 Express Patch 09",
         "ESXi version":"ESXi 6.7 Express Patch 09",
-        "Release Date":"2019-05-14",
+        "Release Date":"2019-05-14T00:00:00.000Z",
         "vSAN on-disk format version":"7"
     },
     "13473784":{
         "vSAN version":"vSAN 6.7 Express Patch 08",
         "ESXi version":"ESXi 6.7 Express Patch 08",
-        "Release Date":"2019-04-30",
+        "Release Date":"2019-04-30T00:00:00.000Z",
         "vSAN on-disk format version":"7"
     },
     "13006603":{
         "vSAN version":"vSAN 6.7 Update 2",
         "ESXi version":"ESXi 6.7 Update 2",
-        "Release Date":"2019-04-11",
+        "Release Date":"2019-04-11T00:00:00.000Z",
         "vSAN on-disk format version":"7"
     },
     "13004448":{
         "vSAN version":"vSAN 6.7 Express Patch 07",
         "ESXi version":"ESXi 6.7 Express Patch 07",
-        "Release Date":"2019-03-28",
+        "Release Date":"2019-03-28T00:00:00.000Z",
         "vSAN on-disk format version":"7"
     },
     "11675023":{
         "vSAN version":"vSAN 6.7 Express Patch 06",
         "ESXi version":"ESXi 6.7 Express Patch 06",
-        "Release Date":"2019-01-17",
+        "Release Date":"2019-01-17T00:00:00.000Z",
         "vSAN on-disk format version":"7"
     },
     "10764712":{
         "vSAN version":"vSAN 6.7 Express Patch 05",
         "ESXi version":"ESXi 6.7 Express Patch 05",
-        "Release Date":"2018-11-09",
+        "Release Date":"2018-11-09T00:00:00.000Z",
         "vSAN on-disk format version":"7"
     },
     "10302608":{
         "vSAN version":"vSAN 6.7 Update 1",
         "ESXi version":"ESXi 6.7 Update 1",
-        "Release Date":"2018-10-17",
+        "Release Date":"2018-10-17T00:00:00.000Z",
         "vSAN on-disk format version":"7"
     },
     "10176752":{
         "vSAN version":"vSAN 6.7 Express Patch 4",
         "ESXi version":"ESXi 6.7 Express Patch 4",
-        "Release Date":"2018-10-02",
+        "Release Date":"2018-10-02T00:00:00.000Z",
         "vSAN on-disk format version":"6"
     },
     "8169922":{
         "vSAN version":"vSAN 6.7 GA",
         "ESXi version":"ESXi 6.7 GA",
-        "Release Date":"2018-04-17",
+        "Release Date":"2018-04-17T00:00:00.000Z",
         "vSAN on-disk format version":"6"
     },
     "16576891":{
         "vSAN version":"vSAN 6.6.1 Patch 05",
         "ESXi version":"ESXi 6.5 Patch 05",
-        "Release Date":"2020-07-30",
+        "Release Date":"2020-07-30T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "16389870":{
         "vSAN version":"vSAN 6.6.1 Express Patch 20",
         "ESXi version":"ESXi 6.5 Express Patch 20",
-        "Release Date":"2020-06-30",
+        "Release Date":"2020-06-30T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "16207673":{
         "vSAN version":"vSAN 6.6.1 Express Patch 19",
         "ESXi version":"ESXi 6.5 Express Patch 19",
-        "Release Date":"2020-05-28",
+        "Release Date":"2020-05-28T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "15256549":{
         "vSAN version":"vSAN 6.6.1 Patch 04",
         "ESXi version":"ESXi 6.5 Patch 04",
-        "Release Date":"2019-12-19",
+        "Release Date":"2019-12-19T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "15177306":{
         "vSAN version":"vSAN 6.6.1 Express Patch 18",
         "ESXi version":"ESXi 6.5 Express Patch 18",
-        "Release Date":"2019-12-05",
+        "Release Date":"2019-12-05T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "14990892":{
         "vSAN version":"vSAN 6.6.1 Express Patch 17",
         "ESXi version":"ESXi 6.5 Express Patch 17",
-        "Release Date":"2019-11-12",
+        "Release Date":"2019-11-12T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "14874964":{
         "vSAN version":"vSAN 6.6.1 Express Patch 16",
         "ESXi version":"ESXi 6.5 Express Patch 16",
-        "Release Date":"2019-10-24",
+        "Release Date":"2019-10-24T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "14320405":{
         "vSAN version":"vSAN 6.6.1 Express Patch 15",
         "ESXi version":"ESXi 6.5 Express Patch 15",
-        "Release Date":"2019-08-20",
+        "Release Date":"2019-08-20T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "13932383":{
         "vSAN version":"vSAN 6.6.1 Update 3",
         "ESXi version":"ESXi 6.5 Update 3",
-        "Release Date":"2019-07-02",
+        "Release Date":"2019-07-02T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "13635690":{
         "vSAN version":"vSAN 6.6.1 Express Patch 14",
         "ESXi version":"ESXi 6.5 Express Patch 14",
-        "Release Date":"2019-05-14",
+        "Release Date":"2019-05-14T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "13004031":{
         "vSAN version":"vSAN 6.6.1 Express Patch 13",
         "ESXi version":"ESXi 6.5 Express Patch 13",
-        "Release Date":"2019-03-28",
+        "Release Date":"2019-03-28T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "11925212":{
         "vSAN version":"vSAN 6.6.1 Express Patch 12",
         "ESXi version":"ESXi 6.5 Express Patch 12",
-        "Release Date":"2019-01-31",
+        "Release Date":"2019-01-31T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "10719125":{
         "vSAN version":"vSAN 6.6.1 Express Patch 11",
         "ESXi version":"ESXi 6.5 Express Patch 11",
-        "Release Date":"2018-09-11",
+        "Release Date":"2018-09-11T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "10390116":{
         "vSAN version":"vSAN 6.6.1 Express Patch 10",
         "ESXi version":"ESXi 6.5 Express Patch 10",
-        "Release Date":"2018-10-23",
+        "Release Date":"2018-10-23T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "10175896":{
         "vSAN version":"vSAN 6.6.1 Express Patch 9",
         "ESXi version":"ESXi 6.5 Express Patch 9",
-        "Release Date":"2018-10-02",
+        "Release Date":"2018-10-02T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "8294253":{
         "vSAN version":"vSAN 6.6.1 Update 2",
         "ESXi version":"ESXi 6.5 U2",
-        "Release Date":"2018-05-03",
+        "Release Date":"2018-05-03T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "10884925":{
         "vSAN version":"vSAN 6.6.1 Patch 03",
         "ESXi version":"ESXi 6.5 Patch 03",
-        "Release Date":"2018-11-29",
+        "Release Date":"2018-11-29T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "7388607":{
         "vSAN version":"vSAN 6.6.1 Patch 02",
         "ESXi version":"ESXi 6.5 Patch 02",
-        "Release Date":"2017-12-19",
+        "Release Date":"2017-12-19T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "6765664":{
         "vSAN version":"vSAN 6.6.1 Express Patch 4",
         "ESXi version":"ESXi 6.5 Express Patch 4",
-        "Release Date":"2017-10-05",
+        "Release Date":"2017-10-05T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "5969303":{
         "vSAN version":"vSAN 6.6.1",
         "ESXi version":"ESXi 6.5 Update 1",
-        "Release Date":"2017-07-27",
+        "Release Date":"2017-07-27T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "5310538":{
         "vSAN version":"vSAN 6.6",
         "ESXi version":"ESXi 6.5.0d",
-        "Release Date":"2017-04-18",
+        "Release Date":"2017-04-18T00:00:00.000Z",
         "vSAN on-disk format version":"5"
     },
     "5224529":{
         "vSAN version":"vSAN 6.5 Express Patch 1a",
         "ESXi version":"ESXi 6.5 Express Patch 1a",
-        "Release Date":"2017-03-28",
+        "Release Date":"2017-03-28T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "5146846":{
         "vSAN version":"vSAN 6.5 Patch 01",
         "ESXi version":"ESXi 6.5 Patch 01",
-        "Release Date":"2017-03-09",
+        "Release Date":"2017-03-09T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "4887370":{
         "vSAN version":"vSAN 6.5.0a",
         "ESXi version":"ESXi 6.5.0a",
-        "Release Date":"2017-02-02",
+        "Release Date":"2017-02-02T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "4564106":{
         "vSAN version":"vSAN 6.5",
         "ESXi version":"ESXi 6.5 GA",
-        "Release Date":"2016-11-15",
+        "Release Date":"2016-11-15T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "15517548":{
         "vSAN version":"vSAN 6.2 Express Patch 25",
         "ESXi version":"ESXi 6.0 Express Patch 25",
-        "Release Date":"2020-02-20",
+        "Release Date":"2020-02-20T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "15169789":{
         "vSAN version":"vSAN 6.2 Express Patch 23",
         "ESXi version":"ESXi 6.0 Express Patch 23",
-        "Release Date":"2019-12-05",
+        "Release Date":"2019-12-05T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "14513180":{
         "vSAN version":"vSAN 6.2 Patch 8",
         "ESXi version":"ESXi 6.0 Patch 8",
-        "Release Date":"2019-09-12",
+        "Release Date":"2019-09-12T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "15018929":{
         "vSAN version":"vSAN 6.2 Express Patch 22",
         "ESXi version":"ESXi 6.0 Express Patch 22",
-        "Release Date":"2019-11-12",
+        "Release Date":"2019-11-12T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "13635687":{
         "vSAN version":"vSAN 6.2 Express Patch 21",
         "ESXi version":"ESXi 6.0 Express Patch 21",
-        "Release Date":"2019-05-14",
+        "Release Date":"2019-05-14T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "13003896":{
         "vSAN version":"vSAN 6.2 Express Patch 20",
         "ESXi version":"ESXi 6.0 Express Patch 20",
-        "Release Date":"2019-03-28",
+        "Release Date":"2019-03-28T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "9239799":{
         "vSAN version":"vSAN 6.2 Patch 7",
         "ESXi version":"ESXi 6.0 Patch 7",
-        "Release Date":"2018-07-26",
+        "Release Date":"2018-07-26T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "6921384":{
         "vSAN version":"vSAN 6.2 Patch 6",
         "ESXi version":"ESXi 6.0 Patch 6",
-        "Release Date":"2017-11-09",
+        "Release Date":"2017-11-09T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "6765062":{
         "vSAN version":"vSAN 6.2 Express Patch 11",
         "ESXi version":"ESXi 6.0 Express Patch 11",
-        "Release Date":"2017-10-05",
+        "Release Date":"2017-10-05T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "5572656":{
         "vSAN version":"vSAN 6.2 Patch 5",
         "ESXi version":"ESXi 6.0 Patch 5",
-        "Release Date":"2017-06-06",
+        "Release Date":"2017-06-06T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "5251623":{
         "vSAN version":"vSAN 6.2 Express Patch 7c",
         "ESXi version":"ESXi 6.0 Express Patch 7c",
-        "Release Date":"2017-03-28",
+        "Release Date":"2017-03-28T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "5224934":{
         "vSAN version":"vSAN 6.2 Express Patch 7a",
         "ESXi version":"ESXi 6.0 Express Patch 7a",
-        "Release Date":"2017-03-28",
+        "Release Date":"2017-03-28T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "5050593":{
         "vSAN version":"vSAN 6.2 Update 3",
         "ESXi version":"ESXi 6.0 Update 3",
-        "Release Date":"2017-02-24",
+        "Release Date":"2017-02-24T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "4600944":{
         "vSAN version":"vSAN 6.2 Patch 4",
         "ESXi version":"ESXi 6.0 Patch 4",
-        "Release Date":"2016-11-22",
+        "Release Date":"2016-11-22T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "4510822":{
         "vSAN version":"vSAN 6.2 Express Patch 7",
         "ESXi version":"ESXi 6.0 Express Patch 7",
-        "Release Date":"2016-10-17",
+        "Release Date":"2016-10-17T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "4192238":{
         "vSAN version":"vSAN 6.2 Patch 3",
         "ESXi version":"ESXi 6.0 Patch 3",
-        "Release Date":"2016-08-04",
+        "Release Date":"2016-08-04T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "3825889":{
         "vSAN version":"vSAN 6.2 Express Patch 6",
         "ESXi version":"ESXi 6.0 Express Patch 6",
-        "Release Date":"2016-05-12",
+        "Release Date":"2016-05-12T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "3620759":{
         "vSAN version":"vSAN 6.2",
         "ESXi version":"ESXi 6.0 Update 2",
-        "Release Date":"2016-03-16",
+        "Release Date":"2016-03-16T00:00:00.000Z",
         "vSAN on-disk format version":"3"
     },
     "3568940":{
         "vSAN version":"vSAN 6.1 Express Patch 5",
         "ESXi version":"ESXi 6.0 Express Patch 5",
-        "Release Date":"2016-02-23",
+        "Release Date":"2016-02-23T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "3380124":{
         "vSAN version":"vSAN 6.1 Update 1b",
         "ESXi version":"ESXi 6.0 Update 1b",
-        "Release Date":"2016-01-07",
+        "Release Date":"2016-01-07T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "3247720":{
         "vSAN version":"vSAN 6.1 Express Patch 4",
         "ESXi version":"ESXi 6.0 Express Patch 4",
-        "Release Date":"2015-11-25",
+        "Release Date":"2015-11-25T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "3073146":{
         "vSAN version":"vSAN 6.1 Update 1a (Express Patch 3)",
         "ESXi version":"ESXi 6.0 U1a (Express Patch 3)",
-        "Release Date":"2015-10-06",
+        "Release Date":"2015-10-06T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "3029758":{
         "vSAN version":"vSAN 6.1",
         "ESXi version":"ESXi 6.0 U1",
-        "Release Date":"2015-09-10",
+        "Release Date":"2015-09-10T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "10474991":{
         "vSAN version":"vSAN 6.0 Express Patch 18",
         "ESXi version":"ESXi 6.0 Express Patch 18",
-        "Release Date":"2018-10-23",
+        "Release Date":"2018-10-23T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "2809209":{
         "vSAN version":"vSAN 6.0.0b",
         "ESXi version":"ESXi 6.0.0b",
-        "Release Date":"2015-07-07",
+        "Release Date":"2015-07-07T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "2715440":{
         "vSAN version":"vSAN 6.0 Express Patch 2",
         "ESXi version":"ESXi 6.0 Express Patch 2",
-        "Release Date":"2015-05-14",
+        "Release Date":"2015-05-14T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "2615704":{
         "vSAN version":"vSAN 6.0 Express Patch 1",
         "ESXi version":"ESXi 6.0 Express Patch 1",
-        "Release Date":"2015-04-09",
+        "Release Date":"2015-04-09T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "2494585":{
         "vSAN version":"vSAN 6.0",
         "ESXi version":"ESXi 6.0 GA",
-        "Release Date":"2015-03-12",
+        "Release Date":"2015-03-12T00:00:00.000Z",
         "vSAN on-disk format version":"2"
     },
     "5230635":{
         "vSAN version":"vSAN 5.5 Express Patch 11",
         "ESXi version":"ESXi 5.5 Express Patch 11",
-        "Release Date":"2017-03-28",
+        "Release Date":"2017-03-28T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "4345813":{
         "vSAN version":"vSAN 5.5 Patch 9",
         "ESXi version":"ESXi 5.5 Patch 9",
-        "Release Date":"2016-09-15",
+        "Release Date":"2016-09-15T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "4179633":{
         "vSAN version":"vSAN 5.5 Patch 8",
         "ESXi version":"ESXi 5.5 Patch 8",
-        "Release Date":"2016-08-04",
+        "Release Date":"2016-08-04T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "3568722":{
         "vSAN version":"vSAN 5.5 Express Patch 10",
         "ESXi version":"ESXi 5.5 Express Patch 10",
-        "Release Date":"2016-02-22",
+        "Release Date":"2016-02-22T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "3343343":{
         "vSAN version":"vSAN 5.5 Express Patch 9",
         "ESXi version":"ESXi 5.5 Express Patch 9",
-        "Release Date":"2016-01-04",
+        "Release Date":"2016-01-04T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "3248547":{
         "vSAN version":"vSAN 5.5 Update 3b",
         "ESXi version":"ESXi 5.5 Update 3b",
-        "Release Date":"2015-12-08",
+        "Release Date":"2015-12-08T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "3116895":{
         "vSAN version":"vSAN 5.5 Update 3a",
         "ESXi version":"ESXi 5.5 Update 3a",
-        "Release Date":"2015-10-06",
+        "Release Date":"2015-10-06T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "3029944":{
         "vSAN version":"vSAN 5.5 Update 3",
         "ESXi version":"ESXi 5.5 Update 3",
-        "Release Date":"2015-09-16",
+        "Release Date":"2015-09-16T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "2718055":{
         "vSAN version":"vSAN 5.5 Patch 5 re-release",
         "ESXi version":"ESXi 5.5 Patch 5 re-release",
-        "Release Date":"2015-05-08",
+        "Release Date":"2015-05-08T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "2638301":{
         "vSAN version":"vSAN 5.5 Express Patch 7",
         "ESXi version":"ESXi 5.5 Express Patch 7",
-        "Release Date":"2015-04-07",
+        "Release Date":"2015-04-07T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "2456374":{
         "vSAN version":"vSAN 5.5 Express Patch 6",
         "ESXi version":"ESXi 5.5 Express Patch 6",
-        "Release Date":"2015-02-05",
+        "Release Date":"2015-02-05T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "2403361":{
         "vSAN version":"vSAN 5.5 Patch 4",
         "ESXi version":"ESXi 5.5 Patch 4",
-        "Release Date":"2015-01-27",
+        "Release Date":"2015-01-27T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "2302651":{
         "vSAN version":"vSAN 5.5 Express Patch 5",
         "ESXi version":"ESXi 5.5 Express Patch 5",
-        "Release Date":"2014-12-02",
+        "Release Date":"2014-12-02T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "2143827":{
         "vSAN version":"vSAN 5.5 Patch 3",
         "ESXi version":"ESXi 5.5 Patch 3",
-        "Release Date":"2014-10-15",
+        "Release Date":"2014-10-15T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "2068190":{
         "vSAN version":"vSAN 5.5 Update 2",
         "ESXi version":"ESXi 5.5 Update 2",
-        "Release Date":"2014-09-09",
+        "Release Date":"2014-09-09T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "1892794":{
         "vSAN version":"vSAN 5.5 Patch 2",
         "ESXi version":"ESXi 5.5 Patch 2",
-        "Release Date":"2014-07-01",
+        "Release Date":"2014-07-01T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "1881737":{
         "vSAN version":"vSAN 5.5 Express Patch 4",
         "ESXi version":"ESXi 5.5 Express Patch 4",
-        "Release Date":"2014-06-11",
+        "Release Date":"2014-06-11T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "1746018":{
         "vSAN version":"vSAN 5.5 Update 1a",
         "ESXi version":"ESXi 5.5 Update 1a",
-        "Release Date":"2014-04-19",
+        "Release Date":"2014-04-19T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "1746974":{
         "vSAN version":"vSAN 5.5 Express Patch 3",
         "ESXi version":"ESXi 5.5 Express Patch 3",
-        "Release Date":"2014-04-19",
+        "Release Date":"2014-04-19T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     },
     "1623387":{
         "vSAN version":"vSAN 5.5",
         "ESXi version":"ESXi 5.5 Update 1",
-        "Release Date":"2014-03-11",
+        "Release Date":"2014-03-11T00:00:00.000Z",
         "vSAN on-disk format version":"1"
     }
 }

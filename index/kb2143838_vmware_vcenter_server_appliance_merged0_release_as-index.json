@@ -1,227 +1,308 @@
 {
+    "17491160":{
+        "Version - Release Name":"vCenter Server 7.0 update 1d (7.0.1.00300)",
+        "Release Date":"2021-02-02T00:00:00.000Z",
+        "VAMI\/Release Notes":17491101,
+        "Client\/MOB\/vpxd.log":17491160,
+        "Version":"vCenter Server 7.0 update 1d",
+        "Release Name":"7.0.1.00300",
+        "Edition":"VCSA"
+    },
+    "17327586":{
+        "Version - Release Name":"vCenter Server 7.0 update 1c (7.0.1.00200)",
+        "Release Date":"2020-12-17T00:00:00.000Z",
+        "VAMI\/Release Notes":17327517,
+        "Client\/MOB\/vpxd.log":17327586,
+        "Version":"vCenter Server 7.0 update 1c",
+        "Release Name":"7.0.1.00200",
+        "Edition":"VCSA"
+    },
+    "17005016":{
+        "Version - Release Name":"vCenter Server 7.0 update 1a (7.0.1.00100)",
+        "Release Date":"2020-10-22T00:00:00.000Z",
+        "VAMI\/Release Notes":17004997,
+        "Client\/MOB\/vpxd.log":17005016,
+        "Version":"vCenter Server 7.0 update 1a",
+        "Release Name":"7.0.1.00100",
+        "Edition":"VCSA"
+    },
+    "16858589":{
+        "Version - Release Name":"vCenter Server 7.0 Update 1 (7.0.1.00000)",
+        "Release Date":"2020-10-06T00:00:00.000Z",
+        "VAMI\/Release Notes":16860138,
+        "Client\/MOB\/vpxd.log":16858589,
+        "Version":"vCenter Server 7.0 Update 1",
+        "Release Name":"7.0.1.00000",
+        "Edition":"VCSA"
+    },
+    "16749670":{
+        "Version - Release Name":"vCenter Server 7.0.0d (7.0.0.10700)",
+        "Release Date":"2020-08-25T00:00:00.000Z",
+        "VAMI\/Release Notes":16749653,
+        "Client\/MOB\/vpxd.log":16749670,
+        "Version":"vCenter Server 7.0.0d",
+        "Release Name":"7.0.0.10700",
+        "Edition":"VCSA"
+    },
+    "16620013":{
+        "Version - Release Name":"vCenter Server 7.0.0c (7.0.0.10600)",
+        "Release Date":"2020-07-30T00:00:00.000Z",
+        "VAMI\/Release Notes":16620007,
+        "Client\/MOB\/vpxd.log":16620013,
+        "Version":"vCenter Server 7.0.0c",
+        "Release Name":"7.0.0.10600",
+        "Edition":"VCSA"
+    },
+    "16386335":{
+        "Version - Release Name":"vCenter Server 7.0.0b (7.0.0.10400)",
+        "Release Date":"2020-06-23T00:00:00.000Z",
+        "VAMI\/Release Notes":16386292,
+        "Client\/MOB\/vpxd.log":16386335,
+        "Version":"vCenter Server 7.0.0b",
+        "Release Name":"7.0.0.10400",
+        "Edition":"VCSA"
+    },
+    "16189207":{
+        "Version - Release Name":"vCenter Server 7.0.0a (7.0.0.10300)",
+        "Release Date":"2020-05-19T00:00:00.000Z",
+        "VAMI\/Release Notes":16189094,
+        "Client\/MOB\/vpxd.log":16189207,
+        "Version":"vCenter Server 7.0.0a",
+        "Release Name":"7.0.0.10300",
+        "Edition":"VCSA"
+    },
+    "15952599":{
+        "Version - Release Name":"vCenter Server 7.0 GA (7.0.0.10100)",
+        "Release Date":"2020-04-02T00:00:00.000Z",
+        "VAMI\/Release Notes":15952498,
+        "Client\/MOB\/vpxd.log":15952599,
+        "Version":"vCenter Server 7.0 GA",
+        "Release Name":"7.0.0.10100",
+        "Edition":"VCSA"
+    },
     "17137327":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3l (6.7.0.46000)",
         "Release Date":"2020-11-19T00:00:00.000Z",
         "VAMI\/Release Notes":"17138064",
         "Client\/MOB\/vpxd.log":"17137327",
         "Version":"vCenter Appliance 6.7 Update 3l",
-        "Release Name":"6.7.0.46000"
+        "Release Name":"6.7.0.46000",
+        "Edition":"VCSA"
     },
     "17028632":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3k (6.7.0.45100)",
         "Release Date":"2020-10-22T00:00:00.000Z",
         "VAMI\/Release Notes":"17028579",
         "Client\/MOB\/vpxd.log":"17028632",
         "Version":"vCenter Appliance 6.7 Update 3k",
-        "Release Name":"6.7.0.45100"
+        "Release Name":"6.7.0.45100",
+        "Edition":"VCSA"
     },
     "16709110":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3j (6.7.0.45000)",
         "Release Date":"2020-08-20T00:00:00.000Z",
         "VAMI\/Release Notes":"16708996",
         "Client\/MOB\/vpxd.log":"16709110",
         "Version":"vCenter Appliance 6.7 Update 3j",
-        "Release Name":"6.7.0.45000"
+        "Release Name":"6.7.0.45000",
+        "Edition":"VCSA"
     },
     "16616668":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3i (6.7.0.44200)",
         "Release Date":"2020-07-30T00:00:00.000Z",
         "VAMI\/Release Notes":"16616482",
         "Client\/MOB\/vpxd.log":"16616668",
         "Version":"vCenter Appliance 6.7 Update 3i",
-        "Release Name":"6.7.0.44200"
+        "Release Name":"6.7.0.44200",
+        "Edition":"VCSA"
     },
     "16243230":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3h (6.7.0.44100)",
         "Release Date":"2020-05-28T00:00:00.000Z",
         "VAMI\/Release Notes":"16275304",
         "Client\/MOB\/vpxd.log":"16243230",
         "Version":"vCenter Appliance 6.7 Update 3h",
-        "Release Name":"6.7.0.44100"
+        "Release Name":"6.7.0.44100",
+        "Edition":"VCSA"
     },
     "16046713":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3g (6.7.0.44000)",
         "Release Date":"2020-04-28T00:00:00.000Z",
         "VAMI\/Release Notes":"16046470",
         "Client\/MOB\/vpxd.log":"16046713",
         "Version":"vCenter Appliance 6.7 Update 3g",
-        "Release Name":"6.7.0.44000"
+        "Release Name":"6.7.0.44000",
+        "Edition":"VCSA"
     },
     "15976728":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3f (6.7.0.43000)",
         "Release Date":"2020-04-09T00:00:00.000Z",
         "VAMI\/Release Notes":"15976714",
         "Client\/MOB\/vpxd.log":"15976728",
         "Version":"vCenter Appliance 6.7 Update 3f",
-        "Release Name":"6.7.0.43000"
+        "Release Name":"6.7.0.43000",
+        "Edition":"VCSA"
     },
     "15808844":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3e (6.7.0.42300)",
         "Release Date":"2020-03-26T00:00:00.000Z",
         "VAMI\/Release Notes":"15808844",
         "Client\/MOB\/vpxd.log":"15808844",
         "Version":"vCenter Appliance 6.7 Update 3e",
-        "Release Name":"6.7.0.42300"
+        "Release Name":"6.7.0.42300",
+        "Edition":"VCSA"
     },
     "15679281":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3d (6.7.0.42200)",
         "Release Date":"2020-02-27T00:00:00.000Z",
         "VAMI\/Release Notes":"15679281",
         "Client\/MOB\/vpxd.log":"15679281",
         "Version":"vCenter Appliance 6.7 Update 3d",
-        "Release Name":"6.7.0.42200"
+        "Release Name":"6.7.0.42200",
+        "Edition":"VCSA"
     },
     "15505668":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3c (6.7.0.42100)",
         "Release Date":"2020-01-30T00:00:00.000Z",
         "VAMI\/Release Notes":"15505668",
         "Client\/MOB\/vpxd.log":"15505668",
         "Version":"vCenter Appliance 6.7 Update 3c",
-        "Release Name":"6.7.0.42100"
+        "Release Name":"6.7.0.42100",
+        "Edition":"VCSA"
     },
     "15129973":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3b (6.7.0.42000)",
         "Release Date":"2019-12-05T00:00:00.000Z",
         "VAMI\/Release Notes":"15132721",
         "Client\/MOB\/vpxd.log":"15129973",
         "Version":"vCenter Appliance 6.7 Update 3b",
-        "Release Name":"6.7.0.42000"
+        "Release Name":"6.7.0.42000",
+        "Edition":"VCSA"
     },
     "14792544":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3a (6.7.0.41000)",
         "Release Date":"2019-10-24T00:00:00.000Z",
         "VAMI\/Release Notes":"14836122",
         "Client\/MOB\/vpxd.log":"14792544",
         "Version":"vCenter Appliance 6.7 Update 3a",
-        "Release Name":"6.7.0.41000"
+        "Release Name":"6.7.0.41000",
+        "Edition":"VCSA"
     },
     "14368073":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 3 (6.7.0.40000)",
         "Release Date":"2019-08-20T00:00:00.000Z",
         "VAMI\/Release Notes":"14367737",
         "Client\/MOB\/vpxd.log":"14368073",
         "Version":"vCenter Appliance 6.7 Update 3",
-        "Release Name":"6.7.0.40000"
+        "Release Name":"6.7.0.40000",
+        "Edition":"VCSA"
     },
     "14070654":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 2c (6.7.0.32000)",
         "Release Date":"2019-07-16T00:00:00.000Z",
         "VAMI\/Release Notes":"14070457",
         "Client\/MOB\/vpxd.log":"14070654",
         "Version":"vCenter Appliance 6.7 Update 2c",
-        "Release Name":"6.7.0.32000"
+        "Release Name":"6.7.0.32000",
+        "Edition":"VCSA"
     },
     "13843469":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 2b (6.7.0.31100)",
         "Release Date":"2019-05-30T00:00:00.000Z",
         "VAMI\/Release Notes":"13843380",
         "Client\/MOB\/vpxd.log":"13843469",
         "Version":"vCenter Appliance 6.7 Update 2b",
-        "Release Name":"6.7.0.31100"
+        "Release Name":"6.7.0.31100",
+        "Edition":"VCSA"
     },
     "13639324":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 Update 2a (6.7.0.31000)",
         "Release Date":"2019-05-14T00:00:00.000Z",
         "VAMI\/Release Notes":"13643870",
         "Client\/MOB\/vpxd.log":"13639324",
         "Version":"vCenter Appliance 6.7 Update 2a",
-        "Release Name":"6.7.0.31000"
+        "Release Name":"6.7.0.31000",
+        "Edition":"VCSA"
     },
     "13007421":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 U2 (6.7.0.30000)",
         "Release Date":"2019-04-11T00:00:00.000Z",
         "VAMI\/Release Notes":"13010631",
         "Client\/MOB\/vpxd.log":"13007421",
         "Version":"vCenter Appliance 6.7 U2",
-        "Release Name":"6.7.0.30000"
+        "Release Name":"6.7.0.30000",
+        "Edition":"VCSA"
     },
     "11727113":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 U1b (6.7.0.21000)",
         "Release Date":"2019-01-17T00:00:00.000Z",
         "VAMI\/Release Notes":"11726888",
         "Client\/MOB\/vpxd.log":"11727113",
         "Version":"vCenter Appliance 6.7 U1b",
-        "Release Name":"6.7.0.21000"
+        "Release Name":"6.7.0.21000",
+        "Edition":"VCSA"
     },
     "11338799":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 U1a (6.7.0.20100)",
         "Release Date":"2018-12-20T00:00:00.000Z",
         "VAMI\/Release Notes":"11338176",
         "Client\/MOB\/vpxd.log":"11338799",
         "Version":"vCenter Appliance 6.7 U1a",
-        "Release Name":"6.7.0.20100"
+        "Release Name":"6.7.0.20100",
+        "Edition":"VCSA"
     },
     "10244857":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 U1 (6.7.0.20000)",
         "Release Date":"2018-10-16T00:00:00.000Z",
         "VAMI\/Release Notes":"10244745",
         "Client\/MOB\/vpxd.log":"10244857",
         "Version":"vCenter Appliance 6.7 U1",
-        "Release Name":"6.7.0.20000"
+        "Release Name":"6.7.0.20000",
+        "Edition":"VCSA"
     },
     "9433931":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7d (6.7.0.14000)",
         "Release Date":"2018-08-14T00:00:00.000Z",
         "VAMI\/Release Notes":"9451876",
         "Client\/MOB\/vpxd.log":"9433931",
         "Version":"vCenter Appliance 6.7d",
-        "Release Name":"6.7.0.14000"
+        "Release Name":"6.7.0.14000",
+        "Edition":"VCSA"
     },
     "9232942":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7c (6.7.0.13000)",
         "Release Date":"2018-07-26T00:00:00.000Z",
         "VAMI\/Release Notes":"9232925",
         "Client\/MOB\/vpxd.log":"9232942",
         "Version":"vCenter Appliance 6.7c",
-        "Release Name":"6.7.0.13000"
+        "Release Name":"6.7.0.13000",
+        "Edition":"VCSA"
     },
     "8833179":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7b (6.7.0.12000)",
         "Release Date":"2018-06-28T00:00:00.000Z",
         "VAMI\/Release Notes":"8832884",
         "Client\/MOB\/vpxd.log":"8833179",
         "Version":"vCenter Appliance 6.7b",
-        "Release Name":"6.7.0.12000"
+        "Release Name":"6.7.0.12000",
+        "Edition":"VCSA"
     },
     "8546293":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7a (6.7.0.11000)",
         "Release Date":"2018-05-22T00:00:00.000Z",
         "VAMI\/Release Notes":"8546234",
         "Client\/MOB\/vpxd.log":"8546293",
         "Version":"vCenter Appliance 6.7a",
-        "Release Name":"6.7.0.11000"
+        "Release Name":"6.7.0.11000",
+        "Edition":"VCSA"
     },
     "8170161":{
-        "Edition":"VCSA",
         "Version - Release Name":"vCenter Appliance 6.7 (6.7.0.10000)",
         "Release Date":"2018-04-17T00:00:00.000Z",
         "VAMI\/Release Notes":"8217866",
         "Client\/MOB\/vpxd.log":"8170161",
         "Version":"vCenter Appliance 6.7",
-        "Release Name":"6.7.0.10000"
+        "Release Name":"6.7.0.10000",
+        "Edition":"VCSA"
     }
 }

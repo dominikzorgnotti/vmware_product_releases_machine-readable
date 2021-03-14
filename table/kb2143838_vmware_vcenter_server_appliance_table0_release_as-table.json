@@ -6,12 +6,12 @@
                 "type":"integer"
             },
             {
-                "name":"Version - Release Date",
+                "name":"Version - Release Name",
                 "type":"string"
             },
             {
                 "name":"Release Date",
-                "type":"string"
+                "type":"datetime"
             },
             {
                 "name":"VAMI\/Release Notes",
@@ -32,6 +32,10 @@
             {
                 "name":"Release Name",
                 "type":"string"
+            },
+            {
+                "name":"Edition",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -42,93 +46,102 @@
     "data":[
         {
             "index":0,
-            "Version - Release Date":"vCenter Server 7.0 update 1d\u00a0(7.0.1.00300)",
-            "Release Date":"2021-02-02",
+            "Version - Release Name":"vCenter Server 7.0 update 1d (7.0.1.00300)",
+            "Release Date":"2021-02-02T00:00:00.000Z",
             "VAMI\/Release Notes":17491101,
             "Client\/MOB\/vpxd.log":17491160,
             "Build Number":17491160,
-            "Version":"vCenter Server 7.0 update 1d\u00a0",
-            "Release Name":"7.0.1.00300"
+            "Version":"vCenter Server 7.0 update 1d",
+            "Release Name":"7.0.1.00300",
+            "Edition":"VCSA"
         },
         {
             "index":1,
-            "Version - Release Date":"vCenter Server 7.0 update 1c\u00a0(7.0.1.00200)",
-            "Release Date":"2020-12-17",
+            "Version - Release Name":"vCenter Server 7.0 update 1c (7.0.1.00200)",
+            "Release Date":"2020-12-17T00:00:00.000Z",
             "VAMI\/Release Notes":17327517,
             "Client\/MOB\/vpxd.log":17327586,
             "Build Number":17327586,
-            "Version":"vCenter Server 7.0 update 1c\u00a0",
-            "Release Name":"7.0.1.00200"
+            "Version":"vCenter Server 7.0 update 1c",
+            "Release Name":"7.0.1.00200",
+            "Edition":"VCSA"
         },
         {
             "index":2,
-            "Version - Release Date":"vCenter Server 7.0 update 1a\u00a0(7.0.1.00100)",
-            "Release Date":"2020-10-22",
+            "Version - Release Name":"vCenter Server 7.0 update 1a (7.0.1.00100)",
+            "Release Date":"2020-10-22T00:00:00.000Z",
             "VAMI\/Release Notes":17004997,
             "Client\/MOB\/vpxd.log":17005016,
             "Build Number":17005016,
-            "Version":"vCenter Server 7.0 update 1a\u00a0",
-            "Release Name":"7.0.1.00100"
+            "Version":"vCenter Server 7.0 update 1a",
+            "Release Name":"7.0.1.00100",
+            "Edition":"VCSA"
         },
         {
             "index":3,
-            "Version - Release Date":"vCenter Server 7.0 Update 1\u00a0(7.0.1.00000)",
-            "Release Date":"2020-10-06",
+            "Version - Release Name":"vCenter Server 7.0 Update 1 (7.0.1.00000)",
+            "Release Date":"2020-10-06T00:00:00.000Z",
             "VAMI\/Release Notes":16860138,
             "Client\/MOB\/vpxd.log":16858589,
             "Build Number":16858589,
-            "Version":"vCenter Server 7.0 Update 1\u00a0",
-            "Release Name":"7.0.1.00000"
+            "Version":"vCenter Server 7.0 Update 1",
+            "Release Name":"7.0.1.00000",
+            "Edition":"VCSA"
         },
         {
             "index":4,
-            "Version - Release Date":"vCenter Server 7.0.0d\u00a0(7.0.0.10700)",
-            "Release Date":"2020-08-25",
+            "Version - Release Name":"vCenter Server 7.0.0d (7.0.0.10700)",
+            "Release Date":"2020-08-25T00:00:00.000Z",
             "VAMI\/Release Notes":16749653,
             "Client\/MOB\/vpxd.log":16749670,
             "Build Number":16749670,
-            "Version":"vCenter Server 7.0.0d\u00a0",
-            "Release Name":"7.0.0.10700"
+            "Version":"vCenter Server 7.0.0d",
+            "Release Name":"7.0.0.10700",
+            "Edition":"VCSA"
         },
         {
             "index":5,
-            "Version - Release Date":"vCenter Server 7.0.0c\u00a0(7.0.0.10600)",
-            "Release Date":"2020-07-30",
+            "Version - Release Name":"vCenter Server 7.0.0c (7.0.0.10600)",
+            "Release Date":"2020-07-30T00:00:00.000Z",
             "VAMI\/Release Notes":16620007,
             "Client\/MOB\/vpxd.log":16620013,
             "Build Number":16620013,
-            "Version":"vCenter Server 7.0.0c\u00a0",
-            "Release Name":"7.0.0.10600"
+            "Version":"vCenter Server 7.0.0c",
+            "Release Name":"7.0.0.10600",
+            "Edition":"VCSA"
         },
         {
             "index":6,
-            "Version - Release Date":"vCenter Server 7.0.0b\u00a0(7.0.0.10400)",
-            "Release Date":"2020-06-23",
+            "Version - Release Name":"vCenter Server 7.0.0b (7.0.0.10400)",
+            "Release Date":"2020-06-23T00:00:00.000Z",
             "VAMI\/Release Notes":16386292,
             "Client\/MOB\/vpxd.log":16386335,
             "Build Number":16386335,
-            "Version":"vCenter Server 7.0.0b\u00a0",
-            "Release Name":"7.0.0.10400"
+            "Version":"vCenter Server 7.0.0b",
+            "Release Name":"7.0.0.10400",
+            "Edition":"VCSA"
         },
         {
             "index":7,
-            "Version - Release Date":"vCenter Server 7.0.0a\u00a0(7.0.0.10300)",
-            "Release Date":"2020-05-19",
+            "Version - Release Name":"vCenter Server 7.0.0a (7.0.0.10300)",
+            "Release Date":"2020-05-19T00:00:00.000Z",
             "VAMI\/Release Notes":16189094,
             "Client\/MOB\/vpxd.log":16189207,
             "Build Number":16189207,
-            "Version":"vCenter Server 7.0.0a\u00a0",
-            "Release Name":"7.0.0.10300"
+            "Version":"vCenter Server 7.0.0a",
+            "Release Name":"7.0.0.10300",
+            "Edition":"VCSA"
         },
         {
             "index":8,
-            "Version - Release Date":"vCenter Server 7.0 GA\u00a0(7.0.0.10100)",
-            "Release Date":"2020-04-02",
+            "Version - Release Name":"vCenter Server 7.0 GA (7.0.0.10100)",
+            "Release Date":"2020-04-02T00:00:00.000Z",
             "VAMI\/Release Notes":15952498,
             "Client\/MOB\/vpxd.log":15952599,
             "Build Number":15952599,
-            "Version":"vCenter Server 7.0 GA\u00a0",
-            "Release Name":"7.0.0.10100"
+            "Version":"vCenter Server 7.0 GA",
+            "Release Name":"7.0.0.10100",
+            "Edition":"VCSA"
         }
     ]
 }
