@@ -1,1702 +1,1663 @@
-{
-    "17137232":{
+[
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3l",
         "Release Date":"2020-11-19T00:00:00.000Z",
         "Registry\/Release Notes":"17138064",
         "Client\/MOB\/vpxd.log":"17137232",
+        "Build Number":"17137232",
         "Version":"vCenter Windows 6.7 Update 3l",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "17028620":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3k",
         "Release Date":"2020-10-22T00:00:00.000Z",
         "Registry\/Release Notes":"17028579",
         "Client\/MOB\/vpxd.log":"17028620",
+        "Build Number":"17028620",
         "Version":"vCenter Windows 6.7 Update 3k",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "16709044":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3j",
         "Release Date":"2020-08-20T00:00:00.000Z",
         "Registry\/Release Notes":"16708996",
         "Client\/MOB\/vpxd.log":"16709044",
+        "Build Number":"16709044",
         "Version":"vCenter Windows 6.7 Update 3j",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "16616655":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3i",
         "Release Date":"2020-07-30T00:00:00.000Z",
         "Registry\/Release Notes":"16616482",
         "Client\/MOB\/vpxd.log":"16616655",
+        "Build Number":"16616655",
         "Version":"vCenter Windows 6.7 Update 3i",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "16243225":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3h",
         "Release Date":"2020-05-28T00:00:00.000Z",
         "Registry\/Release Notes":"16275304",
         "Client\/MOB\/vpxd.log":"16243225",
+        "Build Number":"16243225",
         "Version":"vCenter Windows 6.7 Update 3h",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "16046671":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3g",
         "Release Date":"2020-04-28T00:00:00.000Z",
         "Registry\/Release Notes":"16046470",
         "Client\/MOB\/vpxd.log":"16046671",
+        "Build Number":"16046671",
         "Version":"vCenter Windows 6.7 Update 3g",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15976721":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3f",
         "Release Date":"2020-04-09T00:00:00.000Z",
         "Registry\/Release Notes":"15976714",
         "Client\/MOB\/vpxd.log":"15976721",
+        "Build Number":"15976721",
         "Version":"vCenter Windows 6.7 Update 3f",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15807675":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3e",
         "Release Date":"2020-03-26T00:00:00.000Z",
         "Registry\/Release Notes":"15808844",
         "Client\/MOB\/vpxd.log":"15807675",
+        "Build Number":"15807675",
         "Version":"vCenter Windows 6.7 Update 3e",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15679284":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3d",
         "Release Date":"2020-02-27T00:00:00.000Z",
         "Registry\/Release Notes":"15679281",
         "Client\/MOB\/vpxd.log":"15679284",
+        "Build Number":"15679284",
         "Version":"vCenter Windows 6.7 Update 3d",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15505671":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3c",
         "Release Date":"2020-01-30T00:00:00.000Z",
         "Registry\/Release Notes":"15505668",
         "Client\/MOB\/vpxd.log":"15505671",
+        "Build Number":"15505671",
         "Version":"vCenter Windows 6.7 Update 3c",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15129938":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3b (6.7.0.42000)",
         "Release Date":"2019-12-05T00:00:00.000Z",
         "Registry\/Release Notes":"15132721",
         "Client\/MOB\/vpxd.log":"15129938",
+        "Build Number":"15129938",
         "Version":"vCenter Windows 6.7 Update 3b",
         "Release Name":"6.7.0.42000",
         "Installer Build Number":null
     },
-    "14792528":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3a (6.7.0.41000)",
         "Release Date":"2019-10-24T00:00:00.000Z",
         "Registry\/Release Notes":"14836122",
         "Client\/MOB\/vpxd.log":"14792528",
+        "Build Number":"14792528",
         "Version":"vCenter Windows 6.7 Update 3a",
         "Release Name":"6.7.0.41000",
         "Installer Build Number":null
     },
-    "14368027":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 3 (6.7.0.40000)",
         "Release Date":"2019-08-20T00:00:00.000Z",
         "Registry\/Release Notes":"14367737",
         "Client\/MOB\/vpxd.log":"14368027",
+        "Build Number":"14368027",
         "Version":"vCenter Windows 6.7 Update 3",
         "Release Name":"6.7.0.40000",
         "Installer Build Number":null
     },
-    "13843469":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 2b (6.7.0.31100)",
         "Release Date":"2019-05-14T00:00:00.000Z",
         "Registry\/Release Notes":"13843380",
         "Client\/MOB\/vpxd.log":"13843469",
+        "Build Number":"13843469",
         "Version":"vCenter Windows 6.7 Update 2b",
         "Release Name":"6.7.0.31100",
         "Installer Build Number":null
     },
-    "13638830":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 Update 2a (6.7.0.31000)",
         "Release Date":"2019-05-14T00:00:00.000Z",
         "Registry\/Release Notes":"13643870",
         "Client\/MOB\/vpxd.log":"13638830",
+        "Build Number":"13638830",
         "Version":"vCenter Windows 6.7 Update 2a",
         "Release Name":"6.7.0.31000",
         "Installer Build Number":null
     },
-    "13007157":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 U2 (6.7.0.30000)",
         "Release Date":"2019-04-11T00:00:00.000Z",
         "Registry\/Release Notes":"13010631",
         "Client\/MOB\/vpxd.log":"13007157",
+        "Build Number":"13007157",
         "Version":"vCenter Windows 6.7 U2",
         "Release Name":"6.7.0.30000",
         "Installer Build Number":null
     },
-    "11727065":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 U1b (6.7.0.21000)",
         "Release Date":"2019-01-17T00:00:00.000Z",
         "Registry\/Release Notes":"11726888",
         "Client\/MOB\/vpxd.log":"11727065",
+        "Build Number":"11727065",
         "Version":"vCenter Windows 6.7 U1b",
         "Release Name":"6.7.0.21000",
         "Installer Build Number":null
     },
-    "10244807":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 U1 (6.7.0.20000)",
         "Release Date":"2018-10-16T00:00:00.000Z",
         "Registry\/Release Notes":"10244745",
         "Client\/MOB\/vpxd.log":"10244807",
+        "Build Number":"10244807",
         "Version":"vCenter Windows 6.7 U1",
         "Release Name":"6.7.0.20000",
         "Installer Build Number":null
     },
-    "9433894":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7d (6.7.0.14000)",
         "Release Date":"2018-08-14T00:00:00.000Z",
         "Registry\/Release Notes":"9451876",
         "Client\/MOB\/vpxd.log":"9433894",
+        "Build Number":"9433894",
         "Version":"vCenter Windows 6.7d",
         "Release Name":"6.7.0.14000",
         "Installer Build Number":null
     },
-    "9232933":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7c (6.7.0.13000)",
         "Release Date":"2018-07-26T00:00:00.000Z",
         "Registry\/Release Notes":"9232925",
         "Client\/MOB\/vpxd.log":"9232933",
+        "Build Number":"9232933",
         "Version":"vCenter Windows 6.7c",
         "Release Name":"6.7.0.13000",
         "Installer Build Number":null
     },
-    "8833120":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7b (6.7.0.12000)",
         "Release Date":"2018-06-28T00:00:00.000Z",
         "Registry\/Release Notes":"8832884",
         "Client\/MOB\/vpxd.log":"8833120",
+        "Build Number":"8833120",
         "Version":"vCenter Windows 6.7b",
         "Release Name":"6.7.0.12000",
         "Installer Build Number":null
     },
-    "8546281":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7a (6.7.0.11000)",
         "Release Date":"2018-05-22T00:00:00.000Z",
         "Registry\/Release Notes":"8546234",
         "Client\/MOB\/vpxd.log":"8546281",
+        "Build Number":"8546281",
         "Version":"vCenter Windows 6.7a",
         "Release Name":"6.7.0.11000",
         "Installer Build Number":null
     },
-    "8170087":{
+    {
         "Edition":"Windows",
         "Version - Release Name":"vCenter Windows 6.7 (6.7.0.10000)",
         "Release Date":"2018-04-17T00:00:00.000Z",
         "Registry\/Release Notes":"8217866",
         "Client\/MOB\/vpxd.log":"8170087",
+        "Build Number":"8170087",
         "Version":"vCenter Windows 6.7",
         "Release Name":"6.7.0.10000",
         "Installer Build Number":null
     },
-    "nan":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":null,
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":null,
         "Version":null,
         "Release Name":null,
         "Installer Build Number":null
     },
-    "17590285":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2021-02-23T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"17590285",
         "Version":"vCenter Server 6.5u3n",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "16764584":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2020-08-25T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"16764584",
         "Version":"vCenter Server 6.5u3l",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "16613358":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2020-07-30T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"16613358",
         "Version":"vCenter Server 6.5 U3k",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "16275158":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2020-05-28T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"16275158",
         "Version":"vCenter Server 6.5 U3j",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15808842":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2020-03-26T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"15808842",
         "Version":"vCenter Server 6.5 U3i",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15679215":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2020-02-27T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"15679215",
         "Version":"vCenter Server 6.5 U3h",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15505374":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2020-01-30T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"15505374",
         "Version":"vCenter Server 6.5 U3g",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15259038":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-12-19T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"15259038",
         "Version":"vCenter Server 6.5 U3f",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "15127636":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-11-26T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"15127636",
         "Version":"vCenter Server 6.5 U3e",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "14836121":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-10-24T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"14836121",
         "Version":"vCenter Server 6.5 U3d",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "14690228":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-09-24T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"14690228",
         "Version":"vCenter Server 6.5 U3c",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "14389939":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-08-27T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"14389939",
         "Version":"vCenter Server 6.5 U3b",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "14156547":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-07-25T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"14156547",
         "Version":"vCenter Server 6.5 U3a",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "14020092":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-07-02T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"14020092",
         "Version":"vCenter Server 6.5 U3",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "13834586":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-05-30T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"13834586",
         "Version":"vCenter Server 6.5 U2h",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "13638625":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-05-14T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"13638625",
         "Version":"vCenter Server 6.5 U2g",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "12863991":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-03-21T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"12863991",
         "Version":"vCenter Server 6.5 U2f",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "4944578":{
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2018-12-20T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"11347054",
+        "Version":"vCenter Server 6.5 U2e",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2018-11-29T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"10964411",
+        "Version":"vCenter Server 6.5 U2d",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2018-08-14T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"9451637",
+        "Version":"vCenter Server 6.5 U2c",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2018-06-28T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"8815520",
+        "Version":"vCenter Server 6.5 U2b",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2018-05-03T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"8307201",
+        "Version":"vCenter Server 6.5 U2",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2018-03-20T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"8024368",
+        "Version":"vCenter Server 6.5 Update 1g",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2018-01-09T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"7515524",
+        "Version":"vCenter Server 6.5 Update 1e",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2017-12-19T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"7312210",
+        "Version":"vCenter Server 6.5 Update 1d",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2017-10-26T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"6816762",
+        "Version":"vCenter Server 6.5 Update 1b",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2017-07-27T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"5973321",
+        "Version":"vCenter Server 6.5 Update 1",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2017-06-15T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"5705665",
+        "Version":"vCenter Server 6.5 0e Express Patch 3",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2017-04-18T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"5318154",
+        "Version":"vCenter Server 6.5 0d Express Patch 2",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2017-04-13T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"5318112",
+        "Version":"vCenter Server 6.5 0c Express Patch 1b",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2017-03-14T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"5178943",
+        "Version":"vCenter Server 6.5 0b Patch 1",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2017-02-02T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"4944578",
         "Version":"vCenter Server 6.5 0a Express Patch 1",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "4602587":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2016-11-15T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"4602587",
         "Version":"vCenter Server 6.5 GA",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "14518058":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-09-12T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"14518058",
         "Version":"vCenter Server 6.0 U3j",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "13638472":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2019-05-14T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"13638472",
         "Version":"vCenter Server 6.0 U3i",
         "Release Name":null,
         "Installer Build Number":"13638623"
     },
-    "9313458":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2018-08-14T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"9313458",
         "Version":"vCenter Server 6.0 U3h",
         "Release Name":null,
         "Installer Build Number":"9451619"
     },
-    "9109103":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2018-07-26T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"9109103",
         "Version":"vCenter Server 6.0 U3g",
         "Release Name":null,
         "Installer Build Number":"9146214"
     },
-    "7924803":{
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2018-06-28T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"8874690",
+        "Version":"vCenter Server 6.0 Update 3f",
+        "Release Name":null,
+        "Installer Build Number":"8803876"
+    },
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2018-03-20T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"7924803",
         "Version":"vCenter Server 6.0 Update 3e",
         "Release Name":null,
         "Installer Build Number":"7977899"
     },
-    "7462484\/7462485":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2018-01-09T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"7462484\/7462485",
         "Version":"vCenter Server 6.0 Update 3d",
         "Release Name":null,
         "Installer Build Number":"7464194"
     },
-    "7037394":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2017-11-09T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"7037394",
         "Version":"vCenter Server 6.0 Update 3c",
         "Release Name":null,
         "Installer Build Number":"7040641"
     },
-    "5318200\/5318203":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2017-04-13T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"5318200\/5318203",
         "Version":"vCenter Server 6.0 Update 3b",
         "Release Name":null,
         "Installer Build Number":"5326177"
     },
-    "5183551":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2017-03-21T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"5183551",
         "Version":"vCenter Server 6.0 Update 3a",
         "Release Name":null,
         "Installer Build Number":"5202527"
     },
-    "5112527":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2017-02-24T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"5112527",
         "Version":"vCenter Server 6.0 Update 3",
         "Release Name":null,
         "Installer Build Number":"5112506"
     },
-    "4541947":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2016-11-22T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"4541947",
         "Version":"vCenter Server 6.0 Update 2a",
         "Release Name":null,
         "Installer Build Number":"4637290"
     },
-    "3634793":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2016-03-16T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3634793",
         "Version":"vCenter Server 6.0 Update 2",
         "Release Name":null,
         "Installer Build Number":"3634788"
     },
-    "3339083":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2016-01-07T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3339083",
         "Version":"vCenter Server 6.0 Update 1b",
         "Release Name":null,
         "Installer Build Number":"3343019"
     },
-    "3018524":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-09-10T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3018524",
         "Version":"vCenter Server 6.0 Update 1",
         "Release Name":null,
         "Installer Build Number":"3040890"
     },
-    "2776511":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-07-07T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"2776511",
         "Version":"vCenter Server 6.0.0b",
         "Release Name":null,
         "Installer Build Number":"2800571"
     },
-    "2656760":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-04-16T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"2656760",
         "Version":"vCenter Server 6.0.0a",
         "Release Name":null,
         "Installer Build Number":"2656757"
     },
-    "2559268":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-03-12T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"2559268",
         "Version":"vCenter Server 6.0 GA",
         "Release Name":null,
         "Installer Build Number":"2562643"
     },
-    "9911218":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2018-09-14T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"9911218",
         "Version":"vCenter Server 5.5 Update 3k",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "9313450":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2018-08-14T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"9313450",
         "Version":"vCenter Server 5.5 Update 3j",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "8803859":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2018-06-28T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"8803859",
         "Version":"vCenter Server 5.5 Update 3i",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "7874785":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2018-03-20T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"7874785",
         "Version":"vCenter Server 5.5 Update 3h",
         "Release Name":null,
         "Installer Build Number":"7957701"
     },
-    "7460778":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2018-01-09T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"7460778",
         "Version":"vCenter Server 5.5 Update 3g",
         "Release Name":null,
         "Installer Build Number":"7460842"
     },
-    "4180647":{
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2017-09-14T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"6516310",
+        "Version":"vCenter Server 5.5 Update 3f",
+        "Release Name":null,
+        "Installer Build Number":"6520252"
+    },
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2016-08-04T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"4180647",
         "Version":"vCenter Server 5.5 Update 3e",
         "Release Name":null,
         "Installer Build Number":"4180646"
     },
-    "3721164":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2016-04-14T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3721164",
         "Version":"vCenter Server 5.5 Update 3d",
         "Release Name":null,
         "Installer Build Number":"3730491"
     },
-    "3660016":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2016-03-29T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3660016",
         "Version":"vCenter Server 5.5 Update 3c",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "3252642":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-12-08T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3252642",
         "Version":"vCenter Server 5.5 Update 3b",
         "Release Name":null,
         "Installer Build Number":"3254792"
     },
-    "3142196":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-10-22T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3142196",
         "Version":"vCenter Server 5.5 Update 3a",
         "Release Name":null,
         "Installer Build Number":"3154313"
     },
-    "3000241":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-09-16T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3000241",
         "Version":"vCenter Server 5.5 Update 3",
         "Release Name":null,
         "Installer Build Number":"3000346"
     },
-    "2646482":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-04-16T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"2646482",
         "Version":"vCenter Server 5.5 Update 2e",
         "Release Name":null,
         "Installer Build Number":"2646481"
     },
-    "1623099":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
-        "Release Date":"2014-03-11T00:00:00.000Z",
+        "Release Date":"2015-01-27T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.5 Update 1",
+        "Build Number":"2442329",
+        "Version":"vCenter Server 5.5 Update 2d",
         "Release Name":null,
-        "Installer Build Number":"1623101"
+        "Installer Build Number":"2442328"
     },
-    "1378903":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
-        "Release Date":"2013-10-31T00:00:00.000Z",
+        "Release Date":"2014-10-09T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.5.0a",
+        "Build Number":"2183111",
+        "Version":"vCenter Server 5.5 Update 2b",
         "Release Name":null,
-        "Installer Build Number":"1378901"
+        "Installer Build Number":"2183112"
     },
-    "1312299":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2013-09-22T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.5 GA",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "3814779":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-05-19T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.1 Update 3d",
-        "Release Name":null,
-        "Installer Build Number":"3900744"
-    },
-    "3070521":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-10-01T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.1 Update 3b",
-        "Release Name":null,
-        "Installer Build Number":"3072311"
-    },
-    "1473063":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2014-01-16T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.1 Update 2",
-        "Release Name":null,
-        "Installer Build Number":"1474365"
-    },
-    "1364037":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2013-10-17T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.1 Update 1c",
-        "Release Name":null,
-        "Installer Build Number":"1364079"
-    },
-    "1064983":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2013-04-25T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.1 Update 1",
-        "Release Name":null,
-        "Installer Build Number":"1065152"
-    },
-    "880146":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2012-10-25T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.1.0a",
-        "Release Name":null,
-        "Installer Build Number":"880471"
-    },
-    "799731":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2012-09-10T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.1 GA",
-        "Release Name":null,
-        "Installer Build Number":"799735"
-    },
-    "3891028":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-06-14T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.0 U3g",
-        "Release Name":null,
-        "Installer Build Number":"3891027"
-    },
-    "3073236":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-10-01T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.0 U3e",
-        "Release Name":null,
-        "Installer Build Number":"3073234"
-    },
-    "2656067":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-04-30T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.0 U3d",
-        "Release Name":null,
-        "Installer Build Number":"2692807"
-    },
-    "1300600":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2013-10-17T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.0 U3",
-        "Release Name":null,
-        "Installer Build Number":"1343691"
-    },
-    "913577":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2012-12-20T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.0 U2",
-        "Release Name":null,
-        "Installer Build Number":"923238"
-    },
-    "755629":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2012-07-12T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.0 U1a",
-        "Release Name":null,
-        "Installer Build Number":"757163"
-    },
-    "623373":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2012-03-15T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server 5.0 U1",
-        "Release Name":null,
-        "Installer Build Number":"639890"
-    },
-    "8667236":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-05-31T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.5 U2a",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "7801515":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-02-15T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.5 U1f",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "7119157":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2017-11-14T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.5 U1c",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "6671409":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2017-09-21T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.5 U1a",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "7119070":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2017-11-14T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.5.0f",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "7092136 replaces 4944578":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2017-02-02T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.5.0a Express Patch 01",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "7070488 replaces 4602587":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-11-15T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.5",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "13638473":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2019-05-14T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 3i",
-        "Release Name":null,
-        "Installer Build Number":"13638623"
-    },
-    "9291058":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-08-14T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 3h",
-        "Release Name":null,
-        "Installer Build Number":"9451619"
-    },
-    "9109104":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-07-26T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 3g",
-        "Release Name":null,
-        "Installer Build Number":"9146214"
-    },
-    "7924804":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-03-20T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 3e",
-        "Release Name":null,
-        "Installer Build Number":"7977899"
-    },
-    "7462485":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-01-09T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 3d",
-        "Release Name":null,
-        "Installer Build Number":"7464194"
-    },
-    "7037393":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2017-11-09T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 3c",
-        "Release Name":null,
-        "Installer Build Number":"7037817"
-    },
-    "5326079":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2017-04-13T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 3b",
-        "Release Name":null,
-        "Installer Build Number":"5326177"
-    },
-    "5202501":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2017-03-21T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 3a",
-        "Release Name":null,
-        "Installer Build Number":"5202527"
-    },
-    "5112529":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2017-02-24T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 3",
-        "Release Name":null,
-        "Installer Build Number":"5112506"
-    },
-    "4541948":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-11-22T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 2a",
-        "Release Name":null,
-        "Installer Build Number":"4637290"
-    },
-    "4191365":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-09-15T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 2m",
-        "Release Name":null,
-        "Installer Build Number":"4191361"
-    },
-    "3634794":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-03-15T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 2",
-        "Release Name":null,
-        "Installer Build Number":"ISO 3634788 ZIP 3634791"
-    },
-    "3339084":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-01-07T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 1b",
-        "Release Name":null,
-        "Installer Build Number":"3343019"
-    },
-    "3018523":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-09-10T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 Update 1",
-        "Release Name":null,
-        "Installer Build Number":"3040890"
-    },
-    "2776510":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-07-07T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0.0b",
-        "Release Name":null,
-        "Installer Build Number":"2800571"
-    },
-    "2656761":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-04-16T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0.0a",
-        "Release Name":null,
-        "Installer Build Number":"2656757"
-    },
-    "2559267":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-03-12T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 6.0 GA",
-        "Release Name":null,
-        "Installer Build Number":"2562643"
-    },
-    "9911210":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-09-14T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3k",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "9316563":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-08-14T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3j",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "8804617":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-06-28T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3i",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "7881688":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-03-20T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3h",
-        "Release Name":null,
-        "Installer Build Number":"7957701"
-    },
-    "7460865":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2018-01-09T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3g",
-        "Release Name":null,
-        "Installer Build Number":"7460778"
-    },
-    "4180648":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-08-04T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3e",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "3730881":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-04-14T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3d",
-        "Release Name":null,
-        "Installer Build Number":"3730491"
-    },
-    "3660015":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-03-29T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3c",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "3255668":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-12-08T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3b",
-        "Release Name":null,
-        "Installer Build Number":"3254792"
-    },
-    "3154314":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-10-22T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3a",
-        "Release Name":null,
-        "Installer Build Number":"3154313"
-    },
-    "3000347":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-09-16T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 3",
-        "Release Name":null,
-        "Installer Build Number":"3000346"
-    },
-    "2646489":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-04-16T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 2e",
-        "Release Name":null,
-        "Installer Build Number":"2646481"
-    },
-    "2063318":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2014-09-09T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 2",
+        "Build Number":"2001466",
+        "Version":"vCenter Server 5.5 Update 2",
         "Release Name":null,
         "Installer Build Number":"2105955"
     },
-    "1623101":{
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-07-22T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1945274",
+        "Version":"vCenter Server 5.5 Update 1c",
+        "Release Name":null,
+        "Installer Build Number":"1945270"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-06-12T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1891313",
+        "Version":"vCenter Server 5.5 Update 1b",
+        "Release Name":null,
+        "Installer Build Number":"1891310"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-04-19T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1750787",
+        "Version":"vCenter Server 5.5 Update 1a",
+        "Release Name":null,
+        "Installer Build Number":"1750795"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-04-19T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1750596",
+        "Version":"vCenter Server 5.5.0c",
+        "Release Name":null,
+        "Installer Build Number":"1750597"
+    },
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2014-03-11T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 Update 1",
+        "Build Number":"1623099",
+        "Version":"vCenter Server 5.5 Update 1",
         "Release Name":null,
-        "Installer Build Number":"1624811"
+        "Installer Build Number":"1623101"
     },
-    "1398495":{
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2013-12-22T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1476327",
+        "Version":"vCenter Server 5.5.0b",
+        "Release Name":null,
+        "Installer Build Number":"1476387"
+    },
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2013-10-31T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5.0a",
+        "Build Number":"1378903",
+        "Version":"vCenter Server 5.5.0a",
         "Release Name":null,
-        "Installer Build Number":"1398493"
+        "Installer Build Number":"1378901"
     },
-    "1312298":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2013-09-22T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.5 GA",
+        "Build Number":"1312299",
+        "Version":"vCenter Server 5.5 GA",
         "Release Name":null,
-        "Installer Build Number":"1312297"
+        "Installer Build Number":null
     },
-    "3868380":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2016-05-19T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.1 Update 3d",
+        "Build Number":"3814779",
+        "Version":"vCenter Server 5.1 Update 3d",
         "Release Name":null,
-        "Installer Build Number":"3814779"
+        "Installer Build Number":"3900744"
     },
-    "3630963":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-03-29T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.1 Update 3c",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "3072314":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-10-01T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.1 Update 3b",
+        "Build Number":"3070521",
+        "Version":"vCenter Server 5.1 Update 3b",
         "Release Name":null,
         "Installer Build Number":"3072311"
     },
-    "1474364":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2014-01-16T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.1 Update 2",
-        "Release Name":null,
-        "Installer Build Number":"1474365"
-    },
-    "1364042":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2013-10-17T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.1 Update 1c",
-        "Release Name":null,
-        "Installer Build Number":null
-    },
-    "1065184":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2013-04-25T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.1 Update 1",
-        "Release Name":null,
-        "Installer Build Number":"1064983"
-    },
-    "880472":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2012-10-25T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.1.0a",
-        "Release Name":null,
-        "Installer Build Number":"880146"
-    },
-    "799730":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2012-08-13T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.1GA",
-        "Release Name":null,
-        "Installer Build Number":"799731"
-    },
-    "3891027":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2016-06-14T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.0 U3g",
-        "Release Name":null,
-        "Installer Build Number":"3891026"
-    },
-    "3073237":{
-        "Edition":"Windows",
-        "Version - Release Name":null,
-        "Release Date":"2015-10-01T00:00:00.000Z",
-        "Registry\/Release Notes":null,
-        "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.0 U3e",
-        "Release Name":null,
-        "Installer Build Number":"3073234"
-    },
-    "2656066":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2015-04-30T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.0 U3d",
+        "Build Number":"2669725",
+        "Version":"vCenter Server 5.1 Update 3a",
         "Release Name":null,
-        "Installer Build Number":"2692807"
+        "Installer Build Number":"2670344"
     },
-    "1302764":{
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-10-30T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"2207772",
+        "Version":"vCenter Server 5.1 Update 2c",
+        "Release Name":null,
+        "Installer Build Number":"2212977"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-12-04T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"2306353",
+        "Version":"vCenter Server 5.1 Update 3",
+        "Release Name":null,
+        "Installer Build Number":"2308386"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-07-01T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1882349",
+        "Version":"vCenter Server 5.1 Update 2a",
+        "Release Name":null,
+        "Installer Build Number":"1917403"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-01-16T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1473063",
+        "Version":"vCenter Server 5.1 Update 2",
+        "Release Name":null,
+        "Installer Build Number":"1474365"
+    },
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2013-10-17T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.0 U3",
+        "Build Number":"1364037",
+        "Version":"vCenter Server 5.1 Update 1c",
         "Release Name":null,
-        "Installer Build Number":null
+        "Installer Build Number":"1364079"
     },
-    "920217":{
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2013-08-01T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1235232",
+        "Version":"vCenter Server 5.1 Update 1b",
+        "Release Name":null,
+        "Installer Build Number":"1235309"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2013-05-22T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1123961",
+        "Version":"vCenter Server 5.1 Update 1a",
+        "Release Name":null,
+        "Installer Build Number":"1123966"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2013-04-25T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1064983",
+        "Version":"vCenter Server 5.1 Update 1",
+        "Release Name":null,
+        "Installer Build Number":"1065152"
+    },
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2012-12-20T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.0 U2",
+        "Build Number":"947673",
+        "Version":"vCenter Server 5.1.0b",
         "Release Name":null,
-        "Installer Build Number":null
+        "Installer Build Number":"947939"
     },
-    "759855":{
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2012-10-25T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"880146",
+        "Version":"vCenter Server 5.1.0a",
+        "Release Name":null,
+        "Installer Build Number":"880471"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2012-09-10T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"799731",
+        "Version":"vCenter Server 5.1 GA",
+        "Release Name":null,
+        "Installer Build Number":"799735"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2016-06-14T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3891028",
+        "Version":"vCenter Server 5.0 U3g",
+        "Release Name":null,
+        "Installer Build Number":"3891027"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2015-10-01T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"3073236",
+        "Version":"vCenter Server 5.0 U3e",
+        "Release Name":null,
+        "Installer Build Number":"3073234"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2015-04-30T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"2656067",
+        "Version":"vCenter Server 5.0 U3d",
+        "Release Name":null,
+        "Installer Build Number":"2692807"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-11-20T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"2210222",
+        "Version":"vCenter Server 5.0 U3c",
+        "Release Name":null,
+        "Installer Build Number":"2215678"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2014-07-01T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1917469",
+        "Version":"vCenter Server 5.0 U3a",
+        "Release Name":null,
+        "Installer Build Number":"1923446"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2013-10-17T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"1300600",
+        "Version":"vCenter Server 5.0 U3",
+        "Release Name":null,
+        "Installer Build Number":"1343691"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2012-12-20T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"913577",
+        "Version":"vCenter Server 5.0 U2",
+        "Release Name":null,
+        "Installer Build Number":"923238"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2012-08-16T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"804277",
+        "Version":"vCenter Server 5.0 U1b",
+        "Release Name":null,
+        "Installer Build Number":"804276"
+    },
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2012-07-12T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
-        "Version":"vCenter Server Appliance 5.0 U1a",
+        "Build Number":"755629",
+        "Version":"vCenter Server 5.0 U1a",
         "Release Name":null,
-        "Installer Build Number":null
+        "Installer Build Number":"757163"
     },
-    "925676":{
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2012-03-15T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"623373",
+        "Version":"vCenter Server 5.0 U1",
+        "Release Name":null,
+        "Installer Build Number":"639890"
+    },
+    {
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2011-08-24T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Build Number":"455964",
+        "Version":"vCenter Server 5.0 GA",
+        "Release Name":null,
+        "Installer Build Number":"456005"
+    },
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2013-01-31T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"925676",
         "Version":"vCenter Server 4.1 U3a",
         "Release Name":null,
         "Installer Build Number":"978694"
     },
-    "816786":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2012-08-30T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"816786",
         "Version":"vCenter Server 4.1 U3",
         "Release Name":null,
         "Installer Build Number":"799345"
     },
-    "491557":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2011-10-27T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"491557",
         "Version":"vCenter Server 4.1 U2",
         "Release Name":null,
         "Installer Build Number":"493063"
     },
-    "345043":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2011-02-10T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"345043",
         "Version":"vCenter Server 4.1 U1",
         "Release Name":null,
         "Installer Build Number":"345042"
     },
-    "258902":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2010-07-13T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"258902",
         "Version":"vCenter Server 4.1 GA",
         "Release Name":null,
         "Installer Build Number":"259021"
     },
-    "934016":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2013-02-17T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"934016",
         "Version":"vCenter Server 4.0 Update 4b",
         "Release Name":null,
         "Installer Build Number":"934018"
     },
-    "818020":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2012-09-13T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"818020",
         "Version":"vCenter Server 4.0 Update 4a",
         "Release Name":null,
         "Installer Build Number":"792836"
     },
-    "496403":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2011-11-17T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"496403",
         "Version":"vCenter Server 4.0 U4",
         "Release Name":null,
         "Installer Build Number":"502539"
     },
-    "385281":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2011-05-05T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"385281",
         "Version":"vCenter Server 4.0 U3",
         "Release Name":null,
         "Installer Build Number":"387869"
     },
-    "258672":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2010-06-10T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"258672",
         "Version":"vCenter Server 4.0 U2",
         "Release Name":null,
         "Installer Build Number":"264050"
     },
-    "208111":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2010-11-19T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"208111",
         "Version":"vCenter Server 4.0 U1",
         "Release Name":null,
         "Installer Build Number":"208156"
     },
-    "183347":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2010-02-25T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"183347",
         "Version":"vCenter Server 4.0 Patch 1",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "162856":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2009-05-21T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"162856",
         "Version":"vCenter Server 4.0 GA",
         "Release Name":null,
         "Installer Build Number":"162902"
     },
-    "988588":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2013-02-21T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"988588",
         "Version":"VirtualCenter 2.5.0 U6c",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "598800":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2012-03-08T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"598800",
         "Version":"VirtualCenter 2.5.0 U6b",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "341471":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2011-05-05T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"341471",
         "Version":"VirtualCenter 2.5.0 U6a#",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "227640":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2010-01-29T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"227640",
         "Version":"VirtualCenter 2.5.0 U6 Localized",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "227637":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2010-01-29T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"227637",
         "Version":"VirtualCenter 2.5.0 U6 English",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "174835":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2009-07-10T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"174835",
         "Version":"VirtualCenter 2.5.0 U5 Localized",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "174768":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2009-07-10T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"174768",
         "Version":"VirtualCenter 2.5.0 U5 English",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "147704":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2009-02-23T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"147704",
         "Version":"VirtualCenter 2.5.0 U4 Localized",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "147697":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2009-02-23T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"147697",
         "Version":"VirtualCenter 2.5.0 U4 German",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "147633":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2009-02-23T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"147633",
         "Version":"VirtualCenter 2.5.0 U4 English",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "119598":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2008-10-03T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"119598",
         "Version":"VirtualCenter 2.5.0 U3",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "104215":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2008-07-25T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"104215",
         "Version":"VirtualCenter 2.5.0 U2",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "84767":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2008-04-10T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"84767",
         "Version":"VirtualCenter 2.5.0 U1",
         "Release Name":null,
         "Installer Build Number":null
     },
-    "64192":{
+    {
         "Edition":"Windows",
         "Version - Release Name":null,
         "Release Date":"2007-12-10T00:00:00.000Z",
         "Registry\/Release Notes":null,
         "Client\/MOB\/vpxd.log":null,
+        "Build Number":"64192",
         "Version":"VirtualCenter 2.5.0 GA",
         "Release Name":null,
         "Installer Build Number":null
     }
-}
+]

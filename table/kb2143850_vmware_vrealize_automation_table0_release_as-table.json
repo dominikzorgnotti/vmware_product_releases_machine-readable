@@ -76,19 +76,19 @@
             "index":5,
             "Product Release":"vRealize Automation 8.1 P2",
             "Release Date":"2020-07-28T00:00:00.000Z",
-            "Build Number -\u00a0Version":"16633378 -\u00a08.1.0.9583",
+            "Build Number -\u00a0Version":"16633378 - 8.1.0.9583",
             "Installer Build Number":null,
-            "Build Number":"16633378 -\u00a08.1.0.9583",
-            "Version":null
+            "Build Number":"16633378",
+            "Version":"8.1.0.9583"
         },
         {
             "index":6,
             "Product Release":"vRealize Automation 8.1 P1",
             "Release Date":"2020-06-19T00:00:00.000Z",
-            "Build Number -\u00a0Version":"16413777 -\u00a08.1.0.9465",
+            "Build Number -\u00a0Version":"16413777 - 8.1.0.9465",
             "Installer Build Number":null,
-            "Build Number":"16413777 -\u00a08.1.0.9465",
-            "Version":null
+            "Build Number":"16413777",
+            "Version":"8.1.0.9465"
         },
         {
             "index":7,
@@ -211,10 +211,10 @@
             "index":20,
             "Product Release":"vRealize Automation 7.6 P14",
             "Release Date":"2020-09-22T00:00:00.000Z",
-            "Build Number -\u00a0Version":"16841668\u00a0- 7.6.0.17319",
+            "Build Number -\u00a0Version":"16841668 - 7.6.0.17319",
             "Installer Build Number":null,
-            "Build Number":"16841668\u00a0- 7.6.0.17319",
-            "Version":null
+            "Build Number":"16841668",
+            "Version":"7.6.0.17319"
         },
         {
             "index":21,
@@ -229,109 +229,109 @@
             "index":22,
             "Product Release":"vRealize Automation 7.6 P12",
             "Release Date":"2020-08-06T00:00:00.000Z",
-            "Build Number -\u00a0Version":"16657764 -\u00a07.6.0.17306",
+            "Build Number -\u00a0Version":"16657764 - 7.6.0.17306",
             "Installer Build Number":null,
-            "Build Number":"16657764 -\u00a07.6.0.17306",
-            "Version":null
+            "Build Number":"16657764",
+            "Version":"7.6.0.17306"
         },
         {
             "index":23,
             "Product Release":"vRealize Automation 7.6 P11",
             "Release Date":"2020-07-29T00:00:00.000Z",
-            "Build Number -\u00a0Version":"16630296 -\u00a07.6.0.17303",
+            "Build Number -\u00a0Version":"16630296 - 7.6.0.17303",
             "Installer Build Number":null,
-            "Build Number":"16630296 -\u00a07.6.0.17303",
-            "Version":null
+            "Build Number":"16630296",
+            "Version":"7.6.0.17303"
         },
         {
             "index":24,
             "Product Release":"vRealize Automation 7.6 P10",
             "Release Date":"2020-07-15T00:00:00.000Z",
-            "Build Number -\u00a0Version":"16526925 -\u00a07.6.0.17279",
+            "Build Number -\u00a0Version":"16526925 - 7.6.0.17279",
             "Installer Build Number":null,
-            "Build Number":"16526925 -\u00a07.6.0.17279",
-            "Version":null
+            "Build Number":"16526925",
+            "Version":"7.6.0.17279"
         },
         {
             "index":25,
             "Product Release":"vRealize Automation 7.6 P9",
             "Release Date":"2020-06-15T00:00:00.000Z",
-            "Build Number -\u00a0Version":"16318031 -\u00a07.6.0.17225",
+            "Build Number -\u00a0Version":"16318031 - 7.6.0.17225",
             "Installer Build Number":null,
-            "Build Number":"16318031 -\u00a07.6.0.17225",
-            "Version":null
+            "Build Number":"16318031",
+            "Version":"7.6.0.17225"
         },
         {
             "index":26,
             "Product Release":"vRealize Automation 7.6 P8",
             "Release Date":"2020-05-29T00:00:00.000Z",
-            "Build Number -\u00a0Version":"16206122 -\u00a07.6.0.17216",
+            "Build Number -\u00a0Version":"16206122 - 7.6.0.17216",
             "Installer Build Number":null,
-            "Build Number":"16206122 -\u00a07.6.0.17216",
-            "Version":null
+            "Build Number":"16206122",
+            "Version":"7.6.0.17216"
         },
         {
             "index":27,
             "Product Release":"vRealize Automation 7.6 P7",
             "Release Date":"2020-04-15T00:00:00.000Z",
-            "Build Number -\u00a0Version":"15966931 -\u00a07.6.0.17198",
+            "Build Number -\u00a0Version":"15966931 - 7.6.0.17198",
             "Installer Build Number":null,
-            "Build Number":"15966931 -\u00a07.6.0.17198",
-            "Version":null
+            "Build Number":"15966931",
+            "Version":"7.6.0.17198"
         },
         {
             "index":28,
             "Product Release":"vRealize Automation 7.6 P6",
             "Release Date":"2020-04-01T00:00:00.000Z",
-            "Build Number -\u00a0Version":"15913876 -\u00a07.6.0.17194",
+            "Build Number -\u00a0Version":"15913876 - 7.6.0.17194",
             "Installer Build Number":null,
-            "Build Number":"15913876 -\u00a07.6.0.17194",
-            "Version":null
+            "Build Number":"15913876",
+            "Version":"7.6.0.17194"
         },
         {
             "index":29,
             "Product Release":"vRealize Automation 7.6 P5",
             "Release Date":"2020-03-27T00:00:00.000Z",
-            "Build Number -\u00a0Version":"15774893 -\u00a07.6.0.17174",
+            "Build Number -\u00a0Version":"15774893 - 7.6.0.17174",
             "Installer Build Number":null,
-            "Build Number":"15774893 -\u00a07.6.0.17174",
-            "Version":null
+            "Build Number":"15774893",
+            "Version":"7.6.0.17174"
         },
         {
             "index":30,
             "Product Release":"vRealize Automation 7.6 P4",
             "Release Date":"2020-03-11T00:00:00.000Z",
-            "Build Number -\u00a0Version":"15705069 -\u00a07.6.0.17165",
+            "Build Number -\u00a0Version":"15705069 - 7.6.0.17165",
             "Installer Build Number":null,
-            "Build Number":"15705069 -\u00a07.6.0.17165",
-            "Version":null
+            "Build Number":"15705069",
+            "Version":"7.6.0.17165"
         },
         {
             "index":31,
             "Product Release":"vRealize Automation 7.6 P3",
             "Release Date":"2020-02-26T00:00:00.000Z",
-            "Build Number -\u00a0Version":"15529008 -\u00a07.6.0.17136",
+            "Build Number -\u00a0Version":"15529008 - 7.6.0.17136",
             "Installer Build Number":null,
-            "Build Number":"15529008 -\u00a07.6.0.17136",
-            "Version":null
+            "Build Number":"15529008",
+            "Version":"7.6.0.17136"
         },
         {
             "index":32,
             "Product Release":"vRealize Automation 7.6 P2",
             "Release Date":"2019-10-25T00:00:00.000Z",
-            "Build Number -\u00a0Version":"14907768 -\u00a07.6.0.16986",
+            "Build Number -\u00a0Version":"14907768 - 7.6.0.16986",
             "Installer Build Number":null,
-            "Build Number":"14907768 -\u00a07.6.0.16986",
-            "Version":null
+            "Build Number":"14907768",
+            "Version":"7.6.0.16986"
         },
         {
             "index":33,
             "Product Release":"vRealize Automation 7.6",
             "Release Date":"2019-04-11T00:00:00.000Z",
-            "Build Number -\u00a0Version":"13027280 -\u00a07.6.0.8249",
+            "Build Number -\u00a0Version":"13027280 - 7.6.0.8249",
             "Installer Build Number":null,
-            "Build Number":"13027280 -\u00a07.6.0.8249",
-            "Version":null
+            "Build Number":"13027280",
+            "Version":"7.6.0.8249"
         },
         {
             "index":34,
@@ -508,10 +508,10 @@
             "index":53,
             "Product Release":"vRealize Automation 7.4 P13",
             "Release Date":"2019-10-17T00:00:00.000Z",
-            "Build Number -\u00a0Version":"14454487\u00a0- 7.4.0.16861",
+            "Build Number -\u00a0Version":"14454487 - 7.4.0.16861",
             "Installer Build Number":null,
-            "Build Number":"14454487\u00a0- 7.4.0.16861",
-            "Version":null
+            "Build Number":"14454487",
+            "Version":"7.4.0.16861"
         },
         {
             "index":54,

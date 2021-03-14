@@ -38,11 +38,11 @@
                 "type":"string"
             },
             {
-                "name":"Registry\/Release Notes",
+                "name":"Installer Build Number",
                 "type":"string"
             },
             {
-                "name":"Installer Build Number",
+                "name":"Registry\/Release Notes",
                 "type":"string"
             }
         ],
@@ -62,8 +62,8 @@
             "Version":"vCenter Server 7.0 update 1d",
             "Release Name":"7.0.1.00300",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":1,
@@ -75,8 +75,8 @@
             "Version":"vCenter Server 7.0 update 1c",
             "Release Name":"7.0.1.00200",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":2,
@@ -88,8 +88,8 @@
             "Version":"vCenter Server 7.0 update 1a",
             "Release Name":"7.0.1.00100",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":3,
@@ -101,8 +101,8 @@
             "Version":"vCenter Server 7.0 Update 1",
             "Release Name":"7.0.1.00000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":4,
@@ -114,8 +114,8 @@
             "Version":"vCenter Server 7.0.0d",
             "Release Name":"7.0.0.10700",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":5,
@@ -127,8 +127,8 @@
             "Version":"vCenter Server 7.0.0c",
             "Release Name":"7.0.0.10600",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":6,
@@ -140,8 +140,8 @@
             "Version":"vCenter Server 7.0.0b",
             "Release Name":"7.0.0.10400",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":7,
@@ -153,8 +153,8 @@
             "Version":"vCenter Server 7.0.0a",
             "Release Name":"7.0.0.10300",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":8,
@@ -166,8 +166,8 @@
             "Version":"vCenter Server 7.0 GA",
             "Release Name":"7.0.0.10100",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":9,
@@ -179,8 +179,8 @@
             "Version":"vCenter Appliance 6.7 Update 3l",
             "Release Name":"6.7.0.46000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":10,
@@ -192,8 +192,8 @@
             "Version":"vCenter Appliance 6.7 Update 3k",
             "Release Name":"6.7.0.45100",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":11,
@@ -205,8 +205,8 @@
             "Version":"vCenter Appliance 6.7 Update 3j",
             "Release Name":"6.7.0.45000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":12,
@@ -218,8 +218,8 @@
             "Version":"vCenter Appliance 6.7 Update 3i",
             "Release Name":"6.7.0.44200",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":13,
@@ -231,8 +231,8 @@
             "Version":"vCenter Appliance 6.7 Update 3h",
             "Release Name":"6.7.0.44100",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":14,
@@ -244,8 +244,8 @@
             "Version":"vCenter Appliance 6.7 Update 3g",
             "Release Name":"6.7.0.44000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":15,
@@ -257,8 +257,8 @@
             "Version":"vCenter Appliance 6.7 Update 3f",
             "Release Name":"6.7.0.43000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":16,
@@ -270,8 +270,8 @@
             "Version":"vCenter Appliance 6.7 Update 3e",
             "Release Name":"6.7.0.42300",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":17,
@@ -283,8 +283,8 @@
             "Version":"vCenter Appliance 6.7 Update 3d",
             "Release Name":"6.7.0.42200",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":18,
@@ -296,8 +296,8 @@
             "Version":"vCenter Appliance 6.7 Update 3c",
             "Release Name":"6.7.0.42100",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":19,
@@ -309,8 +309,8 @@
             "Version":"vCenter Appliance 6.7 Update 3b",
             "Release Name":"6.7.0.42000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":20,
@@ -322,8 +322,8 @@
             "Version":"vCenter Appliance 6.7 Update 3a",
             "Release Name":"6.7.0.41000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":21,
@@ -335,8 +335,8 @@
             "Version":"vCenter Appliance 6.7 Update 3",
             "Release Name":"6.7.0.40000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":22,
@@ -348,8 +348,8 @@
             "Version":"vCenter Appliance 6.7 Update 2c",
             "Release Name":"6.7.0.32000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":23,
@@ -361,8 +361,8 @@
             "Version":"vCenter Appliance 6.7 Update 2b",
             "Release Name":"6.7.0.31100",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":24,
@@ -374,8 +374,8 @@
             "Version":"vCenter Appliance 6.7 Update 2a",
             "Release Name":"6.7.0.31000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":25,
@@ -387,8 +387,8 @@
             "Version":"vCenter Appliance 6.7 U2",
             "Release Name":"6.7.0.30000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":26,
@@ -400,8 +400,8 @@
             "Version":"vCenter Appliance 6.7 U1b",
             "Release Name":"6.7.0.21000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":27,
@@ -413,8 +413,8 @@
             "Version":"vCenter Appliance 6.7 U1a",
             "Release Name":"6.7.0.20100",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":28,
@@ -426,8 +426,8 @@
             "Version":"vCenter Appliance 6.7 U1",
             "Release Name":"6.7.0.20000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":29,
@@ -439,8 +439,8 @@
             "Version":"vCenter Appliance 6.7d",
             "Release Name":"6.7.0.14000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":30,
@@ -452,8 +452,8 @@
             "Version":"vCenter Appliance 6.7c",
             "Release Name":"6.7.0.13000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":31,
@@ -465,8 +465,8 @@
             "Version":"vCenter Appliance 6.7b",
             "Release Name":"6.7.0.12000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":32,
@@ -478,8 +478,8 @@
             "Version":"vCenter Appliance 6.7a",
             "Release Name":"6.7.0.11000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":33,
@@ -491,11 +491,1194 @@
             "Version":"vCenter Appliance 6.7",
             "Release Name":"6.7.0.10000",
             "Edition":"VCSA",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":34,
+            "Version - Release Name":null,
+            "Release Date":"2018-12-20T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"11347054",
+            "Version":"vCenter Server Appliance 6.5 U2e",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":35,
+            "Version - Release Name":null,
+            "Release Date":"2018-11-29T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"10964411",
+            "Version":"vCenter Server Appliance 6.5 U2d",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":36,
+            "Version - Release Name":null,
+            "Release Date":"2018-08-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"9451637",
+            "Version":"vCenter Server Appliance 6.5 U2c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":37,
+            "Version - Release Name":null,
+            "Release Date":"2018-06-28T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"8815520",
+            "Version":"vCenter Server Appliance 6.5 U2b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":38,
+            "Version - Release Name":null,
+            "Release Date":"2018-05-31T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"8667236",
+            "Version":"vCenter Server Appliance 6.5 U2a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":39,
+            "Version - Release Name":null,
+            "Release Date":"2018-05-03T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"8307201",
+            "Version":"vCenter Server Appliance 6.5 U2",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":40,
+            "Version - Release Name":null,
+            "Release Date":"2018-03-20T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"8024368",
+            "Version":"vCenter Server Appliance 6.5 U1g",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":41,
+            "Version - Release Name":null,
+            "Release Date":"2018-02-15T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7801515",
+            "Version":"vCenter Server Appliance 6.5 U1f",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":42,
+            "Version - Release Name":null,
+            "Release Date":"2018-01-09T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7515524",
+            "Version":"vCenter Server Appliance 6.5 U1e",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":43,
+            "Version - Release Name":null,
+            "Release Date":"2017-12-19T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7312210",
+            "Version":"vCenter Server Appliance 6.5 U1d",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":44,
+            "Version - Release Name":null,
+            "Release Date":"2017-11-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7119157",
+            "Version":"vCenter Server Appliance 6.5 U1c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":45,
+            "Version - Release Name":null,
+            "Release Date":"2017-10-26T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"6816762",
+            "Version":"vCenter Server Appliance 6.5 U1b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":46,
+            "Version - Release Name":null,
+            "Release Date":"2017-09-21T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"6671409",
+            "Version":"vCenter Server Appliance 6.5 U1a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":47,
+            "Version - Release Name":null,
+            "Release Date":"2017-07-27T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"5973321",
+            "Version":"vCenter Server Appliance 6.5 U1",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":48,
+            "Version - Release Name":null,
+            "Release Date":"2017-11-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7119070",
+            "Version":"vCenter Server Appliance 6.5.0f",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":49,
+            "Version - Release Name":null,
+            "Release Date":"2017-06-15T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"5705665",
+            "Version":"vCenter Server Appliance 6.5.0e Express Patch 3",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":50,
+            "Version - Release Name":null,
+            "Release Date":"2017-04-18T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"5318154",
+            "Version":"vCenter Server Appliance 6.5.0d Express Patch 2",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":51,
+            "Version - Release Name":null,
+            "Release Date":"2017-04-13T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"5318112",
+            "Version":"vCenter Server Appliance 6.5.0c Express Patch 1b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":52,
+            "Version - Release Name":null,
+            "Release Date":"2017-03-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"5178943",
+            "Version":"vCenter Server Appliance 6.5.0b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":53,
+            "Version - Release Name":null,
+            "Release Date":"2017-02-02T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7092136 replaces 4944578",
+            "Version":"vCenter Server Appliance 6.5.0a Express Patch 01",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":54,
+            "Version - Release Name":null,
+            "Release Date":"2016-11-15T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7070488 replaces 4602587",
+            "Version":"vCenter Server Appliance 6.5",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":55,
+            "Version - Release Name":null,
+            "Release Date":"2019-05-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"13638473",
+            "Version":"vCenter Server Appliance 6.0 Update 3i",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"13638623",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":56,
+            "Version - Release Name":null,
+            "Release Date":"2018-08-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"9291058",
+            "Version":"vCenter Server Appliance 6.0 Update 3h",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"9451619",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":57,
+            "Version - Release Name":null,
+            "Release Date":"2018-07-26T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"9109104",
+            "Version":"vCenter Server Appliance 6.0 Update 3g",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"9146214",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":58,
+            "Version - Release Name":null,
+            "Release Date":"2018-06-28T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"8874690",
+            "Version":"vCenter Server Appliance 6.0 Update 3f",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"8803875",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":59,
+            "Version - Release Name":null,
+            "Release Date":"2018-03-20T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7924804",
+            "Version":"vCenter Server Appliance 6.0 Update 3e",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"7977899",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":60,
+            "Version - Release Name":null,
+            "Release Date":"2018-01-09T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7462485",
+            "Version":"vCenter Server Appliance 6.0 Update 3d",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"7464194",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":61,
+            "Version - Release Name":null,
+            "Release Date":"2017-11-09T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7037393",
+            "Version":"vCenter Server Appliance 6.0 Update 3c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"7037817",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":62,
+            "Version - Release Name":null,
+            "Release Date":"2017-04-13T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"5326079",
+            "Version":"vCenter Server Appliance 6.0 Update 3b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"5326177",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":63,
+            "Version - Release Name":null,
+            "Release Date":"2017-03-21T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"5202501",
+            "Version":"vCenter Server Appliance 6.0 Update 3a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"5202527",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":64,
+            "Version - Release Name":null,
+            "Release Date":"2017-02-24T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"5112529",
+            "Version":"vCenter Server Appliance 6.0 Update 3",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"5112506",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":65,
+            "Version - Release Name":null,
+            "Release Date":"2016-11-22T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"4541948",
+            "Version":"vCenter Server Appliance 6.0 Update 2a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"4637290",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":66,
+            "Version - Release Name":null,
+            "Release Date":"2016-09-15T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"4191365",
+            "Version":"vCenter Server Appliance 6.0 Update 2m",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"4191361",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":67,
+            "Version - Release Name":null,
+            "Release Date":"2016-03-15T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3634794",
+            "Version":"vCenter Server Appliance 6.0 Update 2",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"ISO 3634788 ZIP 3634791",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":68,
+            "Version - Release Name":null,
+            "Release Date":"2016-01-07T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3339084",
+            "Version":"vCenter Server Appliance 6.0 Update 1b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3343019",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":69,
+            "Version - Release Name":null,
+            "Release Date":"2015-09-10T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3018523",
+            "Version":"vCenter Server Appliance 6.0 Update 1",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3040890",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":70,
+            "Version - Release Name":null,
+            "Release Date":"2015-07-07T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2776510",
+            "Version":"vCenter Server Appliance 6.0.0b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2800571",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":71,
+            "Version - Release Name":null,
+            "Release Date":"2015-04-16T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2656761",
+            "Version":"vCenter Server Appliance 6.0.0a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2656757",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":72,
+            "Version - Release Name":null,
+            "Release Date":"2015-03-12T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2559267",
+            "Version":"vCenter Server Appliance 6.0 GA",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2562643",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":73,
+            "Version - Release Name":null,
+            "Release Date":"2018-09-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"9911210",
+            "Version":"vCenter Server Appliance 5.5 Update 3k",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":74,
+            "Version - Release Name":null,
+            "Release Date":"2018-08-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"9316563",
+            "Version":"vCenter Server Appliance 5.5 Update 3j",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":75,
+            "Version - Release Name":null,
+            "Release Date":"2018-06-28T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"8804617",
+            "Version":"vCenter Server Appliance 5.5 Update 3i",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":76,
+            "Version - Release Name":null,
+            "Release Date":"2018-03-20T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7881688",
+            "Version":"vCenter Server Appliance 5.5 Update 3h",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"7957701",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":77,
+            "Version - Release Name":null,
+            "Release Date":"2018-01-09T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"7460865",
+            "Version":"vCenter Server Appliance 5.5 Update 3g",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"7460778",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":78,
+            "Version - Release Name":null,
+            "Release Date":"2017-09-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"6516310",
+            "Version":"vCenter Server Appliance 5.5 Update 3f",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"6520252",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":79,
+            "Version - Release Name":null,
+            "Release Date":"2016-08-04T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"4180648",
+            "Version":"vCenter Server Appliance 5.5 Update 3e",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":80,
+            "Version - Release Name":null,
+            "Release Date":"2016-04-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3730881",
+            "Version":"vCenter Server Appliance 5.5 Update 3d",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3730491",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":81,
+            "Version - Release Name":null,
+            "Release Date":"2016-03-29T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3660015",
+            "Version":"vCenter Server Appliance 5.5 Update 3c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":82,
+            "Version - Release Name":null,
+            "Release Date":"2015-12-08T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3255668",
+            "Version":"vCenter Server Appliance 5.5 Update 3b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3254792",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":83,
+            "Version - Release Name":null,
+            "Release Date":"2015-10-22T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3154314",
+            "Version":"vCenter Server Appliance 5.5 Update 3a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3154313",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":84,
+            "Version - Release Name":null,
+            "Release Date":"2015-09-16T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3000347",
+            "Version":"vCenter Server Appliance 5.5 Update 3",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3000346",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":85,
+            "Version - Release Name":null,
+            "Release Date":"2015-04-16T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2646489",
+            "Version":"vCenter Server Appliance 5.5 Update 2e",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2646481",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":86,
+            "Version - Release Name":null,
+            "Release Date":"2015-01-27T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2442329",
+            "Version":"vCenter Server Appliance 5.5 Update 2d",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2442330",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":87,
+            "Version - Release Name":null,
+            "Release Date":"2014-10-09T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2183111",
+            "Version":"vCenter Server Appliance 5.5 Update 2b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2183109",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":88,
+            "Version - Release Name":null,
+            "Release Date":"2014-10-01T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2001466",
+            "Version":"vCenter Server Appliance 5.5 Update 2a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2170515",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":89,
+            "Version - Release Name":null,
+            "Release Date":"2014-09-09T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2063318",
+            "Version":"vCenter Server Appliance 5.5 Update 2",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2105955",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":90,
+            "Version - Release Name":null,
+            "Release Date":"2014-07-22T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1945274",
+            "Version":"vCenter Server Appliance 5.5 Update 1c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1945271",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":91,
+            "Version - Release Name":null,
+            "Release Date":"2014-06-12T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1891313",
+            "Version":"vCenter Server Appliance 5.5 Update 1b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1891314",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":92,
+            "Version - Release Name":null,
+            "Release Date":"2014-04-19T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1750787",
+            "Version":"vCenter Server Appliance 5.5 Update 1a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1750781",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":93,
+            "Version - Release Name":null,
+            "Release Date":"2014-04-19T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1750596",
+            "Version":"vCenter Server Appliance 5.5.0c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1750593",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":94,
+            "Version - Release Name":null,
+            "Release Date":"2014-03-11T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1623101",
+            "Version":"vCenter Server Appliance 5.5 Update 1",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1624811",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":95,
+            "Version - Release Name":null,
+            "Release Date":"2013-12-22T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1476327",
+            "Version":"vCenter Server Appliance 5.5.0b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1476389",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":96,
+            "Version - Release Name":null,
+            "Release Date":"2013-10-31T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1398495",
+            "Version":"vCenter Server Appliance 5.5.0a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1398493",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":97,
+            "Version - Release Name":null,
+            "Release Date":"2013-09-22T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1312298",
+            "Version":"vCenter Server Appliance 5.5 GA",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1312297",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":98,
+            "Version - Release Name":null,
+            "Release Date":"2016-05-19T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3868380",
+            "Version":"vCenter Server Appliance 5.1 Update 3d",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3814779",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":99,
+            "Version - Release Name":null,
+            "Release Date":"2016-03-29T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3630963",
+            "Version":"vCenter Server Appliance 5.1 Update 3c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":100,
+            "Version - Release Name":null,
+            "Release Date":"2015-10-01T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3072314",
+            "Version":"vCenter Server Appliance 5.1 Update 3b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3072311",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":101,
+            "Version - Release Name":null,
+            "Release Date":"2015-04-30T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2669725",
+            "Version":"vCenter Server Appliance 5.1 Update 3a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2670345",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":102,
+            "Version - Release Name":null,
+            "Release Date":"2014-10-30T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2207772",
+            "Version":"vCenter Server Appliance 5.1 Update 2c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2212990",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":103,
+            "Version - Release Name":null,
+            "Release Date":"2014-12-04T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2306353",
+            "Version":"vCenter Server Appliance 5.1 Update 3",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2308385",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":104,
+            "Version - Release Name":null,
+            "Release Date":"2014-10-01T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1882349",
+            "Version":"vCenter Server Appliance 5.1 Update 2b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2170517",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":105,
+            "Version - Release Name":null,
+            "Release Date":"2014-07-01T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1882349",
+            "Version":"vCenter Server Appliance 5.1 Update 2a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1917404",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":106,
+            "Version - Release Name":null,
+            "Release Date":"2014-01-16T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1474364",
+            "Version":"vCenter Server Appliance 5.1 Update 2",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1474365",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":107,
+            "Version - Release Name":null,
+            "Release Date":"2013-10-17T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1364042",
+            "Version":"vCenter Server Appliance 5.1 Update 1c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":108,
+            "Version - Release Name":null,
+            "Release Date":"2013-08-01T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1235232",
+            "Version":"vCenter Server Appliance 5.1 Update 1b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1235310",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":109,
+            "Version - Release Name":null,
+            "Release Date":"2013-05-22T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1123961",
+            "Version":"vCenter Server Appliance 5.1 Update 1a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1123965",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":110,
+            "Version - Release Name":null,
+            "Release Date":"2013-04-25T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1065184",
+            "Version":"vCenter Server Appliance 5.1 Update 1",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1064983",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":111,
+            "Version - Release Name":null,
+            "Release Date":"2012-12-20T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"947673",
+            "Version":"vCenter Server Appliance 5.1.0b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"947940",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":112,
+            "Version - Release Name":null,
+            "Release Date":"2012-10-25T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"880472",
+            "Version":"vCenter Server Appliance 5.1.0a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"880146",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":113,
+            "Version - Release Name":null,
+            "Release Date":"2012-08-13T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"799730",
+            "Version":"vCenter Server Appliance 5.1GA",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"799731",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":114,
+            "Version - Release Name":null,
+            "Release Date":"2016-06-14T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3891027",
+            "Version":"vCenter Server Appliance 5.0 U3g",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3891026",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":115,
+            "Version - Release Name":null,
+            "Release Date":"2015-10-01T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"3073237",
+            "Version":"vCenter Server Appliance 5.0 U3e",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"3073234",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":116,
+            "Version - Release Name":null,
+            "Release Date":"2015-04-30T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2656066",
+            "Version":"vCenter Server Appliance 5.0 U3d",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2692807",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":117,
+            "Version - Release Name":null,
+            "Release Date":"2014-11-20T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"2210222",
+            "Version":"vCenter Server Appliance 5.0 U3c",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2213719",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":118,
+            "Version - Release Name":null,
+            "Release Date":"2014-10-01T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1917469",
+            "Version":"vCenter Server Appliance 5.0 U3b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"2170782",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":119,
+            "Version - Release Name":null,
+            "Release Date":"2014-07-01T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1917469",
+            "Version":"vCenter Server Appliance 5.0 U3a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"1923445",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":120,
+            "Version - Release Name":null,
+            "Release Date":"2013-10-17T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"1302764",
+            "Version":"vCenter Server Appliance 5.0 U3",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":121,
+            "Version - Release Name":null,
+            "Release Date":"2012-12-20T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"920217",
+            "Version":"vCenter Server Appliance 5.0 U2",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":122,
+            "Version - Release Name":null,
+            "Release Date":"2012-08-16T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"804277",
+            "Version":"vCenter Server Appliance 5.0 U1b",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"804279",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":123,
+            "Version - Release Name":null,
+            "Release Date":"2012-07-12T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"759855",
+            "Version":"vCenter Server Appliance 5.0 U1a",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":124,
+            "Version - Release Name":null,
+            "Release Date":"2011-08-24T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"455964",
+            "Version":"vCenter Server Appliance 5.0 GA",
+            "Release Name":null,
+            "Edition":"VCSA",
+            "Installer Build Number":"472350",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":125,
             "Version - Release Name":"vCenter Windows 6.7 Update 3l",
             "Release Date":"2020-11-19T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -504,11 +1687,11 @@
             "Version":"vCenter Windows 6.7 Update 3l",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"17138064",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"17138064"
         },
         {
-            "index":35,
+            "index":126,
             "Version - Release Name":"vCenter Windows 6.7 Update 3k",
             "Release Date":"2020-10-22T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -517,11 +1700,11 @@
             "Version":"vCenter Windows 6.7 Update 3k",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"17028579",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"17028579"
         },
         {
-            "index":36,
+            "index":127,
             "Version - Release Name":"vCenter Windows 6.7 Update 3j",
             "Release Date":"2020-08-20T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -530,11 +1713,11 @@
             "Version":"vCenter Windows 6.7 Update 3j",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"16708996",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"16708996"
         },
         {
-            "index":37,
+            "index":128,
             "Version - Release Name":"vCenter Windows 6.7 Update 3i",
             "Release Date":"2020-07-30T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -543,11 +1726,11 @@
             "Version":"vCenter Windows 6.7 Update 3i",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"16616482",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"16616482"
         },
         {
-            "index":38,
+            "index":129,
             "Version - Release Name":"vCenter Windows 6.7 Update 3h",
             "Release Date":"2020-05-28T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -556,11 +1739,11 @@
             "Version":"vCenter Windows 6.7 Update 3h",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"16275304",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"16275304"
         },
         {
-            "index":39,
+            "index":130,
             "Version - Release Name":"vCenter Windows 6.7 Update 3g",
             "Release Date":"2020-04-28T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -569,11 +1752,11 @@
             "Version":"vCenter Windows 6.7 Update 3g",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"16046470",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"16046470"
         },
         {
-            "index":40,
+            "index":131,
             "Version - Release Name":"vCenter Windows 6.7 Update 3f",
             "Release Date":"2020-04-09T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -582,11 +1765,11 @@
             "Version":"vCenter Windows 6.7 Update 3f",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"15976714",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"15976714"
         },
         {
-            "index":41,
+            "index":132,
             "Version - Release Name":"vCenter Windows 6.7 Update 3e",
             "Release Date":"2020-03-26T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -595,11 +1778,11 @@
             "Version":"vCenter Windows 6.7 Update 3e",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"15808844",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"15808844"
         },
         {
-            "index":42,
+            "index":133,
             "Version - Release Name":"vCenter Windows 6.7 Update 3d",
             "Release Date":"2020-02-27T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -608,11 +1791,11 @@
             "Version":"vCenter Windows 6.7 Update 3d",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"15679281",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"15679281"
         },
         {
-            "index":43,
+            "index":134,
             "Version - Release Name":"vCenter Windows 6.7 Update 3c",
             "Release Date":"2020-01-30T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -621,11 +1804,11 @@
             "Version":"vCenter Windows 6.7 Update 3c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":"15505668",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"15505668"
         },
         {
-            "index":44,
+            "index":135,
             "Version - Release Name":"vCenter Windows 6.7 Update 3b (6.7.0.42000)",
             "Release Date":"2019-12-05T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -634,11 +1817,11 @@
             "Version":"vCenter Windows 6.7 Update 3b",
             "Release Name":"6.7.0.42000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"15132721",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"15132721"
         },
         {
-            "index":45,
+            "index":136,
             "Version - Release Name":"vCenter Windows 6.7 Update 3a (6.7.0.41000)",
             "Release Date":"2019-10-24T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -647,11 +1830,11 @@
             "Version":"vCenter Windows 6.7 Update 3a",
             "Release Name":"6.7.0.41000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"14836122",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"14836122"
         },
         {
-            "index":46,
+            "index":137,
             "Version - Release Name":"vCenter Windows 6.7 Update 3 (6.7.0.40000)",
             "Release Date":"2019-08-20T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -660,11 +1843,11 @@
             "Version":"vCenter Windows 6.7 Update 3",
             "Release Name":"6.7.0.40000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"14367737",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"14367737"
         },
         {
-            "index":47,
+            "index":138,
             "Version - Release Name":"vCenter Windows 6.7 Update 2b (6.7.0.31100)",
             "Release Date":"2019-05-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -673,11 +1856,11 @@
             "Version":"vCenter Windows 6.7 Update 2b",
             "Release Name":"6.7.0.31100",
             "Edition":"Windows",
-            "Registry\/Release Notes":"13843380",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"13843380"
         },
         {
-            "index":48,
+            "index":139,
             "Version - Release Name":"vCenter Windows 6.7 Update 2a (6.7.0.31000)",
             "Release Date":"2019-05-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -686,11 +1869,11 @@
             "Version":"vCenter Windows 6.7 Update 2a",
             "Release Name":"6.7.0.31000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"13643870",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"13643870"
         },
         {
-            "index":49,
+            "index":140,
             "Version - Release Name":"vCenter Windows 6.7 U2 (6.7.0.30000)",
             "Release Date":"2019-04-11T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -699,11 +1882,11 @@
             "Version":"vCenter Windows 6.7 U2",
             "Release Name":"6.7.0.30000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"13010631",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"13010631"
         },
         {
-            "index":50,
+            "index":141,
             "Version - Release Name":"vCenter Windows 6.7 U1b (6.7.0.21000)",
             "Release Date":"2019-01-17T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -712,11 +1895,11 @@
             "Version":"vCenter Windows 6.7 U1b",
             "Release Name":"6.7.0.21000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"11726888",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"11726888"
         },
         {
-            "index":51,
+            "index":142,
             "Version - Release Name":"vCenter Windows 6.7 U1 (6.7.0.20000)",
             "Release Date":"2018-10-16T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -725,11 +1908,11 @@
             "Version":"vCenter Windows 6.7 U1",
             "Release Name":"6.7.0.20000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"10244745",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"10244745"
         },
         {
-            "index":52,
+            "index":143,
             "Version - Release Name":"vCenter Windows 6.7d (6.7.0.14000)",
             "Release Date":"2018-08-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -738,11 +1921,11 @@
             "Version":"vCenter Windows 6.7d",
             "Release Name":"6.7.0.14000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"9451876",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"9451876"
         },
         {
-            "index":53,
+            "index":144,
             "Version - Release Name":"vCenter Windows 6.7c (6.7.0.13000)",
             "Release Date":"2018-07-26T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -751,11 +1934,11 @@
             "Version":"vCenter Windows 6.7c",
             "Release Name":"6.7.0.13000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"9232925",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"9232925"
         },
         {
-            "index":54,
+            "index":145,
             "Version - Release Name":"vCenter Windows 6.7b (6.7.0.12000)",
             "Release Date":"2018-06-28T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -764,11 +1947,11 @@
             "Version":"vCenter Windows 6.7b",
             "Release Name":"6.7.0.12000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"8832884",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"8832884"
         },
         {
-            "index":55,
+            "index":146,
             "Version - Release Name":"vCenter Windows 6.7a (6.7.0.11000)",
             "Release Date":"2018-05-22T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -777,11 +1960,11 @@
             "Version":"vCenter Windows 6.7a",
             "Release Name":"6.7.0.11000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"8546234",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"8546234"
         },
         {
-            "index":56,
+            "index":147,
             "Version - Release Name":"vCenter Windows 6.7 (6.7.0.10000)",
             "Release Date":"2018-04-17T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -790,11 +1973,11 @@
             "Version":"vCenter Windows 6.7",
             "Release Name":"6.7.0.10000",
             "Edition":"Windows",
-            "Registry\/Release Notes":"8217866",
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":"8217866"
         },
         {
-            "index":57,
+            "index":148,
             "Version - Release Name":null,
             "Release Date":null,
             "VAMI\/Release Notes":null,
@@ -803,11 +1986,11 @@
             "Version":null,
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":58,
+            "index":149,
             "Version - Release Name":null,
             "Release Date":"2021-02-23T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -816,11 +1999,11 @@
             "Version":"vCenter Server 6.5u3n",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":59,
+            "index":150,
             "Version - Release Name":null,
             "Release Date":"2020-08-25T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -829,11 +2012,11 @@
             "Version":"vCenter Server 6.5u3l",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":60,
+            "index":151,
             "Version - Release Name":null,
             "Release Date":"2020-07-30T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -842,11 +2025,11 @@
             "Version":"vCenter Server 6.5 U3k",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":61,
+            "index":152,
             "Version - Release Name":null,
             "Release Date":"2020-05-28T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -855,11 +2038,11 @@
             "Version":"vCenter Server 6.5 U3j",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":62,
+            "index":153,
             "Version - Release Name":null,
             "Release Date":"2020-03-26T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -868,11 +2051,11 @@
             "Version":"vCenter Server 6.5 U3i",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":63,
+            "index":154,
             "Version - Release Name":null,
             "Release Date":"2020-02-27T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -881,11 +2064,11 @@
             "Version":"vCenter Server 6.5 U3h",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":64,
+            "index":155,
             "Version - Release Name":null,
             "Release Date":"2020-01-30T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -894,11 +2077,11 @@
             "Version":"vCenter Server 6.5 U3g",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":65,
+            "index":156,
             "Version - Release Name":null,
             "Release Date":"2019-12-19T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -907,11 +2090,11 @@
             "Version":"vCenter Server 6.5 U3f",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":66,
+            "index":157,
             "Version - Release Name":null,
             "Release Date":"2019-11-26T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -920,11 +2103,11 @@
             "Version":"vCenter Server 6.5 U3e",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":67,
+            "index":158,
             "Version - Release Name":null,
             "Release Date":"2019-10-24T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -933,11 +2116,11 @@
             "Version":"vCenter Server 6.5 U3d",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":68,
+            "index":159,
             "Version - Release Name":null,
             "Release Date":"2019-09-24T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -946,11 +2129,11 @@
             "Version":"vCenter Server 6.5 U3c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":69,
+            "index":160,
             "Version - Release Name":null,
             "Release Date":"2019-08-27T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -959,11 +2142,11 @@
             "Version":"vCenter Server 6.5 U3b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":70,
+            "index":161,
             "Version - Release Name":null,
             "Release Date":"2019-07-25T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -972,11 +2155,11 @@
             "Version":"vCenter Server 6.5 U3a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":71,
+            "index":162,
             "Version - Release Name":null,
             "Release Date":"2019-07-02T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -985,11 +2168,11 @@
             "Version":"vCenter Server 6.5 U3",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":72,
+            "index":163,
             "Version - Release Name":null,
             "Release Date":"2019-05-30T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -998,11 +2181,11 @@
             "Version":"vCenter Server 6.5 U2h",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":73,
+            "index":164,
             "Version - Release Name":null,
             "Release Date":"2019-05-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1011,11 +2194,11 @@
             "Version":"vCenter Server 6.5 U2g",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":74,
+            "index":165,
             "Version - Release Name":null,
             "Release Date":"2019-03-21T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1024,11 +2207,11 @@
             "Version":"vCenter Server 6.5 U2f",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":75,
+            "index":166,
             "Version - Release Name":null,
             "Release Date":"2018-12-20T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1037,11 +2220,11 @@
             "Version":"vCenter Server 6.5 U2e",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":76,
+            "index":167,
             "Version - Release Name":null,
             "Release Date":"2018-11-29T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1050,11 +2233,11 @@
             "Version":"vCenter Server 6.5 U2d",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":77,
+            "index":168,
             "Version - Release Name":null,
             "Release Date":"2018-08-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1063,11 +2246,11 @@
             "Version":"vCenter Server 6.5 U2c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":78,
+            "index":169,
             "Version - Release Name":null,
             "Release Date":"2018-06-28T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1076,11 +2259,11 @@
             "Version":"vCenter Server 6.5 U2b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":79,
+            "index":170,
             "Version - Release Name":null,
             "Release Date":"2018-05-03T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1089,11 +2272,11 @@
             "Version":"vCenter Server 6.5 U2",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":80,
+            "index":171,
             "Version - Release Name":null,
             "Release Date":"2018-03-20T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1102,11 +2285,11 @@
             "Version":"vCenter Server 6.5 Update 1g",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":81,
+            "index":172,
             "Version - Release Name":null,
             "Release Date":"2018-01-09T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1115,11 +2298,11 @@
             "Version":"vCenter Server 6.5 Update 1e",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":82,
+            "index":173,
             "Version - Release Name":null,
             "Release Date":"2017-12-19T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1128,11 +2311,11 @@
             "Version":"vCenter Server 6.5 Update 1d",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":83,
+            "index":174,
             "Version - Release Name":null,
             "Release Date":"2017-10-26T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1141,11 +2324,11 @@
             "Version":"vCenter Server 6.5 Update 1b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":84,
+            "index":175,
             "Version - Release Name":null,
             "Release Date":"2017-07-27T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1154,11 +2337,11 @@
             "Version":"vCenter Server 6.5 Update 1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":85,
+            "index":176,
             "Version - Release Name":null,
             "Release Date":"2017-06-15T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1167,11 +2350,11 @@
             "Version":"vCenter Server 6.5 0e Express Patch 3",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":86,
+            "index":177,
             "Version - Release Name":null,
             "Release Date":"2017-04-18T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1180,11 +2363,11 @@
             "Version":"vCenter Server 6.5 0d Express Patch 2",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":87,
+            "index":178,
             "Version - Release Name":null,
             "Release Date":"2017-04-13T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1193,11 +2376,11 @@
             "Version":"vCenter Server 6.5 0c Express Patch 1b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":88,
+            "index":179,
             "Version - Release Name":null,
             "Release Date":"2017-03-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1206,11 +2389,11 @@
             "Version":"vCenter Server 6.5 0b Patch 1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":89,
+            "index":180,
             "Version - Release Name":null,
             "Release Date":"2017-02-02T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1219,11 +2402,11 @@
             "Version":"vCenter Server 6.5 0a Express Patch 1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":90,
+            "index":181,
             "Version - Release Name":null,
             "Release Date":"2016-11-15T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1232,11 +2415,11 @@
             "Version":"vCenter Server 6.5 GA",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":91,
+            "index":182,
             "Version - Release Name":null,
             "Release Date":"2019-09-12T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1245,11 +2428,11 @@
             "Version":"vCenter Server 6.0 U3j",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":92,
+            "index":183,
             "Version - Release Name":null,
             "Release Date":"2019-05-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1258,11 +2441,11 @@
             "Version":"vCenter Server 6.0 U3i",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"13638623"
+            "Installer Build Number":"13638623",
+            "Registry\/Release Notes":null
         },
         {
-            "index":93,
+            "index":184,
             "Version - Release Name":null,
             "Release Date":"2018-08-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1271,11 +2454,11 @@
             "Version":"vCenter Server 6.0 U3h",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"9451619"
+            "Installer Build Number":"9451619",
+            "Registry\/Release Notes":null
         },
         {
-            "index":94,
+            "index":185,
             "Version - Release Name":null,
             "Release Date":"2018-07-26T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1284,11 +2467,11 @@
             "Version":"vCenter Server 6.0 U3g",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"9146214"
+            "Installer Build Number":"9146214",
+            "Registry\/Release Notes":null
         },
         {
-            "index":95,
+            "index":186,
             "Version - Release Name":null,
             "Release Date":"2018-06-28T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1297,11 +2480,11 @@
             "Version":"vCenter Server 6.0 Update 3f",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"8803876"
+            "Installer Build Number":"8803876",
+            "Registry\/Release Notes":null
         },
         {
-            "index":96,
+            "index":187,
             "Version - Release Name":null,
             "Release Date":"2018-03-20T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1310,11 +2493,11 @@
             "Version":"vCenter Server 6.0 Update 3e",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7977899"
+            "Installer Build Number":"7977899",
+            "Registry\/Release Notes":null
         },
         {
-            "index":97,
+            "index":188,
             "Version - Release Name":null,
             "Release Date":"2018-01-09T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1323,11 +2506,11 @@
             "Version":"vCenter Server 6.0 Update 3d",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7464194"
+            "Installer Build Number":"7464194",
+            "Registry\/Release Notes":null
         },
         {
-            "index":98,
+            "index":189,
             "Version - Release Name":null,
             "Release Date":"2017-11-09T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1336,11 +2519,11 @@
             "Version":"vCenter Server 6.0 Update 3c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7040641"
+            "Installer Build Number":"7040641",
+            "Registry\/Release Notes":null
         },
         {
-            "index":99,
+            "index":190,
             "Version - Release Name":null,
             "Release Date":"2017-04-13T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1349,11 +2532,11 @@
             "Version":"vCenter Server 6.0 Update 3b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"5326177"
+            "Installer Build Number":"5326177",
+            "Registry\/Release Notes":null
         },
         {
-            "index":100,
+            "index":191,
             "Version - Release Name":null,
             "Release Date":"2017-03-21T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1362,11 +2545,11 @@
             "Version":"vCenter Server 6.0 Update 3a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"5202527"
+            "Installer Build Number":"5202527",
+            "Registry\/Release Notes":null
         },
         {
-            "index":101,
+            "index":192,
             "Version - Release Name":null,
             "Release Date":"2017-02-24T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1375,11 +2558,11 @@
             "Version":"vCenter Server 6.0 Update 3",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"5112506"
+            "Installer Build Number":"5112506",
+            "Registry\/Release Notes":null
         },
         {
-            "index":102,
+            "index":193,
             "Version - Release Name":null,
             "Release Date":"2016-11-22T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1388,11 +2571,11 @@
             "Version":"vCenter Server 6.0 Update 2a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"4637290"
+            "Installer Build Number":"4637290",
+            "Registry\/Release Notes":null
         },
         {
-            "index":103,
+            "index":194,
             "Version - Release Name":null,
             "Release Date":"2016-03-16T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1401,11 +2584,11 @@
             "Version":"vCenter Server 6.0 Update 2",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3634788"
+            "Installer Build Number":"3634788",
+            "Registry\/Release Notes":null
         },
         {
-            "index":104,
+            "index":195,
             "Version - Release Name":null,
             "Release Date":"2016-01-07T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1414,11 +2597,11 @@
             "Version":"vCenter Server 6.0 Update 1b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3343019"
+            "Installer Build Number":"3343019",
+            "Registry\/Release Notes":null
         },
         {
-            "index":105,
+            "index":196,
             "Version - Release Name":null,
             "Release Date":"2015-09-10T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1427,11 +2610,11 @@
             "Version":"vCenter Server 6.0 Update 1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3040890"
+            "Installer Build Number":"3040890",
+            "Registry\/Release Notes":null
         },
         {
-            "index":106,
+            "index":197,
             "Version - Release Name":null,
             "Release Date":"2015-07-07T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1440,11 +2623,11 @@
             "Version":"vCenter Server 6.0.0b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2800571"
+            "Installer Build Number":"2800571",
+            "Registry\/Release Notes":null
         },
         {
-            "index":107,
+            "index":198,
             "Version - Release Name":null,
             "Release Date":"2015-04-16T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1453,11 +2636,11 @@
             "Version":"vCenter Server 6.0.0a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2656757"
+            "Installer Build Number":"2656757",
+            "Registry\/Release Notes":null
         },
         {
-            "index":108,
+            "index":199,
             "Version - Release Name":null,
             "Release Date":"2015-03-12T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1466,11 +2649,11 @@
             "Version":"vCenter Server 6.0 GA",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2562643"
+            "Installer Build Number":"2562643",
+            "Registry\/Release Notes":null
         },
         {
-            "index":109,
+            "index":200,
             "Version - Release Name":null,
             "Release Date":"2018-09-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1479,11 +2662,11 @@
             "Version":"vCenter Server 5.5 Update 3k",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":110,
+            "index":201,
             "Version - Release Name":null,
             "Release Date":"2018-08-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1492,11 +2675,11 @@
             "Version":"vCenter Server 5.5 Update 3j",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":111,
+            "index":202,
             "Version - Release Name":null,
             "Release Date":"2018-06-28T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1505,11 +2688,11 @@
             "Version":"vCenter Server 5.5 Update 3i",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":112,
+            "index":203,
             "Version - Release Name":null,
             "Release Date":"2018-03-20T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1518,11 +2701,11 @@
             "Version":"vCenter Server 5.5 Update 3h",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7957701"
+            "Installer Build Number":"7957701",
+            "Registry\/Release Notes":null
         },
         {
-            "index":113,
+            "index":204,
             "Version - Release Name":null,
             "Release Date":"2018-01-09T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1531,11 +2714,11 @@
             "Version":"vCenter Server 5.5 Update 3g",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7460842"
+            "Installer Build Number":"7460842",
+            "Registry\/Release Notes":null
         },
         {
-            "index":114,
+            "index":205,
             "Version - Release Name":null,
             "Release Date":"2017-09-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1544,11 +2727,11 @@
             "Version":"vCenter Server 5.5 Update 3f",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"6520252"
+            "Installer Build Number":"6520252",
+            "Registry\/Release Notes":null
         },
         {
-            "index":115,
+            "index":206,
             "Version - Release Name":null,
             "Release Date":"2016-08-04T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1557,11 +2740,11 @@
             "Version":"vCenter Server 5.5 Update 3e",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"4180646"
+            "Installer Build Number":"4180646",
+            "Registry\/Release Notes":null
         },
         {
-            "index":116,
+            "index":207,
             "Version - Release Name":null,
             "Release Date":"2016-04-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1570,11 +2753,11 @@
             "Version":"vCenter Server 5.5 Update 3d",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3730491"
+            "Installer Build Number":"3730491",
+            "Registry\/Release Notes":null
         },
         {
-            "index":117,
+            "index":208,
             "Version - Release Name":null,
             "Release Date":"2016-03-29T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1583,11 +2766,11 @@
             "Version":"vCenter Server 5.5 Update 3c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":118,
+            "index":209,
             "Version - Release Name":null,
             "Release Date":"2015-12-08T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1596,11 +2779,11 @@
             "Version":"vCenter Server 5.5 Update 3b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3254792"
+            "Installer Build Number":"3254792",
+            "Registry\/Release Notes":null
         },
         {
-            "index":119,
+            "index":210,
             "Version - Release Name":null,
             "Release Date":"2015-10-22T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1609,11 +2792,11 @@
             "Version":"vCenter Server 5.5 Update 3a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3154313"
+            "Installer Build Number":"3154313",
+            "Registry\/Release Notes":null
         },
         {
-            "index":120,
+            "index":211,
             "Version - Release Name":null,
             "Release Date":"2015-09-16T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1622,11 +2805,11 @@
             "Version":"vCenter Server 5.5 Update 3",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3000346"
+            "Installer Build Number":"3000346",
+            "Registry\/Release Notes":null
         },
         {
-            "index":121,
+            "index":212,
             "Version - Release Name":null,
             "Release Date":"2015-04-16T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1635,11 +2818,11 @@
             "Version":"vCenter Server 5.5 Update 2e",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2646481"
+            "Installer Build Number":"2646481",
+            "Registry\/Release Notes":null
         },
         {
-            "index":122,
+            "index":213,
             "Version - Release Name":null,
             "Release Date":"2015-01-27T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1648,11 +2831,11 @@
             "Version":"vCenter Server 5.5 Update 2d",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2442328"
+            "Installer Build Number":"2442328",
+            "Registry\/Release Notes":null
         },
         {
-            "index":123,
+            "index":214,
             "Version - Release Name":null,
             "Release Date":"2014-10-09T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1661,11 +2844,11 @@
             "Version":"vCenter Server 5.5 Update 2b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2183112"
+            "Installer Build Number":"2183112",
+            "Registry\/Release Notes":null
         },
         {
-            "index":124,
+            "index":215,
             "Version - Release Name":null,
             "Release Date":"2014-09-09T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1674,11 +2857,11 @@
             "Version":"vCenter Server 5.5 Update 2",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2105955"
+            "Installer Build Number":"2105955",
+            "Registry\/Release Notes":null
         },
         {
-            "index":125,
+            "index":216,
             "Version - Release Name":null,
             "Release Date":"2014-07-22T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1687,11 +2870,11 @@
             "Version":"vCenter Server 5.5 Update 1c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1945270"
+            "Installer Build Number":"1945270",
+            "Registry\/Release Notes":null
         },
         {
-            "index":126,
+            "index":217,
             "Version - Release Name":null,
             "Release Date":"2014-06-12T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1700,11 +2883,11 @@
             "Version":"vCenter Server 5.5 Update 1b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1891310"
+            "Installer Build Number":"1891310",
+            "Registry\/Release Notes":null
         },
         {
-            "index":127,
+            "index":218,
             "Version - Release Name":null,
             "Release Date":"2014-04-19T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1713,11 +2896,11 @@
             "Version":"vCenter Server 5.5 Update 1a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1750795"
+            "Installer Build Number":"1750795",
+            "Registry\/Release Notes":null
         },
         {
-            "index":128,
+            "index":219,
             "Version - Release Name":null,
             "Release Date":"2014-04-19T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1726,11 +2909,11 @@
             "Version":"vCenter Server 5.5.0c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1750597"
+            "Installer Build Number":"1750597",
+            "Registry\/Release Notes":null
         },
         {
-            "index":129,
+            "index":220,
             "Version - Release Name":null,
             "Release Date":"2014-03-11T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1739,11 +2922,11 @@
             "Version":"vCenter Server 5.5 Update 1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1623101"
+            "Installer Build Number":"1623101",
+            "Registry\/Release Notes":null
         },
         {
-            "index":130,
+            "index":221,
             "Version - Release Name":null,
             "Release Date":"2013-12-22T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1752,11 +2935,11 @@
             "Version":"vCenter Server 5.5.0b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1476387"
+            "Installer Build Number":"1476387",
+            "Registry\/Release Notes":null
         },
         {
-            "index":131,
+            "index":222,
             "Version - Release Name":null,
             "Release Date":"2013-10-31T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1765,11 +2948,11 @@
             "Version":"vCenter Server 5.5.0a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1378901"
+            "Installer Build Number":"1378901",
+            "Registry\/Release Notes":null
         },
         {
-            "index":132,
+            "index":223,
             "Version - Release Name":null,
             "Release Date":"2013-09-22T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1778,11 +2961,11 @@
             "Version":"vCenter Server 5.5 GA",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
-            "index":133,
+            "index":224,
             "Version - Release Name":null,
             "Release Date":"2016-05-19T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1791,11 +2974,11 @@
             "Version":"vCenter Server 5.1 Update 3d",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3900744"
+            "Installer Build Number":"3900744",
+            "Registry\/Release Notes":null
         },
         {
-            "index":134,
+            "index":225,
             "Version - Release Name":null,
             "Release Date":"2015-10-01T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1804,11 +2987,11 @@
             "Version":"vCenter Server 5.1 Update 3b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3072311"
+            "Installer Build Number":"3072311",
+            "Registry\/Release Notes":null
         },
         {
-            "index":135,
+            "index":226,
             "Version - Release Name":null,
             "Release Date":"2015-04-30T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1817,11 +3000,11 @@
             "Version":"vCenter Server 5.1 Update 3a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2670344"
+            "Installer Build Number":"2670344",
+            "Registry\/Release Notes":null
         },
         {
-            "index":136,
+            "index":227,
             "Version - Release Name":null,
             "Release Date":"2014-10-30T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1830,11 +3013,11 @@
             "Version":"vCenter Server 5.1 Update 2c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2212977"
+            "Installer Build Number":"2212977",
+            "Registry\/Release Notes":null
         },
         {
-            "index":137,
+            "index":228,
             "Version - Release Name":null,
             "Release Date":"2014-12-04T00:00:00.000Z",
             "VAMI\/Release Notes":null,
@@ -1843,1191 +3026,8 @@
             "Version":"vCenter Server 5.1 Update 3",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2308386"
-        },
-        {
-            "index":138,
-            "Version - Release Name":null,
-            "Release Date":"2014-07-01T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1882349",
-            "Version":"vCenter Server 5.1 Update 2a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1917403"
-        },
-        {
-            "index":139,
-            "Version - Release Name":null,
-            "Release Date":"2014-01-16T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1473063",
-            "Version":"vCenter Server 5.1 Update 2",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1474365"
-        },
-        {
-            "index":140,
-            "Version - Release Name":null,
-            "Release Date":"2013-10-17T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1364037",
-            "Version":"vCenter Server 5.1 Update 1c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1364079"
-        },
-        {
-            "index":141,
-            "Version - Release Name":null,
-            "Release Date":"2013-08-01T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1235232",
-            "Version":"vCenter Server 5.1 Update 1b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1235309"
-        },
-        {
-            "index":142,
-            "Version - Release Name":null,
-            "Release Date":"2013-05-22T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1123961",
-            "Version":"vCenter Server 5.1 Update 1a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1123966"
-        },
-        {
-            "index":143,
-            "Version - Release Name":null,
-            "Release Date":"2013-04-25T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1064983",
-            "Version":"vCenter Server 5.1 Update 1",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1065152"
-        },
-        {
-            "index":144,
-            "Version - Release Name":null,
-            "Release Date":"2012-12-20T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"947673",
-            "Version":"vCenter Server 5.1.0b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"947939"
-        },
-        {
-            "index":145,
-            "Version - Release Name":null,
-            "Release Date":"2012-10-25T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"880146",
-            "Version":"vCenter Server 5.1.0a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"880471"
-        },
-        {
-            "index":146,
-            "Version - Release Name":null,
-            "Release Date":"2012-09-10T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"799731",
-            "Version":"vCenter Server 5.1 GA",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"799735"
-        },
-        {
-            "index":147,
-            "Version - Release Name":null,
-            "Release Date":"2016-06-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3891028",
-            "Version":"vCenter Server 5.0 U3g",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3891027"
-        },
-        {
-            "index":148,
-            "Version - Release Name":null,
-            "Release Date":"2015-10-01T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3073236",
-            "Version":"vCenter Server 5.0 U3e",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3073234"
-        },
-        {
-            "index":149,
-            "Version - Release Name":null,
-            "Release Date":"2015-04-30T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2656067",
-            "Version":"vCenter Server 5.0 U3d",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2692807"
-        },
-        {
-            "index":150,
-            "Version - Release Name":null,
-            "Release Date":"2014-11-20T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2210222",
-            "Version":"vCenter Server 5.0 U3c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2215678"
-        },
-        {
-            "index":151,
-            "Version - Release Name":null,
-            "Release Date":"2014-07-01T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1917469",
-            "Version":"vCenter Server 5.0 U3a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1923446"
-        },
-        {
-            "index":152,
-            "Version - Release Name":null,
-            "Release Date":"2013-10-17T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1300600",
-            "Version":"vCenter Server 5.0 U3",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1343691"
-        },
-        {
-            "index":153,
-            "Version - Release Name":null,
-            "Release Date":"2012-12-20T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"913577",
-            "Version":"vCenter Server 5.0 U2",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"923238"
-        },
-        {
-            "index":154,
-            "Version - Release Name":null,
-            "Release Date":"2012-08-16T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"804277",
-            "Version":"vCenter Server 5.0 U1b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"804276"
-        },
-        {
-            "index":155,
-            "Version - Release Name":null,
-            "Release Date":"2012-07-12T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"755629",
-            "Version":"vCenter Server 5.0 U1a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"757163"
-        },
-        {
-            "index":156,
-            "Version - Release Name":null,
-            "Release Date":"2012-03-15T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"623373",
-            "Version":"vCenter Server 5.0 U1",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"639890"
-        },
-        {
-            "index":157,
-            "Version - Release Name":null,
-            "Release Date":"2011-08-24T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"455964",
-            "Version":"vCenter Server 5.0 GA",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"456005"
-        },
-        {
-            "index":158,
-            "Version - Release Name":null,
-            "Release Date":"2018-12-20T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"11347054",
-            "Version":"vCenter Server Appliance 6.5 U2e",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":159,
-            "Version - Release Name":null,
-            "Release Date":"2018-11-29T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"10964411",
-            "Version":"vCenter Server Appliance 6.5 U2d",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":160,
-            "Version - Release Name":null,
-            "Release Date":"2018-08-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"9451637",
-            "Version":"vCenter Server Appliance 6.5 U2c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":161,
-            "Version - Release Name":null,
-            "Release Date":"2018-06-28T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"8815520",
-            "Version":"vCenter Server Appliance 6.5 U2b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":162,
-            "Version - Release Name":null,
-            "Release Date":"2018-05-31T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"8667236",
-            "Version":"vCenter Server Appliance 6.5 U2a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":163,
-            "Version - Release Name":null,
-            "Release Date":"2018-05-03T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"8307201",
-            "Version":"vCenter Server Appliance 6.5 U2",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":164,
-            "Version - Release Name":null,
-            "Release Date":"2018-03-20T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"8024368",
-            "Version":"vCenter Server Appliance 6.5 U1g",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":165,
-            "Version - Release Name":null,
-            "Release Date":"2018-02-15T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7801515",
-            "Version":"vCenter Server Appliance 6.5 U1f",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":166,
-            "Version - Release Name":null,
-            "Release Date":"2018-01-09T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7515524",
-            "Version":"vCenter Server Appliance 6.5 U1e",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":167,
-            "Version - Release Name":null,
-            "Release Date":"2017-12-19T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7312210",
-            "Version":"vCenter Server Appliance 6.5 U1d",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":168,
-            "Version - Release Name":null,
-            "Release Date":"2017-11-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7119157",
-            "Version":"vCenter Server Appliance 6.5 U1c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":169,
-            "Version - Release Name":null,
-            "Release Date":"2017-10-26T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"6816762",
-            "Version":"vCenter Server Appliance 6.5 U1b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":170,
-            "Version - Release Name":null,
-            "Release Date":"2017-09-21T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"6671409",
-            "Version":"vCenter Server Appliance 6.5 U1a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":171,
-            "Version - Release Name":null,
-            "Release Date":"2017-07-27T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"5973321",
-            "Version":"vCenter Server Appliance 6.5 U1",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":172,
-            "Version - Release Name":null,
-            "Release Date":"2017-11-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7119070",
-            "Version":"vCenter Server Appliance 6.5.0f",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":173,
-            "Version - Release Name":null,
-            "Release Date":"2017-06-15T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"5705665",
-            "Version":"vCenter Server Appliance 6.5.0e Express Patch 3",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":174,
-            "Version - Release Name":null,
-            "Release Date":"2017-04-18T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"5318154",
-            "Version":"vCenter Server Appliance 6.5.0d Express Patch 2",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":175,
-            "Version - Release Name":null,
-            "Release Date":"2017-04-13T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"5318112",
-            "Version":"vCenter Server Appliance 6.5.0c Express Patch 1b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":176,
-            "Version - Release Name":null,
-            "Release Date":"2017-03-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"5178943",
-            "Version":"vCenter Server Appliance 6.5.0b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":177,
-            "Version - Release Name":null,
-            "Release Date":"2017-02-02T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7092136 replaces 4944578",
-            "Version":"vCenter Server Appliance 6.5.0a Express Patch 01",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":178,
-            "Version - Release Name":null,
-            "Release Date":"2016-11-15T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7070488 replaces 4602587",
-            "Version":"vCenter Server Appliance 6.5",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":179,
-            "Version - Release Name":null,
-            "Release Date":"2019-05-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"13638473",
-            "Version":"vCenter Server Appliance 6.0 Update 3i",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"13638623"
-        },
-        {
-            "index":180,
-            "Version - Release Name":null,
-            "Release Date":"2018-08-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"9291058",
-            "Version":"vCenter Server Appliance 6.0 Update 3h",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"9451619"
-        },
-        {
-            "index":181,
-            "Version - Release Name":null,
-            "Release Date":"2018-07-26T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"9109104",
-            "Version":"vCenter Server Appliance 6.0 Update 3g",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"9146214"
-        },
-        {
-            "index":182,
-            "Version - Release Name":null,
-            "Release Date":"2018-06-28T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"8874690",
-            "Version":"vCenter Server Appliance 6.0 Update 3f",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"8803875"
-        },
-        {
-            "index":183,
-            "Version - Release Name":null,
-            "Release Date":"2018-03-20T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7924804",
-            "Version":"vCenter Server Appliance 6.0 Update 3e",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7977899"
-        },
-        {
-            "index":184,
-            "Version - Release Name":null,
-            "Release Date":"2018-01-09T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7462485",
-            "Version":"vCenter Server Appliance 6.0 Update 3d",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7464194"
-        },
-        {
-            "index":185,
-            "Version - Release Name":null,
-            "Release Date":"2017-11-09T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7037393",
-            "Version":"vCenter Server Appliance 6.0 Update 3c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7037817"
-        },
-        {
-            "index":186,
-            "Version - Release Name":null,
-            "Release Date":"2017-04-13T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"5326079",
-            "Version":"vCenter Server Appliance 6.0 Update 3b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"5326177"
-        },
-        {
-            "index":187,
-            "Version - Release Name":null,
-            "Release Date":"2017-03-21T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"5202501",
-            "Version":"vCenter Server Appliance 6.0 Update 3a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"5202527"
-        },
-        {
-            "index":188,
-            "Version - Release Name":null,
-            "Release Date":"2017-02-24T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"5112529",
-            "Version":"vCenter Server Appliance 6.0 Update 3",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"5112506"
-        },
-        {
-            "index":189,
-            "Version - Release Name":null,
-            "Release Date":"2016-11-22T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"4541948",
-            "Version":"vCenter Server Appliance 6.0 Update 2a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"4637290"
-        },
-        {
-            "index":190,
-            "Version - Release Name":null,
-            "Release Date":"2016-09-15T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"4191365",
-            "Version":"vCenter Server Appliance 6.0 Update 2m",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"4191361"
-        },
-        {
-            "index":191,
-            "Version - Release Name":null,
-            "Release Date":"2016-03-15T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3634794",
-            "Version":"vCenter Server Appliance 6.0 Update 2",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"ISO 3634788 ZIP 3634791"
-        },
-        {
-            "index":192,
-            "Version - Release Name":null,
-            "Release Date":"2016-01-07T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3339084",
-            "Version":"vCenter Server Appliance 6.0 Update 1b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3343019"
-        },
-        {
-            "index":193,
-            "Version - Release Name":null,
-            "Release Date":"2015-09-10T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3018523",
-            "Version":"vCenter Server Appliance 6.0 Update 1",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3040890"
-        },
-        {
-            "index":194,
-            "Version - Release Name":null,
-            "Release Date":"2015-07-07T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2776510",
-            "Version":"vCenter Server Appliance 6.0.0b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2800571"
-        },
-        {
-            "index":195,
-            "Version - Release Name":null,
-            "Release Date":"2015-04-16T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2656761",
-            "Version":"vCenter Server Appliance 6.0.0a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2656757"
-        },
-        {
-            "index":196,
-            "Version - Release Name":null,
-            "Release Date":"2015-03-12T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2559267",
-            "Version":"vCenter Server Appliance 6.0 GA",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2562643"
-        },
-        {
-            "index":197,
-            "Version - Release Name":null,
-            "Release Date":"2018-09-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"9911210",
-            "Version":"vCenter Server Appliance 5.5 Update 3k",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":198,
-            "Version - Release Name":null,
-            "Release Date":"2018-08-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"9316563",
-            "Version":"vCenter Server Appliance 5.5 Update 3j",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":199,
-            "Version - Release Name":null,
-            "Release Date":"2018-06-28T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"8804617",
-            "Version":"vCenter Server Appliance 5.5 Update 3i",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":200,
-            "Version - Release Name":null,
-            "Release Date":"2018-03-20T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7881688",
-            "Version":"vCenter Server Appliance 5.5 Update 3h",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7957701"
-        },
-        {
-            "index":201,
-            "Version - Release Name":null,
-            "Release Date":"2018-01-09T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"7460865",
-            "Version":"vCenter Server Appliance 5.5 Update 3g",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"7460778"
-        },
-        {
-            "index":202,
-            "Version - Release Name":null,
-            "Release Date":"2017-09-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"6516310",
-            "Version":"vCenter Server Appliance 5.5 Update 3f",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"6520252"
-        },
-        {
-            "index":203,
-            "Version - Release Name":null,
-            "Release Date":"2016-08-04T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"4180648",
-            "Version":"vCenter Server Appliance 5.5 Update 3e",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":204,
-            "Version - Release Name":null,
-            "Release Date":"2016-04-14T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3730881",
-            "Version":"vCenter Server Appliance 5.5 Update 3d",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3730491"
-        },
-        {
-            "index":205,
-            "Version - Release Name":null,
-            "Release Date":"2016-03-29T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3660015",
-            "Version":"vCenter Server Appliance 5.5 Update 3c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":206,
-            "Version - Release Name":null,
-            "Release Date":"2015-12-08T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3255668",
-            "Version":"vCenter Server Appliance 5.5 Update 3b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3254792"
-        },
-        {
-            "index":207,
-            "Version - Release Name":null,
-            "Release Date":"2015-10-22T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3154314",
-            "Version":"vCenter Server Appliance 5.5 Update 3a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3154313"
-        },
-        {
-            "index":208,
-            "Version - Release Name":null,
-            "Release Date":"2015-09-16T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3000347",
-            "Version":"vCenter Server Appliance 5.5 Update 3",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3000346"
-        },
-        {
-            "index":209,
-            "Version - Release Name":null,
-            "Release Date":"2015-04-16T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2646489",
-            "Version":"vCenter Server Appliance 5.5 Update 2e",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2646481"
-        },
-        {
-            "index":210,
-            "Version - Release Name":null,
-            "Release Date":"2015-01-27T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2442329",
-            "Version":"vCenter Server Appliance 5.5 Update 2d",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2442330"
-        },
-        {
-            "index":211,
-            "Version - Release Name":null,
-            "Release Date":"2014-10-09T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2183111",
-            "Version":"vCenter Server Appliance 5.5 Update 2b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2183109"
-        },
-        {
-            "index":212,
-            "Version - Release Name":null,
-            "Release Date":"2014-10-01T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2001466",
-            "Version":"vCenter Server Appliance 5.5 Update 2a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2170515"
-        },
-        {
-            "index":213,
-            "Version - Release Name":null,
-            "Release Date":"2014-09-09T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2063318",
-            "Version":"vCenter Server Appliance 5.5 Update 2",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2105955"
-        },
-        {
-            "index":214,
-            "Version - Release Name":null,
-            "Release Date":"2014-07-22T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1945274",
-            "Version":"vCenter Server Appliance 5.5 Update 1c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1945271"
-        },
-        {
-            "index":215,
-            "Version - Release Name":null,
-            "Release Date":"2014-06-12T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1891313",
-            "Version":"vCenter Server Appliance 5.5 Update 1b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1891314"
-        },
-        {
-            "index":216,
-            "Version - Release Name":null,
-            "Release Date":"2014-04-19T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1750787",
-            "Version":"vCenter Server Appliance 5.5 Update 1a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1750781"
-        },
-        {
-            "index":217,
-            "Version - Release Name":null,
-            "Release Date":"2014-04-19T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1750596",
-            "Version":"vCenter Server Appliance 5.5.0c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1750593"
-        },
-        {
-            "index":218,
-            "Version - Release Name":null,
-            "Release Date":"2014-03-11T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1623101",
-            "Version":"vCenter Server Appliance 5.5 Update 1",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1624811"
-        },
-        {
-            "index":219,
-            "Version - Release Name":null,
-            "Release Date":"2013-12-22T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1476327",
-            "Version":"vCenter Server Appliance 5.5.0b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1476389"
-        },
-        {
-            "index":220,
-            "Version - Release Name":null,
-            "Release Date":"2013-10-31T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1398495",
-            "Version":"vCenter Server Appliance 5.5.0a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1398493"
-        },
-        {
-            "index":221,
-            "Version - Release Name":null,
-            "Release Date":"2013-09-22T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1312298",
-            "Version":"vCenter Server Appliance 5.5 GA",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1312297"
-        },
-        {
-            "index":222,
-            "Version - Release Name":null,
-            "Release Date":"2016-05-19T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3868380",
-            "Version":"vCenter Server Appliance 5.1 Update 3d",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3814779"
-        },
-        {
-            "index":223,
-            "Version - Release Name":null,
-            "Release Date":"2016-03-29T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3630963",
-            "Version":"vCenter Server Appliance 5.1 Update 3c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
-        },
-        {
-            "index":224,
-            "Version - Release Name":null,
-            "Release Date":"2015-10-01T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3072314",
-            "Version":"vCenter Server Appliance 5.1 Update 3b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3072311"
-        },
-        {
-            "index":225,
-            "Version - Release Name":null,
-            "Release Date":"2015-04-30T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2669725",
-            "Version":"vCenter Server Appliance 5.1 Update 3a",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2670345"
-        },
-        {
-            "index":226,
-            "Version - Release Name":null,
-            "Release Date":"2014-10-30T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2207772",
-            "Version":"vCenter Server Appliance 5.1 Update 2c",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2212990"
-        },
-        {
-            "index":227,
-            "Version - Release Name":null,
-            "Release Date":"2014-12-04T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2306353",
-            "Version":"vCenter Server Appliance 5.1 Update 3",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2308385"
-        },
-        {
-            "index":228,
-            "Version - Release Name":null,
-            "Release Date":"2014-10-01T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1882349",
-            "Version":"vCenter Server Appliance 5.1 Update 2b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2170517"
+            "Installer Build Number":"2308386",
+            "Registry\/Release Notes":null
         },
         {
             "index":229,
@@ -3036,11 +3036,11 @@
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
             "Build Number":"1882349",
-            "Version":"vCenter Server Appliance 5.1 Update 2a",
+            "Version":"vCenter Server 5.1 Update 2a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1917404"
+            "Installer Build Number":"1917403",
+            "Registry\/Release Notes":null
         },
         {
             "index":230,
@@ -3048,12 +3048,12 @@
             "Release Date":"2014-01-16T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1474364",
-            "Version":"vCenter Server Appliance 5.1 Update 2",
+            "Build Number":"1473063",
+            "Version":"vCenter Server 5.1 Update 2",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1474365"
+            "Installer Build Number":"1474365",
+            "Registry\/Release Notes":null
         },
         {
             "index":231,
@@ -3061,12 +3061,12 @@
             "Release Date":"2013-10-17T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1364042",
-            "Version":"vCenter Server Appliance 5.1 Update 1c",
+            "Build Number":"1364037",
+            "Version":"vCenter Server 5.1 Update 1c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":"1364079",
+            "Registry\/Release Notes":null
         },
         {
             "index":232,
@@ -3075,11 +3075,11 @@
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
             "Build Number":"1235232",
-            "Version":"vCenter Server Appliance 5.1 Update 1b",
+            "Version":"vCenter Server 5.1 Update 1b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1235310"
+            "Installer Build Number":"1235309",
+            "Registry\/Release Notes":null
         },
         {
             "index":233,
@@ -3088,11 +3088,11 @@
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
             "Build Number":"1123961",
-            "Version":"vCenter Server Appliance 5.1 Update 1a",
+            "Version":"vCenter Server 5.1 Update 1a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1123965"
+            "Installer Build Number":"1123966",
+            "Registry\/Release Notes":null
         },
         {
             "index":234,
@@ -3100,12 +3100,12 @@
             "Release Date":"2013-04-25T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1065184",
-            "Version":"vCenter Server Appliance 5.1 Update 1",
+            "Build Number":"1064983",
+            "Version":"vCenter Server 5.1 Update 1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1064983"
+            "Installer Build Number":"1065152",
+            "Registry\/Release Notes":null
         },
         {
             "index":235,
@@ -3114,11 +3114,11 @@
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
             "Build Number":"947673",
-            "Version":"vCenter Server Appliance 5.1.0b",
+            "Version":"vCenter Server 5.1.0b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"947940"
+            "Installer Build Number":"947939",
+            "Registry\/Release Notes":null
         },
         {
             "index":236,
@@ -3126,25 +3126,25 @@
             "Release Date":"2012-10-25T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"880472",
-            "Version":"vCenter Server Appliance 5.1.0a",
+            "Build Number":"880146",
+            "Version":"vCenter Server 5.1.0a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"880146"
+            "Installer Build Number":"880471",
+            "Registry\/Release Notes":null
         },
         {
             "index":237,
             "Version - Release Name":null,
-            "Release Date":"2012-08-13T00:00:00.000Z",
+            "Release Date":"2012-09-10T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"799730",
-            "Version":"vCenter Server Appliance 5.1GA",
+            "Build Number":"799731",
+            "Version":"vCenter Server 5.1 GA",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"799731"
+            "Installer Build Number":"799735",
+            "Registry\/Release Notes":null
         },
         {
             "index":238,
@@ -3152,12 +3152,12 @@
             "Release Date":"2016-06-14T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3891027",
-            "Version":"vCenter Server Appliance 5.0 U3g",
+            "Build Number":"3891028",
+            "Version":"vCenter Server 5.0 U3g",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3891026"
+            "Installer Build Number":"3891027",
+            "Registry\/Release Notes":null
         },
         {
             "index":239,
@@ -3165,12 +3165,12 @@
             "Release Date":"2015-10-01T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"3073237",
-            "Version":"vCenter Server Appliance 5.0 U3e",
+            "Build Number":"3073236",
+            "Version":"vCenter Server 5.0 U3e",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"3073234"
+            "Installer Build Number":"3073234",
+            "Registry\/Release Notes":null
         },
         {
             "index":240,
@@ -3178,12 +3178,12 @@
             "Release Date":"2015-04-30T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"2656066",
-            "Version":"vCenter Server Appliance 5.0 U3d",
+            "Build Number":"2656067",
+            "Version":"vCenter Server 5.0 U3d",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2692807"
+            "Installer Build Number":"2692807",
+            "Registry\/Release Notes":null
         },
         {
             "index":241,
@@ -3192,89 +3192,89 @@
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
             "Build Number":"2210222",
-            "Version":"vCenter Server Appliance 5.0 U3c",
+            "Version":"vCenter Server 5.0 U3c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2213719"
+            "Installer Build Number":"2215678",
+            "Registry\/Release Notes":null
         },
         {
             "index":242,
-            "Version - Release Name":null,
-            "Release Date":"2014-10-01T00:00:00.000Z",
-            "VAMI\/Release Notes":null,
-            "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1917469",
-            "Version":"vCenter Server Appliance 5.0 U3b",
-            "Release Name":null,
-            "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"2170782"
-        },
-        {
-            "index":243,
             "Version - Release Name":null,
             "Release Date":"2014-07-01T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
             "Build Number":"1917469",
-            "Version":"vCenter Server Appliance 5.0 U3a",
+            "Version":"vCenter Server 5.0 U3a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"1923445"
+            "Installer Build Number":"1923446",
+            "Registry\/Release Notes":null
         },
         {
-            "index":244,
+            "index":243,
             "Version - Release Name":null,
             "Release Date":"2013-10-17T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"1302764",
-            "Version":"vCenter Server Appliance 5.0 U3",
+            "Build Number":"1300600",
+            "Version":"vCenter Server 5.0 U3",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":"1343691",
+            "Registry\/Release Notes":null
         },
         {
-            "index":245,
+            "index":244,
             "Version - Release Name":null,
             "Release Date":"2012-12-20T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"920217",
-            "Version":"vCenter Server Appliance 5.0 U2",
+            "Build Number":"913577",
+            "Version":"vCenter Server 5.0 U2",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":"923238",
+            "Registry\/Release Notes":null
         },
         {
-            "index":246,
+            "index":245,
             "Version - Release Name":null,
             "Release Date":"2012-08-16T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
             "Build Number":"804277",
-            "Version":"vCenter Server Appliance 5.0 U1b",
+            "Version":"vCenter Server 5.0 U1b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"804279"
+            "Installer Build Number":"804276",
+            "Registry\/Release Notes":null
         },
         {
-            "index":247,
+            "index":246,
             "Version - Release Name":null,
             "Release Date":"2012-07-12T00:00:00.000Z",
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
-            "Build Number":"759855",
-            "Version":"vCenter Server Appliance 5.0 U1a",
+            "Build Number":"755629",
+            "Version":"vCenter Server 5.0 U1a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":"757163",
+            "Registry\/Release Notes":null
+        },
+        {
+            "index":247,
+            "Version - Release Name":null,
+            "Release Date":"2012-03-15T00:00:00.000Z",
+            "VAMI\/Release Notes":null,
+            "Client\/MOB\/vpxd.log":null,
+            "Build Number":"623373",
+            "Version":"vCenter Server 5.0 U1",
+            "Release Name":null,
+            "Edition":"Windows",
+            "Installer Build Number":"639890",
+            "Registry\/Release Notes":null
         },
         {
             "index":248,
@@ -3283,11 +3283,11 @@
             "VAMI\/Release Notes":null,
             "Client\/MOB\/vpxd.log":null,
             "Build Number":"455964",
-            "Version":"vCenter Server Appliance 5.0 GA",
+            "Version":"vCenter Server 5.0 GA",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"472350"
+            "Installer Build Number":"456005",
+            "Registry\/Release Notes":null
         },
         {
             "index":249,
@@ -3299,8 +3299,8 @@
             "Version":"vCenter Server 4.1 U3a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"978694"
+            "Installer Build Number":"978694",
+            "Registry\/Release Notes":null
         },
         {
             "index":250,
@@ -3312,8 +3312,8 @@
             "Version":"vCenter Server 4.1 U3",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"799345"
+            "Installer Build Number":"799345",
+            "Registry\/Release Notes":null
         },
         {
             "index":251,
@@ -3325,8 +3325,8 @@
             "Version":"vCenter Server 4.1 U2",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"493063"
+            "Installer Build Number":"493063",
+            "Registry\/Release Notes":null
         },
         {
             "index":252,
@@ -3338,8 +3338,8 @@
             "Version":"vCenter Server 4.1 U1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"345042"
+            "Installer Build Number":"345042",
+            "Registry\/Release Notes":null
         },
         {
             "index":253,
@@ -3351,8 +3351,8 @@
             "Version":"vCenter Server 4.1 GA",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"259021"
+            "Installer Build Number":"259021",
+            "Registry\/Release Notes":null
         },
         {
             "index":254,
@@ -3364,8 +3364,8 @@
             "Version":"vCenter Server 4.0 Update 4b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"934018"
+            "Installer Build Number":"934018",
+            "Registry\/Release Notes":null
         },
         {
             "index":255,
@@ -3377,8 +3377,8 @@
             "Version":"vCenter Server 4.0 Update 4a",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"792836"
+            "Installer Build Number":"792836",
+            "Registry\/Release Notes":null
         },
         {
             "index":256,
@@ -3390,8 +3390,8 @@
             "Version":"vCenter Server 4.0 U4",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"502539"
+            "Installer Build Number":"502539",
+            "Registry\/Release Notes":null
         },
         {
             "index":257,
@@ -3403,8 +3403,8 @@
             "Version":"vCenter Server 4.0 U3",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"387869"
+            "Installer Build Number":"387869",
+            "Registry\/Release Notes":null
         },
         {
             "index":258,
@@ -3416,8 +3416,8 @@
             "Version":"vCenter Server 4.0 U2",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"264050"
+            "Installer Build Number":"264050",
+            "Registry\/Release Notes":null
         },
         {
             "index":259,
@@ -3429,8 +3429,8 @@
             "Version":"vCenter Server 4.0 U1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"208156"
+            "Installer Build Number":"208156",
+            "Registry\/Release Notes":null
         },
         {
             "index":260,
@@ -3442,8 +3442,8 @@
             "Version":"vCenter Server 4.0 Patch 1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":261,
@@ -3455,8 +3455,8 @@
             "Version":"vCenter Server 4.0 GA",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":"162902"
+            "Installer Build Number":"162902",
+            "Registry\/Release Notes":null
         },
         {
             "index":262,
@@ -3468,8 +3468,8 @@
             "Version":"VirtualCenter 2.5.0 U6c",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":263,
@@ -3481,8 +3481,8 @@
             "Version":"VirtualCenter 2.5.0 U6b",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":264,
@@ -3494,8 +3494,8 @@
             "Version":"VirtualCenter 2.5.0 U6a#",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":265,
@@ -3507,8 +3507,8 @@
             "Version":"VirtualCenter 2.5.0 U6 Localized",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":266,
@@ -3520,8 +3520,8 @@
             "Version":"VirtualCenter 2.5.0 U6 English",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":267,
@@ -3533,8 +3533,8 @@
             "Version":"VirtualCenter 2.5.0 U5 Localized",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":268,
@@ -3546,8 +3546,8 @@
             "Version":"VirtualCenter 2.5.0 U5 English",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":269,
@@ -3559,8 +3559,8 @@
             "Version":"VirtualCenter 2.5.0 U4 Localized",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":270,
@@ -3572,8 +3572,8 @@
             "Version":"VirtualCenter 2.5.0 U4 German",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":271,
@@ -3585,8 +3585,8 @@
             "Version":"VirtualCenter 2.5.0 U4 English",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":272,
@@ -3598,8 +3598,8 @@
             "Version":"VirtualCenter 2.5.0 U3",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":273,
@@ -3611,8 +3611,8 @@
             "Version":"VirtualCenter 2.5.0 U2",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":274,
@@ -3624,8 +3624,8 @@
             "Version":"VirtualCenter 2.5.0 U1",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         },
         {
             "index":275,
@@ -3637,8 +3637,8 @@
             "Version":"VirtualCenter 2.5.0 GA",
             "Release Name":null,
             "Edition":"Windows",
-            "Registry\/Release Notes":null,
-            "Installer Build Number":null
+            "Installer Build Number":null,
+            "Registry\/Release Notes":null
         }
     ]
 }
