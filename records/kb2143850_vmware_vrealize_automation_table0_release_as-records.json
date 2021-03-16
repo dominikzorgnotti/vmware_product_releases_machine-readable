@@ -1,5 +1,13 @@
 [
     {
+        "Product Release":"vRealize Automation 8.3 P1",
+        "Release Date":"2021-03-16T00:00:00.000Z",
+        "Build Number -\u00a0Version":"17746788 - 8.3.0.15127",
+        "Installer Build Number":null,
+        "Build Number":"17746788",
+        "Version":"8.3.0.15127"
+    },
+    {
         "Product Release":"vRealize Automation 8.3",
         "Release Date":"2021-02-05T00:00:00.000Z",
         "Build Number -\u00a0Version":"17551690 - 8.3.0.15015",
@@ -110,6 +118,14 @@
         "Installer Build Number":"14878991 - 1.0.0.262",
         "Build Number":"14842736",
         "Version":"8.0.0.6619"
+    },
+    {
+        "Product Release":"vRealize Automation 7.6 P20",
+        "Release Date":"2021-02-19T00:00:00.000Z",
+        "Build Number -\u00a0Version":"17293757 - 7.6.0.17407",
+        "Installer Build Number":null,
+        "Build Number":"17293757",
+        "Version":"7.6.0.17407"
     },
     {
         "Product Release":"vRealize Automation 7.6 P19",
