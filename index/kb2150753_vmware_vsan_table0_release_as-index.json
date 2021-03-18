@@ -1,4 +1,10 @@
 {
+    "17630552":{
+        "vSAN version":"vSAN 7.0 Update 2",
+        "ESXi version":"ESXi 7.0 Update 2",
+        "Release Date":"2021-03-09T00:00:00.000Z",
+        "vSAN on-disk format version":"14"
+    },
     "17325551":{
         "vSAN version":"vSAN 7.0 Update 1(c)",
         "ESXi version":"ESXi 7.0 Update 1c",
