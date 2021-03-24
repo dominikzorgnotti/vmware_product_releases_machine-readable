@@ -45,7 +45,7 @@
     },
     "data":[
         {
-            "index":27,
+            "index":28,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3l",
             "Release Date":"2020-11-19T00:00:00.000Z",
@@ -56,7 +56,7 @@
             "Release Name":null
         },
         {
-            "index":28,
+            "index":29,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3k",
             "Release Date":"2020-10-22T00:00:00.000Z",
@@ -67,7 +67,7 @@
             "Release Name":null
         },
         {
-            "index":29,
+            "index":30,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3j",
             "Release Date":"2020-08-20T00:00:00.000Z",
@@ -78,7 +78,7 @@
             "Release Name":null
         },
         {
-            "index":30,
+            "index":31,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3i",
             "Release Date":"2020-07-30T00:00:00.000Z",
@@ -89,7 +89,7 @@
             "Release Name":null
         },
         {
-            "index":31,
+            "index":32,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3h",
             "Release Date":"2020-05-28T00:00:00.000Z",
@@ -100,7 +100,7 @@
             "Release Name":null
         },
         {
-            "index":32,
+            "index":33,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3g",
             "Release Date":"2020-04-28T00:00:00.000Z",
@@ -111,7 +111,7 @@
             "Release Name":null
         },
         {
-            "index":33,
+            "index":34,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3f",
             "Release Date":"2020-04-09T00:00:00.000Z",
@@ -122,7 +122,7 @@
             "Release Name":null
         },
         {
-            "index":34,
+            "index":35,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3e",
             "Release Date":"2020-03-26T00:00:00.000Z",
@@ -133,7 +133,7 @@
             "Release Name":null
         },
         {
-            "index":35,
+            "index":36,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3d",
             "Release Date":"2020-02-27T00:00:00.000Z",
@@ -144,7 +144,7 @@
             "Release Name":null
         },
         {
-            "index":36,
+            "index":37,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3c",
             "Release Date":"2020-01-30T00:00:00.000Z",
@@ -155,7 +155,7 @@
             "Release Name":null
         },
         {
-            "index":37,
+            "index":38,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3b (6.7.0.42000)",
             "Release Date":"2019-12-05T00:00:00.000Z",
@@ -166,7 +166,7 @@
             "Release Name":"6.7.0.42000"
         },
         {
-            "index":38,
+            "index":39,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3a (6.7.0.41000)",
             "Release Date":"2019-10-24T00:00:00.000Z",
@@ -177,7 +177,7 @@
             "Release Name":"6.7.0.41000"
         },
         {
-            "index":39,
+            "index":40,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 3 (6.7.0.40000)",
             "Release Date":"2019-08-20T00:00:00.000Z",
@@ -188,7 +188,7 @@
             "Release Name":"6.7.0.40000"
         },
         {
-            "index":40,
+            "index":41,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 2b (6.7.0.31100)",
             "Release Date":"2019-05-14T00:00:00.000Z",
@@ -199,7 +199,7 @@
             "Release Name":"6.7.0.31100"
         },
         {
-            "index":41,
+            "index":42,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 Update 2a (6.7.0.31000)",
             "Release Date":"2019-05-14T00:00:00.000Z",
@@ -210,7 +210,7 @@
             "Release Name":"6.7.0.31000"
         },
         {
-            "index":42,
+            "index":43,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 U2 (6.7.0.30000)",
             "Release Date":"2019-04-11T00:00:00.000Z",
@@ -221,7 +221,7 @@
             "Release Name":"6.7.0.30000"
         },
         {
-            "index":43,
+            "index":44,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 U1b (6.7.0.21000)",
             "Release Date":"2019-01-17T00:00:00.000Z",
@@ -232,7 +232,7 @@
             "Release Name":"6.7.0.21000"
         },
         {
-            "index":44,
+            "index":45,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 U1 (6.7.0.20000)",
             "Release Date":"2018-10-16T00:00:00.000Z",
@@ -243,7 +243,7 @@
             "Release Name":"6.7.0.20000"
         },
         {
-            "index":45,
+            "index":46,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7d (6.7.0.14000)",
             "Release Date":"2018-08-14T00:00:00.000Z",
@@ -254,7 +254,7 @@
             "Release Name":"6.7.0.14000"
         },
         {
-            "index":46,
+            "index":47,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7c (6.7.0.13000)",
             "Release Date":"2018-07-26T00:00:00.000Z",
@@ -265,7 +265,7 @@
             "Release Name":"6.7.0.13000"
         },
         {
-            "index":47,
+            "index":48,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7b (6.7.0.12000)",
             "Release Date":"2018-06-28T00:00:00.000Z",
@@ -276,7 +276,7 @@
             "Release Name":"6.7.0.12000"
         },
         {
-            "index":48,
+            "index":49,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7a (6.7.0.11000)",
             "Release Date":"2018-05-22T00:00:00.000Z",
@@ -287,7 +287,7 @@
             "Release Name":"6.7.0.11000"
         },
         {
-            "index":49,
+            "index":50,
             "Edition":"Windows",
             "Version - Release Name":"vCenter Windows 6.7 (6.7.0.10000)",
             "Release Date":"2018-04-17T00:00:00.000Z",
@@ -298,7 +298,7 @@
             "Release Name":"6.7.0.10000"
         },
         {
-            "index":50,
+            "index":51,
             "Edition":"Windows",
             "Version - Release Name":null,
             "Release Date":null,

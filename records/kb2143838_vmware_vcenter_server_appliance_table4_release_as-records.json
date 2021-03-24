@@ -1,5 +1,12 @@
 [
     {
+        "Version":"vCenter Server 6.5.0 U3o",
+        "Release Date":"2021-03-23T00:00:00.000Z",
+        "Build Number":"17720264",
+        "Installer Build Number":null,
+        "Edition":"Windows"
+    },
+    {
         "Version":"vCenter Server 6.5u3n",
         "Release Date":"2021-02-23T00:00:00.000Z",
         "Build Number":"17590285",

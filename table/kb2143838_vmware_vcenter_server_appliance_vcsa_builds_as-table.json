@@ -170,6 +170,18 @@
         },
         {
             "index":10,
+            "Version - Release Name":"vCenter Appliance 6.7 Update 3m (6.7.0.47000)",
+            "Release Date":"2021-03-18T00:00:00.000Z",
+            "VAMI\/Release Notes":"17713310",
+            "Client\/MOB\/vpxd.log":"17712750",
+            "Build Number":"17712750",
+            "Version":"vCenter Appliance 6.7 Update 3m",
+            "Release Name":"6.7.0.47000",
+            "Edition":"VCSA",
+            "Installer Build Number":null
+        },
+        {
+            "index":11,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3l (6.7.0.46000)",
             "Release Date":"2020-11-19T00:00:00.000Z",
             "VAMI\/Release Notes":"17138064",
@@ -181,7 +193,7 @@
             "Installer Build Number":null
         },
         {
-            "index":11,
+            "index":12,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3k (6.7.0.45100)",
             "Release Date":"2020-10-22T00:00:00.000Z",
             "VAMI\/Release Notes":"17028579",
@@ -193,7 +205,7 @@
             "Installer Build Number":null
         },
         {
-            "index":12,
+            "index":13,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3j (6.7.0.45000)",
             "Release Date":"2020-08-20T00:00:00.000Z",
             "VAMI\/Release Notes":"16708996",
@@ -205,7 +217,7 @@
             "Installer Build Number":null
         },
         {
-            "index":13,
+            "index":14,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3i (6.7.0.44200)",
             "Release Date":"2020-07-30T00:00:00.000Z",
             "VAMI\/Release Notes":"16616482",
@@ -217,7 +229,7 @@
             "Installer Build Number":null
         },
         {
-            "index":14,
+            "index":15,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3h (6.7.0.44100)",
             "Release Date":"2020-05-28T00:00:00.000Z",
             "VAMI\/Release Notes":"16275304",
@@ -229,7 +241,7 @@
             "Installer Build Number":null
         },
         {
-            "index":15,
+            "index":16,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3g (6.7.0.44000)",
             "Release Date":"2020-04-28T00:00:00.000Z",
             "VAMI\/Release Notes":"16046470",
@@ -241,7 +253,7 @@
             "Installer Build Number":null
         },
         {
-            "index":16,
+            "index":17,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3f (6.7.0.43000)",
             "Release Date":"2020-04-09T00:00:00.000Z",
             "VAMI\/Release Notes":"15976714",
@@ -253,7 +265,7 @@
             "Installer Build Number":null
         },
         {
-            "index":17,
+            "index":18,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3e (6.7.0.42300)",
             "Release Date":"2020-03-26T00:00:00.000Z",
             "VAMI\/Release Notes":"15808844",
@@ -265,7 +277,7 @@
             "Installer Build Number":null
         },
         {
-            "index":18,
+            "index":19,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3d (6.7.0.42200)",
             "Release Date":"2020-02-27T00:00:00.000Z",
             "VAMI\/Release Notes":"15679281",
@@ -277,7 +289,7 @@
             "Installer Build Number":null
         },
         {
-            "index":19,
+            "index":20,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3c (6.7.0.42100)",
             "Release Date":"2020-01-30T00:00:00.000Z",
             "VAMI\/Release Notes":"15505668",
@@ -289,7 +301,7 @@
             "Installer Build Number":null
         },
         {
-            "index":20,
+            "index":21,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3b (6.7.0.42000)",
             "Release Date":"2019-12-05T00:00:00.000Z",
             "VAMI\/Release Notes":"15132721",
@@ -301,7 +313,7 @@
             "Installer Build Number":null
         },
         {
-            "index":21,
+            "index":22,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3a (6.7.0.41000)",
             "Release Date":"2019-10-24T00:00:00.000Z",
             "VAMI\/Release Notes":"14836122",
@@ -313,7 +325,7 @@
             "Installer Build Number":null
         },
         {
-            "index":22,
+            "index":23,
             "Version - Release Name":"vCenter Appliance 6.7 Update 3 (6.7.0.40000)",
             "Release Date":"2019-08-20T00:00:00.000Z",
             "VAMI\/Release Notes":"14367737",
@@ -325,7 +337,7 @@
             "Installer Build Number":null
         },
         {
-            "index":23,
+            "index":24,
             "Version - Release Name":"vCenter Appliance 6.7 Update 2c (6.7.0.32000)",
             "Release Date":"2019-07-16T00:00:00.000Z",
             "VAMI\/Release Notes":"14070457",
@@ -337,7 +349,7 @@
             "Installer Build Number":null
         },
         {
-            "index":24,
+            "index":25,
             "Version - Release Name":"vCenter Appliance 6.7 Update 2b (6.7.0.31100)",
             "Release Date":"2019-05-30T00:00:00.000Z",
             "VAMI\/Release Notes":"13843380",
@@ -349,7 +361,7 @@
             "Installer Build Number":null
         },
         {
-            "index":25,
+            "index":26,
             "Version - Release Name":"vCenter Appliance 6.7 Update 2a (6.7.0.31000)",
             "Release Date":"2019-05-14T00:00:00.000Z",
             "VAMI\/Release Notes":"13643870",
@@ -361,7 +373,7 @@
             "Installer Build Number":null
         },
         {
-            "index":26,
+            "index":27,
             "Version - Release Name":"vCenter Appliance 6.7 U2 (6.7.0.30000)",
             "Release Date":"2019-04-11T00:00:00.000Z",
             "VAMI\/Release Notes":"13010631",
@@ -373,7 +385,7 @@
             "Installer Build Number":null
         },
         {
-            "index":27,
+            "index":28,
             "Version - Release Name":"vCenter Appliance 6.7 U1b (6.7.0.21000)",
             "Release Date":"2019-01-17T00:00:00.000Z",
             "VAMI\/Release Notes":"11726888",
@@ -385,7 +397,7 @@
             "Installer Build Number":null
         },
         {
-            "index":28,
+            "index":29,
             "Version - Release Name":"vCenter Appliance 6.7 U1a (6.7.0.20100)",
             "Release Date":"2018-12-20T00:00:00.000Z",
             "VAMI\/Release Notes":"11338176",
@@ -397,7 +409,7 @@
             "Installer Build Number":null
         },
         {
-            "index":29,
+            "index":30,
             "Version - Release Name":"vCenter Appliance 6.7 U1 (6.7.0.20000)",
             "Release Date":"2018-10-16T00:00:00.000Z",
             "VAMI\/Release Notes":"10244745",
@@ -409,7 +421,7 @@
             "Installer Build Number":null
         },
         {
-            "index":30,
+            "index":31,
             "Version - Release Name":"vCenter Appliance 6.7d (6.7.0.14000)",
             "Release Date":"2018-08-14T00:00:00.000Z",
             "VAMI\/Release Notes":"9451876",
@@ -421,7 +433,7 @@
             "Installer Build Number":null
         },
         {
-            "index":31,
+            "index":32,
             "Version - Release Name":"vCenter Appliance 6.7c (6.7.0.13000)",
             "Release Date":"2018-07-26T00:00:00.000Z",
             "VAMI\/Release Notes":"9232925",
@@ -433,7 +445,7 @@
             "Installer Build Number":null
         },
         {
-            "index":32,
+            "index":33,
             "Version - Release Name":"vCenter Appliance 6.7b (6.7.0.12000)",
             "Release Date":"2018-06-28T00:00:00.000Z",
             "VAMI\/Release Notes":"8832884",
@@ -445,7 +457,7 @@
             "Installer Build Number":null
         },
         {
-            "index":33,
+            "index":34,
             "Version - Release Name":"vCenter Appliance 6.7a (6.7.0.11000)",
             "Release Date":"2018-05-22T00:00:00.000Z",
             "VAMI\/Release Notes":"8546234",
@@ -453,18 +465,6 @@
             "Build Number":"8546293",
             "Version":"vCenter Appliance 6.7a",
             "Release Name":"6.7.0.11000",
-            "Edition":"VCSA",
-            "Installer Build Number":null
-        },
-        {
-            "index":34,
-            "Version - Release Name":"vCenter Appliance 6.7 (6.7.0.10000)",
-            "Release Date":"2018-04-17T00:00:00.000Z",
-            "VAMI\/Release Notes":"8217866",
-            "Client\/MOB\/vpxd.log":"8170161",
-            "Build Number":"8170161",
-            "Version":"vCenter Appliance 6.7",
-            "Release Name":"6.7.0.10000",
             "Edition":"VCSA",
             "Installer Build Number":null
         },

@@ -239,6 +239,16 @@
         "Release Name":null,
         "Installer Build Number":null
     },
+    "17720264":{
+        "Edition":"Windows",
+        "Version - Release Name":null,
+        "Release Date":"2021-03-23T00:00:00.000Z",
+        "Registry\/Release Notes":null,
+        "Client\/MOB\/vpxd.log":null,
+        "Version":"vCenter Server 6.5.0 U3o",
+        "Release Name":null,
+        "Installer Build Number":null
+    },
     "17590285":{
         "Edition":"Windows",
         "Version - Release Name":null,
