@@ -63,6 +63,13 @@
         "Installer Build Number":null
     },
     {
+        "Version":"ESXi 6.7 P05",
+        "Release Name":"ESXi670-202103001",
+        "Release Date":"2021-03-18T00:00:00.000Z",
+        "Build Number":"17700523",
+        "Installer Build Number":null
+    },
+    {
         "Version":"ESXI\u00a06.7 EP18",
         "Release Name":"ESXi670-202102001",
         "Release Date":"2021-02-23T00:00:00.000Z",
