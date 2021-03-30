@@ -1,5 +1,10 @@
 [
     {
+        "Version":"Horizon 8 2103",
+        "Release Date":"2021-03-23T00:00:00.000Z",
+        "Build Number":"8.2.0.17736878"
+    },
+    {
         "Version":"Horizon 8 2012",
         "Release Date":"2021-01-07T00:00:00.000Z",
         "Build Number":"8.1.0.17351278"
