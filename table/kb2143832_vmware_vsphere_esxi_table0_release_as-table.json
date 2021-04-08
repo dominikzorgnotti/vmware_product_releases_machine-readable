@@ -708,7 +708,7 @@
             "index":85,
             "Version":"ESXi 6.0 Update 1 (VMSA-2017-0006)",
             "Release Name":"ESXi600-201703002",
-            "Release Date":null,
+            "Release Date":"2017-03-28T00:00:00.000Z",
             "Build Number":"5251621",
             "Installer Build Number":null
         },

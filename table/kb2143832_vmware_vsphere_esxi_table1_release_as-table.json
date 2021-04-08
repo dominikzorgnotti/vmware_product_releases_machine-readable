@@ -1,0 +1,37 @@
+{
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"Version",
+                "type":"string"
+            },
+            {
+                "name":"Release Name",
+                "type":"string"
+            },
+            {
+                "name":"Release Date",
+                "type":"datetime"
+            },
+            {
+                "name":"Build Number",
+                "type":"string"
+            },
+            {
+                "name":"Installer Build Number",
+                "type":"string"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"0.20.0"
+    },
+    "data":[
+
+    ]
+}
