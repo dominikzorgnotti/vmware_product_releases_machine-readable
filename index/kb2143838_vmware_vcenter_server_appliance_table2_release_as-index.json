@@ -1,93 +1,102 @@
 {
+    "17712713":{
+        "Edition":"Windows",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3m (6.7.0.47000)",
+        "Release Date":"2021-03-18T00:00:00.000Z",
+        "Registry\/Release Notes":"17713310",
+        "Client\/MOB\/vpxd.log":"17712713",
+        "Version":"vCenter Windows 6.7 Update 3m",
+        "Release Name":"6.7.0.47000"
+    },
     "17137232":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3l",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3l (6.7.0.46000)",
         "Release Date":"2020-11-19T00:00:00.000Z",
         "Registry\/Release Notes":"17138064",
         "Client\/MOB\/vpxd.log":"17137232",
         "Version":"vCenter Windows 6.7 Update 3l",
-        "Release Name":null
+        "Release Name":"6.7.0.46000"
     },
     "17028620":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3k",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3k (6.7.0.45100)",
         "Release Date":"2020-10-22T00:00:00.000Z",
         "Registry\/Release Notes":"17028579",
         "Client\/MOB\/vpxd.log":"17028620",
         "Version":"vCenter Windows 6.7 Update 3k",
-        "Release Name":null
+        "Release Name":"6.7.0.45100"
     },
     "16709044":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3j",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3j (6.7.0.45000)",
         "Release Date":"2020-08-20T00:00:00.000Z",
         "Registry\/Release Notes":"16708996",
         "Client\/MOB\/vpxd.log":"16709044",
         "Version":"vCenter Windows 6.7 Update 3j",
-        "Release Name":null
+        "Release Name":"6.7.0.45000"
     },
     "16616655":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3i",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3i (6.7.0.44200)",
         "Release Date":"2020-07-30T00:00:00.000Z",
         "Registry\/Release Notes":"16616482",
         "Client\/MOB\/vpxd.log":"16616655",
         "Version":"vCenter Windows 6.7 Update 3i",
-        "Release Name":null
+        "Release Name":"6.7.0.44200"
     },
     "16243225":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3h",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3h (6.7.0.44100)",
         "Release Date":"2020-05-28T00:00:00.000Z",
         "Registry\/Release Notes":"16275304",
         "Client\/MOB\/vpxd.log":"16243225",
         "Version":"vCenter Windows 6.7 Update 3h",
-        "Release Name":null
+        "Release Name":"6.7.0.44100"
     },
     "16046671":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3g",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3g (6.7.0.44000)",
         "Release Date":"2020-04-28T00:00:00.000Z",
         "Registry\/Release Notes":"16046470",
         "Client\/MOB\/vpxd.log":"16046671",
         "Version":"vCenter Windows 6.7 Update 3g",
-        "Release Name":null
+        "Release Name":"6.7.0.44000"
     },
     "15976721":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3f",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3f (6.7.0.43000)",
         "Release Date":"2020-04-09T00:00:00.000Z",
         "Registry\/Release Notes":"15976714",
         "Client\/MOB\/vpxd.log":"15976721",
         "Version":"vCenter Windows 6.7 Update 3f",
-        "Release Name":null
+        "Release Name":"6.7.0.43000"
     },
     "15807675":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3e",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3e (6.7.0.42300)",
         "Release Date":"2020-03-26T00:00:00.000Z",
         "Registry\/Release Notes":"15808844",
         "Client\/MOB\/vpxd.log":"15807675",
         "Version":"vCenter Windows 6.7 Update 3e",
-        "Release Name":null
+        "Release Name":"6.7.0.42300"
     },
     "15679284":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3d",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3d (6.7.0.42200)",
         "Release Date":"2020-02-27T00:00:00.000Z",
         "Registry\/Release Notes":"15679281",
         "Client\/MOB\/vpxd.log":"15679284",
         "Version":"vCenter Windows 6.7 Update 3d",
-        "Release Name":null
+        "Release Name":"6.7.0.42200"
     },
     "15505671":{
         "Edition":"Windows",
-        "Version - Release Name":"vCenter Windows 6.7 Update 3c",
+        "Version - Release Name":"vCenter Windows 6.7 Update 3c (6.7.0.42100)",
         "Release Date":"2020-01-30T00:00:00.000Z",
         "Registry\/Release Notes":"15505668",
         "Client\/MOB\/vpxd.log":"15505671",
         "Version":"vCenter Windows 6.7 Update 3c",
-        "Release Name":null
+        "Release Name":"6.7.0.42100"
     },
     "15129938":{
         "Edition":"Windows",

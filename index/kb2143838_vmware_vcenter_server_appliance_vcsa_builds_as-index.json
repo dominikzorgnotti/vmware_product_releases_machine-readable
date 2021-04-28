@@ -1,4 +1,14 @@
 {
+    "17920168":{
+        "Version - Release Name":"vCenter Server 7.0 Update 2a (7.0.2.00100)",
+        "Release Date":"2021-04-27T00:00:00.000Z",
+        "VAMI\/Release Notes":17920168,
+        "Client\/MOB\/vpxd.log":17920168,
+        "Version":"vCenter Server 7.0 Update 2a",
+        "Release Name":"7.0.2.00100",
+        "Edition":"VCSA",
+        "Installer Build Number":null
+    },
     "17694817":{
         "Version - Release Name":"vCenter Server 7.0 Update 2 (7.0.2.00000)",
         "Release Date":"2021-03-09T00:00:00.000Z",

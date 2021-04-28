@@ -46,6 +46,17 @@
     "data":[
         {
             "index":0,
+            "Version - Release Name":"vCenter Server 7.0 Update 2a (7.0.2.00100)",
+            "Release Date":"2021-04-27T00:00:00.000Z",
+            "VAMI\/Release Notes":17920168,
+            "Client\/MOB\/vpxd.log":17920168,
+            "Build Number":17920168,
+            "Version":"vCenter Server 7.0 Update 2a",
+            "Release Name":"7.0.2.00100",
+            "Edition":"VCSA"
+        },
+        {
+            "index":1,
             "Version - Release Name":"vCenter Server 7.0 Update 2 (7.0.2.00000)",
             "Release Date":"2021-03-09T00:00:00.000Z",
             "VAMI\/Release Notes":17694817,
@@ -56,7 +67,7 @@
             "Edition":"VCSA"
         },
         {
-            "index":1,
+            "index":2,
             "Version - Release Name":"vCenter Server 7.0 update 1d (7.0.1.00300)",
             "Release Date":"2021-02-02T00:00:00.000Z",
             "VAMI\/Release Notes":17491101,
@@ -67,7 +78,7 @@
             "Edition":"VCSA"
         },
         {
-            "index":2,
+            "index":3,
             "Version - Release Name":"vCenter Server 7.0 update 1c (7.0.1.00200)",
             "Release Date":"2020-12-17T00:00:00.000Z",
             "VAMI\/Release Notes":17327517,
@@ -78,7 +89,7 @@
             "Edition":"VCSA"
         },
         {
-            "index":3,
+            "index":4,
             "Version - Release Name":"vCenter Server 7.0 update 1a (7.0.1.00100)",
             "Release Date":"2020-10-22T00:00:00.000Z",
             "VAMI\/Release Notes":17004997,
@@ -89,7 +100,7 @@
             "Edition":"VCSA"
         },
         {
-            "index":4,
+            "index":5,
             "Version - Release Name":"vCenter Server 7.0 Update 1 (7.0.1.00000)",
             "Release Date":"2020-10-06T00:00:00.000Z",
             "VAMI\/Release Notes":16860138,
@@ -100,7 +111,7 @@
             "Edition":"VCSA"
         },
         {
-            "index":5,
+            "index":6,
             "Version - Release Name":"vCenter Server 7.0.0d (7.0.0.10700)",
             "Release Date":"2020-08-25T00:00:00.000Z",
             "VAMI\/Release Notes":16749653,
@@ -111,7 +122,7 @@
             "Edition":"VCSA"
         },
         {
-            "index":6,
+            "index":7,
             "Version - Release Name":"vCenter Server 7.0.0c (7.0.0.10600)",
             "Release Date":"2020-07-30T00:00:00.000Z",
             "VAMI\/Release Notes":16620007,
@@ -122,7 +133,7 @@
             "Edition":"VCSA"
         },
         {
-            "index":7,
+            "index":8,
             "Version - Release Name":"vCenter Server 7.0.0b (7.0.0.10400)",
             "Release Date":"2020-06-23T00:00:00.000Z",
             "VAMI\/Release Notes":16386292,
@@ -133,7 +144,7 @@
             "Edition":"VCSA"
         },
         {
-            "index":8,
+            "index":9,
             "Version - Release Name":"vCenter Server 7.0.0a (7.0.0.10300)",
             "Release Date":"2020-05-19T00:00:00.000Z",
             "VAMI\/Release Notes":16189094,
@@ -144,7 +155,7 @@
             "Edition":"VCSA"
         },
         {
-            "index":9,
+            "index":10,
             "Version - Release Name":"vCenter Server 7.0 GA (7.0.0.10100)",
             "Release Date":"2020-04-02T00:00:00.000Z",
             "VAMI\/Release Notes":15952498,
