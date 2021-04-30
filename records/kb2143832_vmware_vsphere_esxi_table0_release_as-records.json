@@ -1,5 +1,12 @@
 [
     {
+        "Version":"ESXi 7.0 Update 2a",
+        "Release Name":"ESXi 7.0 Update 2a",
+        "Release Date":"2021-04-29T00:00:00.000Z",
+        "Build Number":"17867351",
+        "Installer Build Number":null
+    },
+    {
         "Version":"ESXi 7.0 Update 2",
         "Release Name":"ESXi 7.0 Update 2",
         "Release Date":"2021-03-09T00:00:00.000Z",
