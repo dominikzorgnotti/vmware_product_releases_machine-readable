@@ -102,6 +102,26 @@
         },
         {
             "index":2,
+            "VCF Release1,2":"Version 3.10.2 Build:\u00a016223257",
+            "GA Date":"14 APR 2021",
+            "Depends On":null,
+            "VMware Cloud Foundation Software Components":"v:3.10.1 B:16223257",
+            "VMware Cloud Foundation Software Components":"v:3.10.2 B:17854560",
+            "VMware Cloud Foundation Software Components":"v:6.7 U3M B:17713310",
+            "VMware Cloud Foundation Software Components":"v:6.7 P05 B:17700523",
+            "VMware Cloud Foundation Software Components":"V1: 11.0.5 V2:\u00a016075168",
+            "VMware Cloud Foundation Software Components":"v: 6.7 EP16 B: 16632180",
+            "VMware Cloud Foundation Software Components":"v:6.4.10 B:17626462",
+            "VMware Cloud Foundation Software Components":"v:2.5.3 B:17558879",
+            "VMware Cloud Foundation Software Components":"V: 4.8 B: 13036238",
+            "VMware Cloud Foundation Software Components":"V: 7.5 B: 13165949",
+            "VMware Cloud Foundation Software Components":"V: 7.6 B: 13027280",
+            "VMware Cloud Foundation Software Components":"V: 2.1 P2 B: 16154511",
+            "VMware Cloud Foundation Software Components":null,
+            "nan":"V:\u00a01.7 B:\u00a016116522"
+        },
+        {
+            "index":3,
             "VCF Release1,2":"Version 3.10.1.2 Build:\u00a016223257",
             "GA Date":"24 NOV 2020",
             "Depends On":null,
@@ -121,7 +141,7 @@
             "nan":"V:\u00a01.7 B:\u00a016116522"
         },
         {
-            "index":3,
+            "index":4,
             "VCF Release1,2":"Version 3.10.1.1 Build:\u00a016223257",
             "GA Date":"20 OCT 2020",
             "Depends On":null,
@@ -141,7 +161,7 @@
             "nan":"V:\u00a01.7 B:\u00a016116522"
         },
         {
-            "index":4,
+            "index":5,
             "VCF Release1,2":"Version 3.10.1 Build:\u00a016223257",
             "GA Date":"8 Sept 2020",
             "Depends On":null,
@@ -161,7 +181,7 @@
             "nan":"V:\u00a01.7 B:\u00a016116522"
         },
         {
-            "index":5,
+            "index":6,
             "VCF Release1,2":"Version 3.10 Build:\u00a016223257",
             "GA Date":"26 May 2020",
             "Depends On":null,

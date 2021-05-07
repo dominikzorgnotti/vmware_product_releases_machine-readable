@@ -1,4 +1,18 @@
 {
+    "TBA":{
+        "Product Release":"vRealize Automation 8.4.1",
+        "Release Date":null,
+        "Build Number -\u00a0Version":"TBA",
+        "Installer Build Number":"TBA",
+        "Version":null
+    },
+    "17874359":{
+        "Product Release":"vRealize Automation 8.4",
+        "Release Date":"2021-04-15T00:00:00.000Z",
+        "Build Number -\u00a0Version":"17874359 - 8.4.0.16324",
+        "Installer Build Number":"17879649 - 1.0.0.842",
+        "Version":"8.4.0.16324"
+    },
     "17746788":{
         "Product Release":"vRealize Automation 8.3 P1",
         "Release Date":"2021-03-16T00:00:00.000Z",

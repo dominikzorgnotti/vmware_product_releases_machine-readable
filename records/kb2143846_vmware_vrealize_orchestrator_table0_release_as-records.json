@@ -1,5 +1,23 @@
 [
     {
+        "Product Release":"vRealize Orchestrator 8.4.1",
+        "Release Date":null,
+        "Build Number - Version":"TBA",
+        "Installer Build Number":null
+    },
+    {
+        "Product Release":"vRealize Orchestrator 8.4",
+        "Release Date":"2021-04-15T00:00:00.000Z",
+        "Build Number - Version":"17874360 - 8.4.0.16324",
+        "Installer Build Number":null
+    },
+    {
+        "Product Release":"vRealize Orchestrator 8.3 P1",
+        "Release Date":"2021-03-16T00:00:00.000Z",
+        "Build Number - Version":"17919068 - 8.3.0.15161",
+        "Installer Build Number":null
+    },
+    {
         "Product Release":"vRealize Orchestrator 8.3",
         "Release Date":"2021-02-05T00:00:00.000Z",
         "Build Number - Version":"17535332 - 8.3.0.15012",
